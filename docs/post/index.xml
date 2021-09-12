@@ -185,40 +185,121 @@
     </item>
     
     <item>
-      <title>Display Jupyter Notebooks with academia</title>
-      <link>https://jazzmagus.github.io/math2021/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <title>La prima lezione di matematica!</title>
+      <link>https://jazzmagus.github.io/math2021/post/first-math-lesson/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jazzmagus.github.io/math2021/post/jupyter/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; IPython.core.display &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; Image
-Image(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;./academia_0_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Welcome to academia!&amp;#34;&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to academia!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
-&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-a-new-blog-post-as-usualhttpssourcethemescomacademicdocsmanaging-contentcreate-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your academia website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
-hugo new  --kind post post/my-post
-cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;jupyter notebook
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;.
+      <guid>https://jazzmagus.github.io/math2021/post/first-math-lesson/</guid>
+      <description>&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#saluti-e-presentazioni&#34;&gt;Saluti e presentazioni&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#presentazione-del-corso&#34;&gt;Presentazione del corso&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#il-metodo-di-studio-come-si-studia-la-matematica&#34;&gt;Il metodo di studio: come si studia la matematica?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#mindmapping-le-mappe-mentali&#34;&gt;mindmapping: le mappe mentali&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#materiali-didattici&#34;&gt;materiali didattici&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#la-lezione&#34;&gt;La lezione&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#la-verifica-delle-competenze&#34;&gt;La verifica delle competenze:&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#conclusioni&#34;&gt;conclusioni&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
 
-&lt;span style=&#34;color:#75715e&#34;&gt;# Copy the contents of Untitled.md and append it to index.md:&lt;/span&gt;
-cat Untitled.md | tee -a index.md
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# Remove the temporary file:&lt;/span&gt;
-rm Untitled.md
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;writing content with academia&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;saluti-e-presentazioni&#34;&gt;Saluti e presentazioni&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;test d&amp;rsquo;ingresso di matematica&lt;/strong&gt;:
+mi è stato comunicato che il giorno &lt;code&gt;16/09/2021,&lt;/code&gt; durante le prime 3 ore, si terrà il &lt;code&gt;test d&#39;ingresso di matematica&lt;/code&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;argomenti&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;proprietà delle potenze&lt;/li&gt;
+&lt;li&gt;operazioni con le frazioni&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;presentazione-del-corso&#34;&gt;Presentazione del corso&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;$\rightarrow$ &lt;em&gt;&lt;strong&gt;La matematica non è imparare formule a memoria, bensì collegare tra loro concetti.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;il-metodo-di-studio-come-si-studia-la-matematica&#34;&gt;Il metodo di studio: come si studia la matematica?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lo studio delle materie scientifiche&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;mindmapping-le-mappe-mentali&#34;&gt;mindmapping: le mappe mentali&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;./mindmap_prova.jpg&#34; alt=&#34;le mappe mentali&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;materiali-didattici&#34;&gt;materiali didattici&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Google Classroom&lt;/code&gt;:
+&lt;ul&gt;
+&lt;li&gt;comunicazioni&lt;/li&gt;
+&lt;li&gt;assegnazione compiti (eventualmente anche sul Registro El.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Registro elettronico: &lt;code&gt;Classeviva Spaggiari&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Libro di testo: &lt;code&gt;**MultiMath Verde** - M. Baroncini, R. Manfredi - vol. 1 - ed. *Ghisetti&amp;amp;Corvi*&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;non strettamente indispensabile in classe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;versione digitale su iPad? &lt;code&gt;parliamone...&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Appunti dalle lezioni
+&lt;ul&gt;
+&lt;li&gt;quaderno, suddiviso in 2 parti.
+&lt;ol&gt;
+&lt;li&gt;appunti dalle lezioni&lt;/li&gt;
+&lt;li&gt;esercizi&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;dispense in formato &lt;strong&gt;pdf&lt;/strong&gt; con il riassunto della lezione&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;la-lezione&#34;&gt;La lezione&lt;/h2&gt;
+&lt;h2 id=&#34;la-verifica-delle-competenze&#34;&gt;La verifica delle competenze:&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Le &lt;strong&gt;abilità&lt;/strong&gt; rappresentano le capacità di applicare le &lt;strong&gt;conoscenze&lt;/strong&gt; apprese, con lo scopo di risolvere problemi e portare a termini compiti.&lt;/li&gt;
+&lt;li&gt;Le &lt;strong&gt;competenze&lt;/strong&gt; rappresentano la &lt;em&gt;capacità di unire conoscenze, abilità e capacità personali, sociali e metodologiche e utilizzarle nello studio e nello sviluppo personale&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Nel corso dell&amp;rsquo;anno verranno valutate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;verifica scritta&lt;/code&gt;&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./verifica_es.pdf&#34;&gt;esempio verifica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./verifica_es_sol.pdf&#34;&gt;esempio verifica_soluzioni&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;Q:&lt;/code&gt;&lt;/strong&gt; - come viene calcolato il punteggio e come si trasforma nel &lt;strong&gt;voto finale&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;A:&lt;/code&gt;&lt;/strong&gt; - come viene calcolato il punteggio e come si trasforma nel &lt;strong&gt;voto finale&lt;/strong&gt;?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;verifica orale&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;controllo quaderni&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;l&amp;rsquo;attività di controllo dei quaderni serve a garantire una continuità di impegno&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;eventuali &lt;strong&gt;&lt;code&gt;prove pratiche&lt;/code&gt;&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Flipped-Classroom&lt;/strong&gt;: si tratta di un&amp;rsquo;attività da svolgere in coppie o piccoli gruppi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusioni&#34;&gt;conclusioni&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jazzmagus.github.io/math2021/math2021/courses/math-01/&#34;&gt;Presentazione del corso&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

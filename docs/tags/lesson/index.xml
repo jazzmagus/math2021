@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lesson on The Math of Things</title>
+    <link>https://jazzmagus.github.io/math2021/tags/lesson/</link>
+    <description>Recent content in lesson on The Math of Things</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jazzmagus.github.io/math2021/tags/lesson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Il metodo di studio Cornell</title>
+      <link>https://jazzmagus.github.io/math2021/post/metodo-cornell/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jazzmagus.github.io/math2021/post/metodo-cornell/</guid>
+      <description>&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#il-metodo-cornell&#34;&gt;Il Metodo Cornell&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#metodo-tradizionale-vs-metodo-cornell&#34;&gt;Metodo tradizionale vs Metodo Cornell&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#le-tre-sezioni-del-foglio-nel-metodo-cornell&#34;&gt;Le tre sezioni del foglio nel Metodo Cornell&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2-sezione-di-sinistra-degli-appunti-cornell-area-b&#34;&gt;2. Sezione di sinistra degli appunti Cornell (Area B)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#3-sezione-inferiore-degli-appunti-cornell-area-c&#34;&gt;3. Sezione inferiore degli appunti Cornell (Area C)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#perché-il-metodo-cornell-è-efficace&#34;&gt;Perché il metodo Cornell è efficace&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#conclusioni-sul-metodo-cornell&#34;&gt;Conclusioni sul Metodo Cornell&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;./cornell_02.png&#34; alt=&#34;metodo Cornell&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;il-metodo-cornell&#34;&gt;Il Metodo Cornell&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;references:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;mindmap_ex.png&#34; alt=&#34;mindmapping&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ideato quasi 80 anni fa dal prof. Walter Pauk della Cornell University di New York, &lt;strong&gt;il metodo Cornell&lt;/strong&gt; è il sistema più efficace che conosco per prendere appunti.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Nonostante la sua semplicità – alla fine si tratta di un foglio diviso in 3 parti – il metodo Cornell ti permette di seguire una lezione, una conferenza, una riunione di lavoro:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mantenendo la &lt;code&gt;concentrazione&lt;/code&gt; ai massimi&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aumentando comprensione e coinvolgimento rispetto a quanto ascolti&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ritrovandoti alla fine con un materiale chiaro e ordinato, pronto (o quasi) per essere memorizzato&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vediamo però, prima di tutto, che cosa è che non funziona nella maniera in cui, normalmente, si prendono gli appunti.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;metodo-tradizionale-vs-metodo-cornell&#34;&gt;Metodo tradizionale vs Metodo Cornell&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;La maggior parte delle persone, quando imparano a prendere appunti, si limitano a cercare di registrare su un foglio di carta le informazioni che ricevono.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ascoltano, cioè, passivamente&lt;/strong&gt;, ed altrettanto passivamente trasferiscono sul quaderno quello che ascoltano.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nel farlo, il loro cervello è, non dico spento, ma lavora decisamente &lt;strong&gt;a trazione ridotta.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;E così la concentrazione si abbassa, subentra la noia e ovviamente la qualità totale del lavoro cerebrale crolla.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Il flusso di informazioni rimane &lt;strong&gt;a uno stato di analisi e manipolazione superficiale&lt;/strong&gt;: quello in cui ci si limita a trasformare i suoni in parole di senso compiuto e a metterle su carta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Se poi, come fanno in molti, mentre ascolti ti preoccupi soprattutto di trascrivere tutto, non fai altro che aggiungere inefficienza a inefficienza.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Infatti:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Non ti rimane tempo per pensare, e quindi scompare ogni coinvolgimento intellettuale rispetto a quello che senti&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Poiché è difficile scrivere tutto, il tuo livello di attenzione e comprensione si abbassa ulteriormente. &lt;strong&gt;Sei infatti troppo impegnato a non farti sfuggire neanche una parola!&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hai, insomma, &lt;strong&gt;l’illusione di ascoltare&lt;/strong&gt;; ma in realtà &lt;strong&gt;stai lavorando più o meno come un registratore,&lt;/strong&gt; solo che non sei altrettanto veloce.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Il &lt;strong&gt;metodo Cornell invece, prescrivendo delle regole precise&lt;/strong&gt; di compilazione degli appunti, &lt;strong&gt;ti sfida&lt;/strong&gt; a intervenire, fin da subito, sulle informazioni che ricevi.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In particolare, si tratta di:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Selezionare, secondo priorità, le informazioni che ti vengono date&lt;/li&gt;
+&lt;li&gt;Concettualizzarle&lt;/li&gt;
+&lt;li&gt;Comprimerle in maniera che siano più corte&lt;/li&gt;
+&lt;li&gt;Organizzarle&lt;/li&gt;
+&lt;li&gt;Prepararle per un ripasso efficace&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ma come funziona nella pratica?&lt;/p&gt;
+&lt;h2 id=&#34;le-tre-sezioni-del-foglio-nel-metodo-cornell&#34;&gt;Le tre sezioni del foglio nel Metodo Cornell&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Prendi un foglio di carta bello grande (io di solito utilizzo quaderni in A3) e dividilo in tre sezioni.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Sezione di destra degli appunti Cornell (area A)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;E’ quella in cui vengono presi gli appunti veri e propri.&lt;/li&gt;
+&lt;li&gt;In alto, intesta il foglio con quelli che potremmo definire i dati anagrafici della lezione (data, tema, relatore, etc).&lt;/li&gt;
+&lt;li&gt;Sotto ad essi, scrivi gli appunti veri e propri, avvalendoti degli stessi principi che abbiamo visto parlando degli &lt;em&gt;schemi a cascata&lt;/em&gt;:&lt;/li&gt;
+&lt;li&gt;Utilizza &lt;strong&gt;parole tue&lt;/strong&gt;, ti aiuta a concettualizzare&lt;/li&gt;
+&lt;li&gt;Scrivi &lt;strong&gt;liste con bullet point&lt;/strong&gt;, ti aiuta a dare ordine e gerarchia alle info&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sintetizza come fossi su twitter&lt;/strong&gt;, ti aiuta a cogliere l’essenza&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abbrevia&lt;/strong&gt; le parole come se scrivessi un sms, perché ti obbliga a pensare alla parola che scrivi&lt;/li&gt;
+&lt;li&gt;Metti &lt;strong&gt;frecce&lt;/strong&gt;, per evidenziare i rapporti logici&lt;/li&gt;
+&lt;li&gt;Fai &lt;strong&gt;disegnini&lt;/strong&gt; esplicativi, stimolano la parte “visiva” e creativa della tua corteccia&lt;/li&gt;
+&lt;li&gt;Commenta ogni tanto quello che scrivi con &lt;strong&gt;note “emotive”&lt;/strong&gt; (“Che schifo!” “Interessante!” “Bello!”), ti aiuteranno a memorizzare meglio&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Varia i caratter****i&lt;/strong&gt; usando corsivo, stampatello, maiuscolo, minuscolo, sottolineato etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-sezione-di-sinistra-degli-appunti-cornell-area-b&#34;&gt;2. Sezione di sinistra degli appunti Cornell (Area B)&lt;/h2&gt;
+&lt;p&gt;E’ la sezione dedicata alle &lt;strong&gt;parole chiave&lt;/strong&gt;, che devono essere:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Poche&lt;/strong&gt;: il meno possibile, anche perché lo spazio a disposizione è volutamente ridotto&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sintetiche&lt;/strong&gt;: cioè non frasi, ma singoli sostantivi / aggettivi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Evocative:&lt;/strong&gt; devono ricordare il contenuto della sezione di destra sia a livello concettuale che mnemonico&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Sono proprio questo tipo di limiti, non facili da rispettare, a rendere efficace il Metodo Cornell.&lt;/li&gt;
+&lt;li&gt;Per scegliere le parole giuste dovrai infatti &lt;strong&gt;spremerti le meningi e mantenere la concentrazione&lt;/strong&gt; molto alta.&lt;/li&gt;
+&lt;li&gt;Non importa (anzi, è normale) se non riesci a completare questa sezione durante la lezione, potrai farlo in un secondo momento.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Le parole chiave potrai anche trasformarle poi in immagini ed inserirle in un palazzo della memoria.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;3-sezione-inferiore-degli-appunti-cornell-area-c&#34;&gt;3. Sezione inferiore degli appunti Cornell (Area C)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Qui metti un &lt;strong&gt;micro-riassunto&lt;/strong&gt; del contenuto delle pagina.&lt;/li&gt;
+&lt;li&gt;Inoltre, puoi annotare domande, fare brevi considerazioni, appuntarti promemoria, impressioni, collegamenti, o tutto ciò che il tuo dialogo cerebrale ritiene che sia utile.&lt;/li&gt;
+&lt;li&gt;Per es. &lt;em&gt;Quanto detto mi ricorda che …. Come mai capita X … Vai a rivedere il testo Z … etc.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Anche questa parte può essere iniziata durante la lezione, ma viene per lo più svolta dopo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;perché-il-metodo-cornell-è-efficace&#34;&gt;Perché il metodo Cornell è efficace&lt;/h2&gt;
+&lt;p&gt;L’efficacia del metodo Cornell si basa su due fatti principali:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Durante la lezione&lt;/strong&gt;, ti costringe all’ascolto attivo, e lo rende ancora più performante poiché devi trasferire l’ascolto su carta, chiudendo così il loop cerebrale &lt;strong&gt;ascolto-rielaborazione-azione&lt;/strong&gt;. L’info che devi acquisire compie in questa maniera un ciclo completo e diventa molto più stabile anche da un punto di vista mnemonico.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dopo la lezione&lt;/strong&gt;, ti costringe a &lt;em&gt;lavorare il materiale&lt;/em&gt; in maniera &lt;strong&gt;analitica e sintetica&lt;/strong&gt;, e ti permette poi il &lt;strong&gt;ripasso a tre livelli&lt;/strong&gt; di dettaglio differenti: quello dei riassunti (sezione inferiore), quello delle parole chiave (sezione sinistra), quello del totale degli appunti (sezione destra), con ciascun livello che può essere ripassato separatamente o insieme agli altri.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Non solo &lt;strong&gt;quindi impari di più mentre prendi gli appunti&lt;/strong&gt;, ma hai anche uno strumento di &lt;strong&gt;studio/ripasso più strutturato e veloce.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;conclusioni-sul-metodo-cornell&#34;&gt;Conclusioni sul Metodo Cornell&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Molte persone, quando prendono appunti oppure scrivono schemi, sottolineano, fanno mappe, leggono un libro, commettono un errore fondamentale: &lt;strong&gt;mettono tutto sullo stesso piano.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Si concentrano cioè sulla quantità delle informazioni, cercando di non farsene sfuggire nessuna.&lt;/li&gt;
+&lt;li&gt;Purtroppo, però, l’ansia di non perdersi nulla e di non lasciare indietro una qualche info fondamentale, alla fine li fa lavorare in &lt;strong&gt;maniera meccanica&lt;/strong&gt;, per non dire stupida.&lt;/li&gt;
+&lt;li&gt;Il risultato, paradossale, è che dopo pochi minuti già non ricordano quasi nulla di quello che scrivono, leggono o sottolineano e i loro appunti o schemi prendono l’aspetto di &lt;strong&gt;muri impenetrabili&lt;/strong&gt; di parole.&lt;/li&gt;
+&lt;li&gt;Quello che tu devi fare, invece, è &lt;strong&gt;dedicarti agli aspetti qualitativi&lt;/strong&gt;, cominciando fin da subito a valutare, analizzare e soprattutto scegliere quello su cui vale la pena concentrarti.&lt;/li&gt;
+&lt;li&gt;In questa maniera, grazie allo sforzo mentale che richiedono queste operazioni, comincerai a imparare da subito.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si tratta di un principio che abbiamo visto molte volte nel blog.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quando ti sforzi di manipolare il materiale di studio secondo alcune regole precise, riesci ad aumentare:&lt;/li&gt;
+&lt;li&gt;Al contrario, &lt;strong&gt;quando ti comporti in maniera passiva&lt;/strong&gt;, sperando che a forza di ripetizioni il materiale si trasferisca, come per osmsosi, nel tuo cervello, i risultati tardano tantissimo tempo a venire.&lt;/li&gt;
+&lt;li&gt;Ricorda allora, anche quando utilizzi il metodo Cornell, che se lasci indietro una informazione non è un grande problema: fra internet, sbobinature, libro, appunti altrui, &lt;em&gt;se essa è davvero importante troverai sempre un tempo e un modo per recuperarla.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Una volta invece che hai investito del tempo nel prendere degli appunti dei quali non ricorderai nulla, beh, &lt;em&gt;quel tempo è perso per sempre.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./metodo_Cornell.pdf&#34;&gt;versione &lt;strong&gt;pdf&lt;/strong&gt; -&amp;gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;./cornell_in.jpeg&#34; alt=&#34;metodo Cornell&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

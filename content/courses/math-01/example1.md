@@ -23,6 +23,15 @@ In this tutorial, I'll share my top 10 tips for getting started with Academia:
 |:---|:---|:---|---:|
 |M1, M2, M3|Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat|in nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orc| settembre-ottobre|
 
+## math inline
+
+questa è una formula `inline`: $3x^2 - \sqrt{(4x-2)}$
+
+## math in block
+
+questa invece è una formula `in block`:
+$$3x^2 - \sqrt{(4x-2)}$$
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 ## Le quattro operazioni aritmetiche con i numeri naturali

@@ -42,6 +42,7 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Diego Fantinelli** and I'm a **Math teacher**, a **jazz artisan** and a coffee lover.
+
+## My name is **Diego Fantinelli** and I'm a **Math teacher** a **jazz artisan** and a coffee lover
 
 Contrary to popular belief, *Lorem Ipsum* is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.

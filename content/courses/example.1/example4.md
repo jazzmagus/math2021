@@ -4,7 +4,7 @@ linktitle: Tips 7-8
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
-draft: false
+draft: true
 menu:
   example.1:
     parent: Example Topic

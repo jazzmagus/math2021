@@ -9,7 +9,7 @@ title = "The Math of Things"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseURL = "https://examplesite.org"
+baseURL = "https://jazzmagus.github.io/math2021/"
 publishDir = "docs"
 
 # Enter a copyright notice to display in the site footer.

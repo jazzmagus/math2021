@@ -57,66 +57,107 @@ gallery_item:
 
 ## Saluti e presentazioni
 
-> **test d'ingresso di matematica**: 
-> mi è stato comunicato che il giorno `16/09/2021,` durante le prime 3 ore, si terrà il `test d'ingresso di matematica`:
-> - **argomenti**
+## comunicazioni ufficiali:
+- **test d'ingresso di matematica**: 
+> Il giorno `giovedì 16/09/2021,` nella mia ora, si terrà il `test d'ingresso di matematica`:
+> - **argomenti**: il programma dello scorso anno scolastico.
+>   - calcolo
 >   - proprietà delle potenze
 >   - operazioni con le frazioni
+>   - geometria
+>   - proporzioni, percentuali
+>   - semplici problemi
 
-## Presentazione del corso
-
-> $\rightarrow$ ***La matematica non è imparare formule a memoria, bensì collegare tra loro concetti.***
-
-## Il metodo di studio: come si studia la matematica?
-
-> Lo studio delle materie scientifiche
-
-## mindmapping: le mappe mentali
-
-![le mappe mentali](./mindmap_prova.jpg)
+- **piano estate - terza fase**:
+	- si tratta di uno sportello pomeridiano con incontri settimanali, di 1,5 ore ciascuno.
+	- durerà fino a dicembre
+	- verrà proposto agli studenti sulla base dei risultati del test d'ingresso
+	- è aperto a tutti coloro che dovessero sentirne il bisogno
+	- avrete un prof. diverso da me: ci scambiamo le classi
+	- prossimamente riceverete tutti i dettagli
+		
+---
 
 ## materiali didattici
 
-> - `Google Classroom`:
->   - comunicazioni
->   - assegnazione compiti (eventualmente anche sul Registro El.)
-> - Registro elettronico: `Classeviva Spaggiari`
-> - Libro di testo: `**MultiMath Verde** - M. Baroncini, R. Manfredi - vol. 1 - ed. *Ghisetti&Corvi*`
->   - `non strettamente indispensabile in classe`
->   - versione digitale su iPad? `parliamone...`
-> - Appunti dalle lezioni
->   - quaderno, suddiviso in 2 parti.
->     1. appunti dalle lezioni
->     2. esercizi
->   - dispense in formato **pdf** con il riassunto della lezione
+ - `Google Classroom`:
+   - comunicazioni
+   - assegnazione compiti (eventualmente anche sul Registro El.)
+   - post di varia natura:
+	   - per consigliare un video su YouTube
+	   - suggerimenti
+	   - **materiale didattico**: dispense, video, esercizi, 
 
-## La lezione
+ - Registro elettronico: `Classeviva Spaggiari`:
+	 - comunicazioni ufficiali, verifiche e interrogazioni, note, voti.
+
+ - Libro di testo: **`MultiMath Verde`** - `M. Baroncini, R. Manfredi - vol. 1 - ed. *Ghisetti&Corvi*`
+   - `non strettamente indispensabile in classe`
+   - versione digitale su iPad? *parliamone*...
+
+ - Appunti dalle lezioni:
+   - quaderno, suddiviso in 2 parti (o 2 quaderni, oppure uno ad anelli, etc.)
+     1. appunti dalle lezioni
+     2. esercizi
+
+## La lezione: 
+- Le `regole` del *gioco*
+- gli `strumenti didattici`
+
+## attività in autonomia
+- prevalentemente si tratterà di:
+	- revisione degli appunti
+	- approfondimenti sul testo
+	- esercizi (...pochi)
+
+**`Q:`** - quanto tempo è bene dedicare allo studio della matematica per rimanere al passo, senza fare troppa fatica?
+
+**`A:`** - La risposta è piuttosto soggettiva, ma... ho qualche consiglio per voi.
+
+---
 
 ## La verifica delle competenze:
 
 >- Le **abilità** rappresentano le capacità di applicare le **conoscenze** apprese, con lo scopo di risolvere problemi e portare a termini compiti. 
 >- Le **competenze** rappresentano la *capacità di unire conoscenze, abilità e capacità personali, sociali e metodologiche e utilizzarle nello studio e nello sviluppo personale*.
 
-- Nel corso dell'anno verranno valutate
+- Nel corso dell'anno verranno effettuate le seguenti **valutazioni** delle abilità-competenze-conoscenze:
 
 1. **`verifica scritta`**:
-   - [esempio verifica](./verifica_es.pdf)
-   - [esempio verifica_soluzioni](./verifica_es_sol.pdf)
+>   - [esempio verifica](./verifica_es.pdf)
+>   - [esempio verifica_soluzioni](./verifica_es_sol.pdf)
 
->**`Q:`** - come viene calcolato il punteggio e come si trasforma nel **voto finale**?
->
->**`A:`** - come viene calcolato il punteggio e come si trasforma nel **voto finale**?
+- verrà effettuata una verifica per ogni modulo/argomento
+
+**`Q:`** - come viene calcolato il punteggio e come si trasforma nel **voto finale**?
+
+**`A:`** - Si tratta di un **algoritmo** che tiene conto di diverse variabili:
+- livello di assimilazione dell'argomento
+- capacità di ragionamento
+- capacità di calcolo
+- ordine
+- etc.
 
 2. **`verifica orale`**:
+ - la verifica orale potrà avvenire con modalità diverse, a seconda dei `livelli` e dai `ritmi` espressi dalla classe.
 
+	 - interrogazione classica: volontaria e/o *a sorpresa*
+	 - correzione di esercizi alla lavagna degli esercizi assegnati: non concordata
+	 - test su `Google Moduli`
 
 3. **`controllo quaderni`**: 
-- l'attività di controllo dei quaderni serve a garantire una continuità di impegno
-
+- l'attività di controllo dei quaderni serve a garantire una continuità di impegno anche nelle attività svolte in autonomia.
+ 
+-	`i voti raccolti nel corso del quadrimestre confluiranno in un ulteriore voto valido per l'orale - a fine quadrimestre.`
 
 4. eventuali **`prove pratiche`**:
-- **Flipped-Classroom**: si tratta di un'attività da svolgere in coppie o piccoli gruppi
+	- **Flipped-Classroom**: o altre attività da svolgere in coppie o piccoli gruppi
+	- Solo a determinate `condizioni`
 
-## conclusioni
+## Lezioni private
 
-- [Presentazione del corso]({{< relref "/courses/math-01" >}})
+## domande?
+
+---
+
+- La prossima lezione: [Metodo Cornell]({{< relref "../metodo-cornell" >}})

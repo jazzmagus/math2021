@@ -81,6 +81,7 @@ gallery_item:
 ## materiali didattici
 
  - `Google Classroom`:
+ - `codice classe`: [Google Classroom corsi](https://classroom.google.com/u/0/h)
    - comunicazioni
    - assegnazione compiti (eventualmente anche sul Registro El.)
    - post di varia natura:
@@ -124,8 +125,9 @@ gallery_item:
 - Nel corso dell'anno verranno effettuate le seguenti **valutazioni** delle abilità-competenze-conoscenze:
 
 1. **`verifica scritta`**:
->   - [esempio verifica](./verifica_es.pdf)
->   - [esempio verifica_soluzioni](./verifica_es_sol.pdf)
+
+> - [esempio verifica](./verifica_es.pdf)
+> - [esempio verifica_soluzioni](./verifica_es_sol.pdf)
 
 - verrà effettuata una verifica per ogni modulo/argomento
 
@@ -139,22 +141,25 @@ gallery_item:
 - etc.
 
 2. **`verifica orale`**:
- - la verifica orale potrà avvenire con modalità diverse, a seconda dei `livelli` e dai `ritmi` espressi dalla classe.
+- la verifica orale potrà avvenire con modalità diverse, a seconda dei `livelli` e dai `ritmi` espressi dalla classe.
 
-	 - interrogazione classica: volontaria e/o *a sorpresa*
-	 - correzione di esercizi alla lavagna degli esercizi assegnati: non concordata
-	 - test su `Google Moduli`
+  - interrogazione classica: volontaria e/o *a sorpresa*
+  - correzione di esercizi alla lavagna degli esercizi assegnati: non concordata
+  - test su `Google Moduli`
 
-3. **`controllo quaderni`**: 
+3. **`controllo quaderni`**:
+
 - l'attività di controllo dei quaderni serve a garantire una continuità di impegno anche nelle attività svolte in autonomia.
- 
--	`i voti raccolti nel corso del quadrimestre confluiranno in un ulteriore voto valido per l'orale - a fine quadrimestre.`
+
+- `i voti raccolti nel corso del quadrimestre confluiranno in un ulteriore voto valido per l'orale - a fine quadrimestre.`
 
 4. eventuali **`prove pratiche`**:
-	- **Flipped-Classroom**: o altre attività da svolgere in coppie o piccoli gruppi
-	- Solo a determinate `condizioni`
+ - **Flipped-Classroom**: o altre attività da svolgere in coppie o piccoli gruppi
+  - Solo a determinate `condizioni`
 
 ## Lezioni private
+
+- collaboriamo...
 
 ## domande?
 

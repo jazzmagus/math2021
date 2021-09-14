@@ -24,17 +24,29 @@
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;conoscenze&#34;&gt;Conoscenze&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.
-Rappresentazione degli insiemi numericisu una retta orientata.&lt;/li&gt;
-&lt;li&gt;Definizioni e proprietà delle quattro operazioni e delle potenze nei quattro insiemi numerici.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Divisibilità&lt;/code&gt; in $\mathbb{N}$ e &lt;code&gt;numeri primi&lt;/code&gt;;
-&lt;code&gt;mcm&lt;/code&gt; e &lt;code&gt;MCD&lt;/code&gt; di due o più numeri naturali.&lt;/li&gt;
-&lt;li&gt;Concetto di &lt;code&gt;numero relativo&lt;/code&gt; e di &lt;code&gt;valore assoluto&lt;/code&gt;; &lt;em&gt;regola dei segni&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Numeri razionali&lt;/strong&gt;: frazioni e rappresentazione decimale.
+&lt;li&gt;
+&lt;p&gt;Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.
+Rappresentazione degli insiemi numericisu una retta orientata.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Definizioni e proprietà delle quattro operazioni e delle potenze nei quattro insiemi numerici.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Divisibilità&lt;/code&gt; in $\mathbb{N}$ e &lt;code&gt;numeri primi&lt;/code&gt;;
+&lt;code&gt;mcm&lt;/code&gt; e &lt;code&gt;MCD&lt;/code&gt; di due o più numeri naturali.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Concetto di &lt;code&gt;numero relativo&lt;/code&gt; e di &lt;code&gt;valore assoluto&lt;/code&gt;; &lt;em&gt;regola dei segni&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Numeri razionali&lt;/strong&gt;: frazioni e rappresentazione decimale.
 Notazione &lt;code&gt;esponenziale&lt;/code&gt; e notazione &lt;code&gt;scientifica&lt;/code&gt; di un numero: ordine di grandezza.
-&lt;strong&gt;Proporzioni&lt;/strong&gt; e &lt;strong&gt;percentuali&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Numeri irrazionali&lt;/strong&gt; e loro rappresentazione decimale.
-Concetto di &lt;code&gt;approssimazione&lt;/code&gt; ed &lt;code&gt;errore&lt;/code&gt; di un’approssimazione.&lt;/li&gt;
+&lt;strong&gt;Proporzioni&lt;/strong&gt; e &lt;strong&gt;percentuali&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Numeri irrazionali&lt;/strong&gt; e loro rappresentazione decimale.
+Concetto di &lt;code&gt;approssimazione&lt;/code&gt; ed &lt;code&gt;errore&lt;/code&gt; di un’approssimazione.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;abilità&#34;&gt;Abilità&lt;/h2&gt;
 &lt;ul&gt;

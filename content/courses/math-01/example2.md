@@ -14,7 +14,7 @@ menu:
 weight: 20
 ---
 
-![chapter2_banner](majong.jpg)
+![chapter2_banner](majong_01.png)
 
 Here are some more tips for getting started with academia:
 

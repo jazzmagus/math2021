@@ -15,7 +15,7 @@ menu:
 weight: 10
 ---
 
-![featured](dices.jpg)
+![featured](startline.png)
 
 ## L’insieme dei numeri naturali
 

@@ -29,7 +29,7 @@ menu:
 - Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.
 Rappresentazione degli insiemi numericisu una retta orientata.
 - Definizioni e proprietà delle quattro operazioni e delle potenze nei quattro insiemi numerici.
-- Divisibilità in $\mathbb{N}$ e `numeri primi`;
+- `Divisibilità` in $\mathbb{N}$ e `numeri primi`;
  `mcm` e `MCD` di due o più numeri naturali.
 - Concetto di `numero relativo` e di `valore assoluto`; *regola dei segni*.
 - **Numeri razionali**: frazioni e rappresentazione decimale. 

@@ -69,13 +69,13 @@ gallery_item:
 >   - semplici problemi
 
 - **piano estate - terza fase**:
-	- si tratta di uno sportello pomeridiano con incontri settimanali, di 1,5 ore ciascuno.
-	- durerà fino a dicembre
-	- verrà proposto agli studenti sulla base dei risultati del test d'ingresso
-	- è aperto a tutti coloro che dovessero sentirne il bisogno
-	- avrete un prof. diverso da me: ci scambiamo le classi
-	- prossimamente riceverete tutti i dettagli
-		
+  - si tratta di uno sportello pomeridiano con incontri settimanali, di 1,5 ore ciascuno.
+    - durerà fino a dicembre
+    - verrà proposto agli studenti sulla base dei risultati del test d'ingresso
+    - è aperto a tutti coloro che dovessero sentirne il bisogno
+    - avrete un prof. diverso da me: ci scambiamo le classi
+    - prossimamente riceverete tutti i dettagli
+
 ---
 
 ## materiali didattici

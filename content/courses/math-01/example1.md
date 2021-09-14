@@ -15,6 +15,8 @@ menu:
 weight: 10
 ---
 
+![featured](dices.jpg)
+
 ## L’insieme dei numeri naturali
 
 |competenze|conoscenze|abilità|periodo|

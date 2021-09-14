@@ -14,6 +14,8 @@ menu:
 weight: 20
 ---
 
+![chapter2_banner](majong.jpg)
+
 Here are some more tips for getting started with academia:
 
 ## Capitolo 2: Numeri razionali e numeri reali

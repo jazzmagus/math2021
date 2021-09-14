@@ -17,7 +17,6 @@ slides:
 
 [academia](https://sourcethemes.com/academic/)
 
----
 
 ## Features
 
@@ -26,7 +25,6 @@ slides:
 - Supports speaker notes
 - Mobile friendly slides
 
----
 
 ## Controls
 
@@ -40,7 +38,7 @@ slides:
 - Zoom: `Alt + Click`
 - [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
 
----
+
 
 ## Code Highlighting
 
@@ -53,7 +51,7 @@ if porridge == "blueberry":
   print("Eating...")
 ```
 
----
+
 
 ## Math
 
@@ -65,7 +63,7 @@ $$
 f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$
 
----
+
 
 ## Fragments
 
@@ -83,14 +81,14 @@ Press `Space` to play!
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
 
----
+
 
 A fragment can accept two optional parameters:
 
 - `class`: use a custom style (requires definition in custom CSS)
 - `weight`: sets the order in which a fragment appears
 
----
+
 
 ## Speaker Notes
 
@@ -110,7 +108,7 @@ Press the `S` key to view the speaker notes!
 - Press `S` key to view
 {{< /speaker_note >}}
 
----
+
 
 ## Themes
 

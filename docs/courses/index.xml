@@ -13,35 +13,44 @@
     
     
     <item>
-      <title>Overview</title>
+      <title>Matematica per le classi prime</title>
       <link>https://jazzmagus.github.io/math2021/courses/math-01/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jazzmagus.github.io/math2021/courses/math-01/</guid>
       <description>&lt;h2 id=&#34;introduzione-al-corso&#34;&gt;Introduzione al Corso&lt;/h2&gt;
-&lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La matematica non è &lt;strong&gt;imparare formule a memoria&lt;/strong&gt;, bensì &lt;strong&gt;collegare&lt;/strong&gt; tra loro concetti.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;conoscenze&#34;&gt;Conoscenze&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Online courses&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Project or software documentation&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.
+Rappresentazione degli insiemi numericisu una retta orientata.&lt;/li&gt;
+&lt;li&gt;Definizioni e proprietà delle quattro operazioni e delle potenze nei quattro insiemi numerici.&lt;/li&gt;
+&lt;li&gt;Divisibilità in $\mathbb{N}$ e &lt;code&gt;numeri primi&lt;/code&gt;;
+&lt;code&gt;mcm&lt;/code&gt; e &lt;code&gt;MCD&lt;/code&gt; di due o più numeri naturali.&lt;/li&gt;
+&lt;li&gt;Concetto di &lt;code&gt;numero relativo&lt;/code&gt; e di &lt;code&gt;valore assoluto&lt;/code&gt;; &lt;em&gt;regola dei segni&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Numeri razionali&lt;/strong&gt;: frazioni e rappresentazione decimale.
+Notazione &lt;code&gt;esponenziale&lt;/code&gt; e notazione &lt;code&gt;scientifica&lt;/code&gt; di un numero: ordine di grandezza.
+&lt;strong&gt;Proporzioni&lt;/strong&gt; e &lt;strong&gt;percentuali&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Numeri irrazionali&lt;/strong&gt; e loro rappresentazione decimale.
+Concetto di &lt;code&gt;approssimazione&lt;/code&gt; ed &lt;code&gt;errore&lt;/code&gt; di un’approssimazione.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The &lt;code&gt;courses&lt;/code&gt; folder may be renamed. For example, we can rename it to &lt;code&gt;docs&lt;/code&gt; for software/project documentation or &lt;code&gt;tutorials&lt;/code&gt; for creating an online course.&lt;/p&gt;
-&lt;h2 id=&#34;delete-tutorials&#34;&gt;Delete tutorials&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;To remove these pages, delete the &lt;code&gt;courses&lt;/code&gt; folder and see below to delete the associated menu link.&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;update-site-menu&#34;&gt;Update site menu&lt;/h2&gt;
-&lt;p&gt;After renaming or deleting the &lt;code&gt;courses&lt;/code&gt; folder, you may wish to update any &lt;code&gt;[[main]]&lt;/code&gt; menu links to it by editing your menu configuration at &lt;code&gt;config/_default/menus.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;For example, if you delete this folder, you can remove the following from your menu configuration:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[[&lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;]]
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Courses&amp;#34;&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;url&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;courses/&amp;#34;&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;weight&lt;/span&gt; = &lt;span style=&#34;color:#ae81ff&#34;&gt;50&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Or, if you are creating a software documentation site, you can rename the &lt;code&gt;courses&lt;/code&gt; folder to &lt;code&gt;docs&lt;/code&gt; and update the associated &lt;em&gt;Courses&lt;/em&gt; menu configuration to:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[[&lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;]]
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Docs&amp;#34;&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;url&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;docs/&amp;#34;&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;weight&lt;/span&gt; = &lt;span style=&#34;color:#ae81ff&#34;&gt;50&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;update-the-docs-menu&#34;&gt;Update the docs menu&lt;/h2&gt;
-&lt;p&gt;If you use the &lt;em&gt;docs&lt;/em&gt; layout, note that the name of the menu in the front matter should be in the form &lt;code&gt;[menu.X]&lt;/code&gt; where &lt;code&gt;X&lt;/code&gt; is the folder name. Hence, if you rename the &lt;code&gt;courses/example/&lt;/code&gt; folder, you should also rename the menu definitions in the front matter of files within &lt;code&gt;courses/example/&lt;/code&gt; from &lt;code&gt;[menu.example]&lt;/code&gt; to &lt;code&gt;[menu.&amp;lt;NewFolderName&amp;gt;]&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;abilità&#34;&gt;Abilità&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Eseguire i calcoli con i numeri degli insiemi numerici  $\mathbb{N}$, $\mathbb{Z}$ e $\mathbb{Q}$&lt;/li&gt;
+&lt;li&gt;Scomporre un numero naturale in fattoriprimi e calcolare il &lt;code&gt;mcm&lt;/code&gt; e il &lt;code&gt;MCD&lt;/code&gt; tra due o più numeri naturali.
+Trasformare la scrittura di un numero naturale dalla base $10$ alla base $b$ e viceversa.&lt;/li&gt;
+&lt;li&gt;Trasformare una frazione in numero decimale e viceversa;
+scrivere un numero decimale finito in notazione scientifica e determinarne l’&lt;code&gt;ordine di grandezza&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Risolvere problemi su &lt;strong&gt;proporzioni&lt;/strong&gt; e &lt;strong&gt;percentuali&lt;/strong&gt;.
+Calcolare l’errore relativo di un’approssimazione conoscendo l’errore assoluto e viceversa e determinare il valore abbreviato e quello arrotondato di un numero decimale.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;competenze&#34;&gt;competenze&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Utilizzare le tecniche e le procedure del calcolo aritmetico ed algebrico, rappresentandole anche sottoforma grafica.&lt;/li&gt;
+&lt;li&gt;Analizzare dati e interpretarli sviluppando deduzioni e ragionamenti sugli stessi anche con l’ausilio dirappresentazioni grafiche, usando consapevolmente gli strumenti di calcolo e le potenzialità offerte da applicazioni specifiche di tipo informatico.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

@@ -23,7 +23,11 @@ menu:
 
 ## Introduzione al Corso
 
->La matematica non è **imparare formule a memoria**, bensì **collegare** tra loro concetti.
+>*"La **conoscenza** è ciò che ci rende **diversi**"*.
+>
+>La conoscenza è **infinita** e ognuno di noi può contenerne solo una parte, per questo motivo siamo diversi, mentre siamo tutti ignoranti rispetto alla totalità della conoscenza, e questo ci rende **uguali**.
+>
+>-- Piergiorgio Odifreddi
 
 ![overview_img](startline.png)
 

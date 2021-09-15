@@ -23,14 +23,16 @@ weight: 10
 
 <!-- {{< figure src="../majong_01.png" caption="A caption" numbered="true" >}} -->
 
-## math inline
+## introduzione: calciatori e automobili
 
-questa è una formula `inline`: $3x^2 - \sqrt{(4x-2)}$
+> Numeri, continuamente numeri: il numero dei giri, il numero della macchina, il distacco, il tempo trascorso, il tempo che manca, il numero sulla maglia, il punteggio...
+>
+> - Servono veramente tutti questi numeri?
+> - Sono essenziali o se ne potrebbe fare a meno?
 
-## math in block
+## numeri naturali e il loro ordinamento
 
-questa invece è una formula `in block`:
-$$3x^2 - \sqrt{(4x-2)}$$
+$$ \mathbb{N} = \\{ 0; 1; 2; 3; \dots \\} $$
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 

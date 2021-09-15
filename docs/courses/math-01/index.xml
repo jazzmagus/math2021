@@ -6,7 +6,7 @@
     <description>Recent content in Matematica per le classi prime on The Math of Things</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; {year}</copyright>
+    <copyright>Copyright &amp;copy; JaZzMaGuS {year}</copyright>
     <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://jazzmagus.github.io/math2021/courses/math-01/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +14,10 @@
     
     <item>
       <title>Numeri naturali e numeri interi relativi</title>
-      <link>https://jazzmagus.github.io/math2021/courses/math-01/example1/</link>
+      <link>https://jazzmagus.github.io/math2021/courses/math-01/capitolo1/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://jazzmagus.github.io/math2021/courses/math-01/example1/</guid>
+      <guid>https://jazzmagus.github.io/math2021/courses/math-01/capitolo1/</guid>
       <description>&lt;h2 id=&#34;linsieme-dei-numeri-naturali&#34;&gt;L’insieme dei numeri naturali&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -57,10 +57,10 @@ $$3x^2 - \sqrt{(4x-2)}$$&lt;/p&gt;
     
     <item>
       <title>Numeri razionali e numeri reali</title>
-      <link>https://jazzmagus.github.io/math2021/courses/math-01/example2/</link>
+      <link>https://jazzmagus.github.io/math2021/courses/math-01/capitolo2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://jazzmagus.github.io/math2021/courses/math-01/example2/</guid>
+      <guid>https://jazzmagus.github.io/math2021/courses/math-01/capitolo2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with academia:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../ex2_img.png&#34; alt=&#34;ex2_img&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;capitolo-2-numeri-razionali-e-numeri-reali&#34;&gt;Capitolo 2: Numeri razionali e numeri reali&lt;/h2&gt;

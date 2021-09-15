@@ -18,7 +18,7 @@ role: Teacher of Mathematics
 
 # Organizations/Affiliations
 organizations:
-- name: ITI - E. Fermi - Bassano del Grappa
+- name: ITIS - E. Fermi - Bassano del Grappa
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

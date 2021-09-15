@@ -21,10 +21,9 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 settembre 2021&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;linsieme-dei-numeri-naturali&#34;&gt;L’insieme dei numeri naturali&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;../majong_01.png&#34; alt=&#34;ex1_img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;linsieme-dei-numeri-naturali&#34;&gt;L’insieme dei numeri naturali&lt;/h2&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;introduzione-calciatori-e-automobili&#34;&gt;introduzione: calciatori e automobili&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Numeri, continuamente numeri: il numero dei giri, il numero della macchina, il distacco, il tempo trascorso, il tempo che manca, il numero sulla maglia, il punteggio&amp;hellip;&lt;/p&gt;
 &lt;ul&gt;
@@ -36,9 +35,24 @@
 &lt;p&gt;$$ \mathbb{N} = \{ 0; 1; 2; 3; \dots \} $$&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;h2 id=&#34;le-quattro-operazioni-aritmetiche-con-i-numeri-naturali&#34;&gt;Le quattro operazioni aritmetiche con i numeri naturali&lt;/h2&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;h3 id=&#34;addizione-e-sue-proprietà&#34;&gt;addizione e sue proprietà&lt;/h3&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo.&lt;/p&gt;
+&lt;h3 id=&#34;sottrazione-e-sue-proprietà&#34;&gt;sottrazione e sue proprietà&lt;/h3&gt;
+&lt;p&gt;Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;h3 id=&#34;moltiplicazione-e-sue-proprietà&#34;&gt;moltiplicazione e sue proprietà&lt;/h3&gt;
+&lt;h3 id=&#34;divisione-e-sue-proprietà&#34;&gt;divisione e sue proprietà&lt;/h3&gt;
+&lt;h4 id=&#34;osservazione&#34;&gt;osservazione&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;questa è un&amp;rsquo;interessante osservazione&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;potenze-in-mathbbn-e-loro-proprieta&#34;&gt;Potenze in $\mathbb{N}$ e loro proprieta`&lt;/h2&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit $\mathbb{N}$ nunc mattis vitae. Duis vitae&lt;/p&gt;
+&lt;h3 id=&#34;definizione-di-potenza&#34;&gt;definizione di potenza&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;DEFINIZIONE&lt;/strong&gt;:
+La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ &lt;code&gt;fattori&lt;/code&gt; uguali ad $a$:&lt;/p&gt;
+&lt;p&gt;$$a^n = \underbrace{a \cdot a \cdot a \cdot \dots \cdot a}_{n \; \text{volte}}$$&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;espressioni-con-in-numeri-naturali&#34;&gt;Espressioni con in numeri naturali&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.&lt;/p&gt;
 &lt;h2 id=&#34;divisibilità-e-numeri-primi&#34;&gt;Divisibilità e &amp;ldquo;numeri primi&amp;rdquo;&lt;/h2&gt;

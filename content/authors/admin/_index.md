@@ -14,11 +14,11 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Teacher of Mathematics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: ITI - E. Fermi - Bassano del Grappa
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -77,8 +77,8 @@ user_groups:
 - Visitors
 ---
 
-**Diego Fantinelli** is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Diego Fantinelli** is a teacher of Mathematics.
 
-![reviews](../../img/certifacates.jpg)
+![reviews](./img/certifacates.jpg)
 
 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.

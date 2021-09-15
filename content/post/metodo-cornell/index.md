@@ -58,7 +58,7 @@ gallery_item:
 
 ---
 
-<!-- ![metodo Cornell](./cornell_02.png) -->
+![metodo Cornell](./mindmup_ex.png)
 
 > - references:
 >   - [The Cornell Note Taking System](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)

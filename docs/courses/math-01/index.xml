@@ -51,7 +51,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;DEFINIZIONE&lt;/strong&gt;:
 La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ &lt;code&gt;fattori&lt;/code&gt; uguali ad $a$:&lt;/p&gt;
-&lt;p&gt;$$a^n = \underbrace{a \cdot a \cdot a \cdot \dots \cdot a}_{n \; \text{volte}}$$&lt;/p&gt;
+&lt;p&gt;$$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \; \text{volte}}$$&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;espressioni-con-in-numeri-naturali&#34;&gt;Espressioni con in numeri naturali&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.&lt;/p&gt;

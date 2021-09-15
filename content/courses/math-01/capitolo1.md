@@ -61,7 +61,7 @@ Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum n
 > **DEFINIZIONE**:
 > La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ `fattori` uguali ad $a$:
 >
-> $$a^n = \underbrace{a \cdot a \cdot a \cdot \dots \cdot a}_{n \\; \text{volte}}$$
+> $$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \\; \text{volte}}$$
 
 ## Espressioni con in numeri naturali
 

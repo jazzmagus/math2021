@@ -52,6 +52,7 @@ projects:
 
 # Enable math on this page?
 math: true
+draft: true
 ---
 
 {{% alert note %}}

@@ -16,11 +16,11 @@ weight: 20
 
 Here are some more tips for getting started with academia:
 
+![ex2_img](../ex2_img.png)
+
 ## Capitolo 2: Numeri razionali e numeri reali
 
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.
-
-![chapter2_banner](./majong_01.png)
 
 Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
 

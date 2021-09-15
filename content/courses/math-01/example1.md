@@ -20,7 +20,7 @@ weight: 10
 |:---|:---|:---|---:|
 |M1, M2, M3|Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat|in nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orc| settembre-ottobre|
 
-![majong](../majong_01.png)
+![ex1_img](../majong_01.png)
 
 <!-- {{< figure src="../majong_01.png" caption="A caption" numbered="true" >}} -->
 

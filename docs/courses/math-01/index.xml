@@ -18,25 +18,10 @@
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0100</pubDate>
       
       <guid>https://jazzmagus.github.io/math2021/courses/math-01/capitolo1/</guid>
-      <description>&lt;h2 id=&#34;linsieme-dei-numeri-naturali&#34;&gt;L’insieme dei numeri naturali&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;competenze&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;conoscenze&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;abilità&lt;/th&gt;
-&lt;th style=&#34;text-align:right&#34;&gt;periodo&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;M1, M2, M3&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;in nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orc&lt;/td&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;settembre-ottobre&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 settembre 2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;linsieme-dei-numeri-naturali&#34;&gt;L’insieme dei numeri naturali&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;../majong_01.png&#34; alt=&#34;ex1_img&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;math-inline&#34;&gt;math inline&lt;/h2&gt;
@@ -61,7 +46,9 @@ $$3x^2 - \sqrt{(4x-2)}$$&lt;/p&gt;
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
       <guid>https://jazzmagus.github.io/math2021/courses/math-01/capitolo2/</guid>
-      <description>&lt;p&gt;Here are some more tips for getting started with academia:&lt;/p&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 ottobre 2021&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;img src=&#34;../ex2_img.png&#34; alt=&#34;ex2_img&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;capitolo-2-numeri-razionali-e-numeri-reali&#34;&gt;Capitolo 2: Numeri razionali e numeri reali&lt;/h2&gt;
 &lt;blockquote&gt;

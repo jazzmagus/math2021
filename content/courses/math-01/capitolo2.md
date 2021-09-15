@@ -14,7 +14,7 @@ menu:
 weight: 20
 ---
 
-Here are some more tips for getting started with academia:
+> ☆ **scadenza**: 30 ottobre 2021
 
 ![ex2_img](../ex2_img.png)
 

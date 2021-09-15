@@ -22,6 +22,7 @@ menu:
 ---
 
 ## Introduzione al Corso
+
 >La matematica non è **imparare formule a memoria**, bensì **collegare** tra loro concetti.
 
 ![overview_img](startline.png)
@@ -37,11 +38,11 @@ Rappresentazione degli insiemi numericisu una retta orientata.
 
 - Concetto di `numero relativo` e di `valore assoluto`; *regola dei segni*.
 
-- **Numeri razionali**: frazioni e rappresentazione decimale. 
+- **Numeri razionali**: frazioni e rappresentazione decimale.
  Notazione `esponenziale` e notazione `scientifica` di un numero: ordine di grandezza.
  **Proporzioni** e **percentuali**.
- 
-- **Numeri irrazionali** e loro rappresentazione decimale. 
+
+- **Numeri irrazionali** e loro rappresentazione decimale.
  Concetto di `approssimazione` ed `errore` di un’approssimazione.
 
 ## Abilità
@@ -49,9 +50,9 @@ Rappresentazione degli insiemi numericisu una retta orientata.
 - Eseguire i calcoli con i numeri degli insiemi numerici  $\mathbb{N}$, $\mathbb{Z}$ e $\mathbb{Q}$
 - Scomporre un numero naturale in fattoriprimi e calcolare il `mcm` e il `MCD` tra due o più numeri naturali.
 Trasformare la scrittura di un numero naturale dalla base $10$ alla base $b$ e viceversa.
-- Trasformare una frazione in numero decimale e viceversa; 
+- Trasformare una frazione in numero decimale e viceversa;
 scrivere un numero decimale finito in notazione scientifica e determinarne l’`ordine di grandezza`.
-- Risolvere problemi su **proporzioni** e **percentuali**. 
+- Risolvere problemi su **proporzioni** e **percentuali**.
 Calcolare l’errore relativo di un’approssimazione conoscendo l’errore assoluto e viceversa e determinare il valore abbreviato e quello arrotondato di un numero decimale.
 
 ## competenze

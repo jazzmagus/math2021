@@ -5,6 +5,7 @@ toc: true
 type: docs
 date: "2021-09-09T00:00:00+01:00"
 draft: false
+diagram: true
 menu:
   math-01:
     parent: 
@@ -14,11 +15,9 @@ menu:
 weight: 10
 ---
 
-## L’insieme dei numeri naturali
+> ☆ **scadenza**: 30 settembre 2021
 
-|competenze|conoscenze|abilità|periodo|
-|:---|:---|:---|---:|
-|M1, M2, M3|Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat|in nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orc| settembre-ottobre|
+## L’insieme dei numeri naturali
 
 ![ex1_img](../majong_01.png)
 

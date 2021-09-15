@@ -24,6 +24,8 @@ menu:
 ## Introduzione al Corso
 >La matematica non è **imparare formule a memoria**, bensì **collegare** tra loro concetti.
 
+![overview_img](startline.png)
+
 ## Conoscenze
 
 - Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.

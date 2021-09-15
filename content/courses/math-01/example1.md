@@ -5,7 +5,6 @@ toc: true
 type: docs
 date: "2021-09-09T00:00:00+01:00"
 draft: false
-math: true
 menu:
   math-01:
     parent: 
@@ -15,13 +14,13 @@ menu:
 weight: 10
 ---
 
-![featured](/docs/courses/math-01/dices.jpg)
-
 ## L’insieme dei numeri naturali
 
 |competenze|conoscenze|abilità|periodo|
 |:---|:---|:---|---:|
 |M1, M2, M3|Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat|in nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orc| settembre-ottobre|
+
+![majong](./majong.jpg)
 
 ## math inline
 
@@ -47,4 +46,3 @@ Cras aliquam rhoncus ipsum, in hendrerit $\mathbb{N}$ nunc mattis vitae. Duis vi
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 ## Divisibilità e "numeri primi"
-

@@ -14,13 +14,15 @@ menu:
 weight: 20
 ---
 
-![chapter2_banner](../../../docs/img/startline.png)
-
 Here are some more tips for getting started with academia:
 
 ## Capitolo 2: Numeri razionali e numeri reali
 
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.
+
+![chapter2_banner](./majong_01.png)
+
+Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
 
 ## Frazioni
 

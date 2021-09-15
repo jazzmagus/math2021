@@ -37,31 +37,8 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img src=&#34;../majong.jpg&#34; alt=&#34;majong&#34;&gt;&lt;/p&gt;
-
-
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;../majong_01.png&#34; alt=&#34;A caption&#34; &gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  
-  &lt;p&gt;
-    A caption
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;../majong_01.png&#34; alt=&#34;majong&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;math-inline&#34;&gt;math inline&lt;/h2&gt;
 &lt;p&gt;questa è una formula &lt;code&gt;inline&lt;/code&gt;: $3x^2 - \sqrt{(4x-2)}$&lt;/p&gt;
 &lt;h2 id=&#34;math-in-block&#34;&gt;math in block&lt;/h2&gt;

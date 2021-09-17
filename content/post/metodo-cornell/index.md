@@ -62,7 +62,7 @@ gallery_item:
 
 > - references:
 >   - [The Cornell Note Taking System](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)
->   - [versione pdf](./Cornell.pdf)
+<!--   - [versione pdf](./metodo-Cornell.pdf) -->
 
 ---
 

@@ -53,7 +53,7 @@ gallery_item:
   image: theme-strawberry.png
 ---
 
-{{< toc >}}
+{{< toc hide_on="xl" >}}
 
 ## Saluti e presentazioni
 

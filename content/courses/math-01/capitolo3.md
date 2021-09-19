@@ -1,24 +1,24 @@
 ---
-title: capitolo 2
-linktitle: Capitolo 2 
+title: Numeri razionali e numeri reali
+linktitle: Capitolo 3 numeri Razionali e numeri Reali
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
-  math-03:
+  math-01:
     parent: 
     weight: 
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 20
+weight: 30
 ---
 
 > ☆ **scadenza**: 30 ottobre 2021
 
 ![ex2_img](../ex2_img.png)
 
-## Capitolo 2
+## Capitolo 3: Numeri razionali e numeri reali
 
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.
 

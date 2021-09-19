@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Matematica per le classi seconde
-summary: Lezioni di matematica per le classi Prime dei bienni della Scuola Secondaria di Secondo Grado.
+summary: Lezioni di matematica per le classi seconde dei bienni della Scuola Secondaria di Secondo Grado.
 weight: 1
 
 # Page metadata.
@@ -16,7 +16,7 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  math-01:
+  math-02:
     name: Matematica per le Classi Seconde
     weight: 1
 ---

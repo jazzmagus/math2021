@@ -49,6 +49,8 @@ Rappresentazione degli insiemi numericisu una retta orientata.
 - **Numeri irrazionali** e loro rappresentazione decimale.
  Concetto di `approssimazione` ed `errore` di un’approssimazione.
 
+---
+
 ## Abilità
 
 - Eseguire i calcoli con i numeri degli insiemi numerici  $\mathbb{N}$, $\mathbb{Z}$ e $\mathbb{Q}$
@@ -58,6 +60,8 @@ Trasformare la scrittura di un numero naturale dalla base $10$ alla base $b$ e v
 scrivere un numero decimale finito in notazione scientifica e determinarne l’`ordine di grandezza`.
 - Risolvere problemi su **proporzioni** e **percentuali**.
 Calcolare l’errore relativo di un’approssimazione conoscendo l’errore assoluto e viceversa e determinare il valore abbreviato e quello arrotondato di un numero decimale.
+
+---
 
 ## competenze
 

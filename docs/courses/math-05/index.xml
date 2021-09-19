@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matematica per le classi quinte on The Math of Things</title>
+    <link>https://jazzmagus.github.io/math2021/courses/math-05/</link>
+    <description>Recent content in Matematica per le classi quinte on The Math of Things</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>it</language>
+    <copyright>Copyright &amp;copy; JaZzMaGuS {year}</copyright>
+    <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jazzmagus.github.io/math2021/courses/math-05/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Numeri naturali e numeri interi relativi</title>
+      <link>https://jazzmagus.github.io/math2021/courses/math-05/capitolo1/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://jazzmagus.github.io/math2021/courses/math-05/capitolo1/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 settembre 2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../majong_01.png&#34; alt=&#34;ex1_img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;linsieme-dei-numeri-naturali&#34;&gt;L’insieme dei numeri naturali&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Numeri, continuamente numeri: il numero dei giri, il numero della macchina, il distacco, il tempo trascorso, il tempo che manca, il numero sulla maglia, il punteggio&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Servono veramente tutti questi numeri?&lt;/li&gt;
+&lt;li&gt;Sono essenziali o se ne potrebbe fare a meno?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;numeri-naturali-e-il-loro-ordinamento&#34;&gt;numeri naturali e il loro ordinamento&lt;/h2&gt;
+&lt;p&gt;$$ \mathbb{N} = \{ 0; 1; 2; 3; \dots \} $$&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;h2 id=&#34;le-quattro-operazioni-aritmetiche-con-i-numeri-naturali&#34;&gt;Le quattro operazioni aritmetiche con i numeri naturali&lt;/h2&gt;
+&lt;h3 id=&#34;addizione-e-sue-proprietà&#34;&gt;addizione e sue proprietà&lt;/h3&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo.&lt;/p&gt;
+&lt;h3 id=&#34;sottrazione-e-sue-proprietà&#34;&gt;sottrazione e sue proprietà&lt;/h3&gt;
+&lt;p&gt;Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;h3 id=&#34;moltiplicazione-e-sue-proprietà&#34;&gt;moltiplicazione e sue proprietà&lt;/h3&gt;
+&lt;h3 id=&#34;divisione-e-sue-proprietà&#34;&gt;divisione e sue proprietà&lt;/h3&gt;
+&lt;h4 id=&#34;osservazione&#34;&gt;osservazione&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;questa è un&amp;rsquo;interessante osservazione&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;potenze-in-mathbbn-e-loro-proprieta&#34;&gt;Potenze in $\mathbb{N}$ e loro proprieta`&lt;/h2&gt;
+&lt;h3 id=&#34;definizione-di-potenza&#34;&gt;definizione di potenza&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;DEFINIZIONE&lt;/strong&gt;:
+La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ &lt;code&gt;fattori&lt;/code&gt; uguali ad $a$:&lt;/p&gt;
+&lt;p&gt;$$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \; \text{volte}}$$&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;espressioni-con-in-numeri-naturali&#34;&gt;Espressioni con in numeri naturali&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.&lt;/p&gt;
+&lt;h2 id=&#34;divisibilità-e-numeri-primi&#34;&gt;Divisibilità e &amp;ldquo;numeri primi&amp;rdquo;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Numeri razionali e numeri reali</title>
+      <link>https://jazzmagus.github.io/math2021/courses/math-05/capitolo2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://jazzmagus.github.io/math2021/courses/math-05/capitolo2/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 ottobre 2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../ex2_img.png&#34; alt=&#34;ex2_img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;capitolo-2-numeri-razionali-e-numeri-reali&#34;&gt;Capitolo 2: Numeri razionali e numeri reali&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&lt;/p&gt;
+&lt;h2 id=&#34;frazioni&#34;&gt;Frazioni&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--razionali&#34;&gt;L’insieme  dei  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;operazioni--con--i--numeri--razionali&#34;&gt;operazioni  con  i  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;potenze-in-mathbbq&#34;&gt;potenze in $\mathbb{Q}$&lt;/h2&gt;
+&lt;h2 id=&#34;frazioni--e--numeri--decimali&#34;&gt;Frazioni  e  numeri  decimali&lt;/h2&gt;
+&lt;h2 id=&#34;proporzioni&#34;&gt;Proporzioni&lt;/h2&gt;
+&lt;h2 id=&#34;percentuali&#34;&gt;percentuali&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--reali&#34;&gt;L’insieme  dei  numeri  reali&lt;/h2&gt;
+&lt;h2 id=&#34;calcolo--approssimato&#34;&gt;Calcolo  approssimato&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

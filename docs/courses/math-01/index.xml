@@ -33,12 +33,33 @@
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;numeri-naturali-e-il-loro-ordinamento&#34;&gt;numeri naturali e il loro ordinamento&lt;/h2&gt;
 &lt;p&gt;$$ \mathbb{N} = \{ 0; 1; 2; 3; \dots \} $$&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;nascono dall&amp;rsquo;attività del &lt;code&gt;contare&lt;/code&gt;, per questo vengono detti &lt;strong&gt;naturali&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;proprietà dell’insieme $N$.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;L’insieme dei numeri naturali è &lt;code&gt;infinito&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Ogni numero naturale ha un &lt;code&gt;successivo&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Ogni numero naturale, eccetto lo zero, ha un &lt;code&gt;precedente&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Lo &lt;code&gt;zero&lt;/code&gt; è l’elemento &lt;code&gt;minimo&lt;/code&gt; dell’insieme dei numeri naturali.&lt;/li&gt;
+&lt;li&gt;L’insieme dei numeri naturali &lt;code&gt;non&lt;/code&gt; ha un elemento &lt;code&gt;massimo&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Per indicare che due numeri $a$ e $b$ sono uguali, useremo il simbolo $=$ e scriveremo: $a=b$ leggendo «&lt;em&gt;$a$ è uguale a $b$&lt;/em&gt;»;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ad esempio $17=17$.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;La relazione di &lt;strong&gt;uguaglianza&lt;/strong&gt; tra due numeri naturali gode delle seguenti proprietà:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;riflessiva&lt;/strong&gt;: ogni numero è uguale a se stesso: $a=a$;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;simmetrica&lt;/strong&gt;: se $a=b$ allora $b=a$;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;transitiva&lt;/strong&gt;:se $a=b$ e $b=c$ allora $a=c$.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I numeri naturali hanno un &lt;code&gt;ordine&lt;/code&gt;, cioè, dati due numeri naturali, diversi tra loro, è sempre possibile confrontarli stabilendo tra essi una relazione di &lt;strong&gt;disuguaglianza&lt;/strong&gt;: se nella successione dei numeri naturali un numero $a$ precede un numero $b$, si dice che $a$ è &lt;strong&gt;minore&lt;/strong&gt; di $b$ e si scrive $a&amp;lt;b$; se invece $a$ segue $b$, si dice che $a$ è &lt;strong&gt;maggiore&lt;/strong&gt; di $b$ e si scrive $a&amp;gt;b$.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;le-quattro-operazioni-aritmetiche-con-i-numeri-naturali&#34;&gt;Le quattro operazioni aritmetiche con i numeri naturali&lt;/h2&gt;
 &lt;h3 id=&#34;addizione-e-sue-proprietà&#34;&gt;addizione e sue proprietà&lt;/h3&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo.&lt;/p&gt;
 &lt;h3 id=&#34;sottrazione-e-sue-proprietà&#34;&gt;sottrazione e sue proprietà&lt;/h3&gt;
-&lt;p&gt;Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;h3 id=&#34;moltiplicazione-e-sue-proprietà&#34;&gt;moltiplicazione e sue proprietà&lt;/h3&gt;
 &lt;h3 id=&#34;divisione-e-sue-proprietà&#34;&gt;divisione e sue proprietà&lt;/h3&gt;
 &lt;h4 id=&#34;osservazione&#34;&gt;osservazione&lt;/h4&gt;
@@ -46,7 +67,7 @@
 &lt;p&gt;questa è un&amp;rsquo;interessante osservazione&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;potenze-in-mathbbn-e-loro-proprieta&#34;&gt;Potenze in $\mathbb{N}$ e loro proprieta`&lt;/h2&gt;
+&lt;h2 id=&#34;potenze-in-mathbbn-e-loro-proprietà&#34;&gt;Potenze in $\mathbb{N}$ e loro proprietà&lt;/h2&gt;
 &lt;h3 id=&#34;definizione-di-potenza&#34;&gt;definizione di potenza&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;DEFINIZIONE&lt;/strong&gt;:
@@ -56,6 +77,11 @@ La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prod
 &lt;h2 id=&#34;espressioni-con-in-numeri-naturali&#34;&gt;Espressioni con in numeri naturali&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.&lt;/p&gt;
 &lt;h2 id=&#34;divisibilità-e-numeri-primi&#34;&gt;Divisibilità e &amp;ldquo;numeri primi&amp;rdquo;&lt;/h2&gt;
+&lt;h2 id=&#34;massimo--comune--divisore--e--minimo--comune--multiplo&#34;&gt;Massimo  comune  divisore  e  minimo  comune  multiplo&lt;/h2&gt;
+&lt;h2 id=&#34;sistemi--di--numerazione&#34;&gt;Sistemi  di  numerazione&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--interi--relativi&#34;&gt;L’insieme  dei  numeri  interi  relativi&lt;/h2&gt;
+&lt;h2 id=&#34;le-quattro-operazioni-aritmetiche-con-i-numeri-interi-relativi&#34;&gt;Le quattro operazioni aritmetiche con i numeri interi relativi&lt;/h2&gt;
+&lt;h2 id=&#34;potenza--di--un--numero--intero--relativo&#34;&gt;Potenza  di  un  numero  intero  relativo&lt;/h2&gt;
 </description>
     </item>
     

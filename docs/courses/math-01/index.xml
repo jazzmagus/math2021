@@ -44,9 +44,9 @@
 &lt;li&gt;Lo &lt;code&gt;zero&lt;/code&gt; è l’elemento &lt;code&gt;minimo&lt;/code&gt; dell’insieme dei numeri naturali.&lt;/li&gt;
 &lt;li&gt;L’insieme dei numeri naturali &lt;code&gt;non&lt;/code&gt; ha un elemento &lt;code&gt;massimo&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Per indicare che due numeri $a$ e $b$ sono uguali, useremo il simbolo $=$ e scriveremo: $a=b$ leggendo «&lt;em&gt;$a$ è uguale a $b$&lt;/em&gt;»;&lt;/p&gt;
+&lt;p&gt;Per indicare che due numeri $a$ e $b$ sono uguali, useremo il simbolo $=$ e scriveremo: $$a=b$$ leggendo «&lt;em&gt;$a$ è uguale a $b$&lt;/em&gt;»;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;ad esempio $17=17$.&lt;/p&gt;
+&lt;p&gt;ad esempio: $$17=17$$.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;La relazione di &lt;strong&gt;uguaglianza&lt;/strong&gt; tra due numeri naturali gode delle seguenti proprietà:&lt;/p&gt;
 &lt;ul&gt;
@@ -55,7 +55,11 @@
 &lt;li&gt;&lt;strong&gt;transitiva&lt;/strong&gt;:se $a=b$ e $b=c$ allora $a=c$.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I numeri naturali hanno un &lt;code&gt;ordine&lt;/code&gt;, cioè, dati due numeri naturali, diversi tra loro, è sempre possibile confrontarli stabilendo tra essi una relazione di &lt;strong&gt;disuguaglianza&lt;/strong&gt;: se nella successione dei numeri naturali un numero $a$ precede un numero $b$, si dice che $a$ è &lt;strong&gt;minore&lt;/strong&gt; di $b$ e si scrive $a&amp;lt;b$; se invece $a$ segue $b$, si dice che $a$ è &lt;strong&gt;maggiore&lt;/strong&gt; di $b$ e si scrive $a&amp;gt;b$.&lt;/p&gt;
+&lt;p&gt;I numeri naturali hanno un &lt;code&gt;ordine&lt;/code&gt;, cioè, dati due numeri naturali, diversi tra loro, è sempre possibile confrontarli stabilendo tra essi una relazione di &lt;strong&gt;disuguaglianza&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;se nella successione dei numeri naturali un numero $a$ precede un numero $b$, si dice che $a$ è &lt;strong&gt;minore&lt;/strong&gt; di $b$ e si scrive: $$a&amp;lt;b$$&lt;/li&gt;
+&lt;li&gt;se invece $a$ segue $b$, si dice che $a$ è &lt;strong&gt;maggiore&lt;/strong&gt; di $b$ e si scrive: $$a&amp;gt;b$$&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;le-quattro-operazioni-aritmetiche-con-i-numeri-naturali&#34;&gt;Le quattro operazioni aritmetiche con i numeri naturali&lt;/h2&gt;
 &lt;h3 id=&#34;addizione-e-sue-proprietà&#34;&gt;addizione e sue proprietà&lt;/h3&gt;

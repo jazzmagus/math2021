@@ -67,3 +67,9 @@ Calcolare l’errore relativo di un’approssimazione conoscendo l’errore asso
 
 - Utilizzare le tecniche e le procedure del calcolo aritmetico ed algebrico, rappresentandole anche sottoforma grafica.
 - Analizzare dati e interpretarli sviluppando deduzioni e ragionamenti sugli stessi anche con l’ausilio dirappresentazioni grafiche, usando consapevolmente gli strumenti di calcolo e le potenzialità offerte da applicazioni specifiche di tipo informatico.
+
+---
+
+[La bellezza dei numeri](https://youtu.be/cCJU5By_b8U)
+
+{{< youtube cCJU5By_b8U>}}

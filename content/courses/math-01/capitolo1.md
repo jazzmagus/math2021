@@ -35,7 +35,12 @@ weight: 10
 
 $$ \mathbb{N} = \\{ 0; 1; 2; 3; \dots \\} $$
 
-- nascono dall'attività del `contare`, per questo vengono detti **naturali**.
+>**osservazione**: l'inserimento dello `zero` nell'insieme $\mathbb{N}$ è ancor oggi una questione controversa, tanto che, a volte, si rende necessario distinguere i due *diversi* insiemi $\mathbb{N}$ in:
+- $\mathbb{N}$: insieme dei numeri naturali, compreso lo `zero` (regalatoci dagli indiani...)
+
+- $\mathbb{N^*}$: insieme dei numeri naturali, escluso lo `zero`
+
+Nascono comunque dall'attività dell'uomo del `contare`, per questo vengono detti **naturali**.
 
 ### proprietà dell’insieme $N$
 
@@ -124,6 +129,8 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}\_{21+15=36} = \underbrace{3 \cdot (7+5)}\_{
 
 ### divisione e sue proprietà
 
+---
+
 ## Potenze in $\mathbb{N}$ e loro proprietà
 
 ### definizione di potenza
@@ -133,8 +140,6 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}\_{21+15=36} = \underbrace{3 \cdot (7+5)}\_{
 $$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \\; \text{volte}}$$
 
 ## Espressioni con in numeri naturali
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 ## Divisibilità e "numeri primi"
 

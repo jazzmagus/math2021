@@ -175,6 +175,7 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}_{21+15=36} = \underbrace{3 \cdot (7+5)}_{3 
 &lt;li&gt;&lt;strong&gt;Legge&lt;/strong&gt; di &lt;code&gt;annullamento del prodotto&lt;/code&gt;: se il prodotto tra due o più fattori è &lt;code&gt;zero&lt;/code&gt; allora almeno uno dei fattori è &lt;code&gt;zero&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;divisione-e-sue-proprietà&#34;&gt;divisione e sue proprietà&lt;/h3&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;potenze-in-mathbbn-e-loro-proprietà&#34;&gt;Potenze in $\mathbb{N}$ e loro proprietà&lt;/h2&gt;
 &lt;h3 id=&#34;definizione-di-potenza&#34;&gt;definizione di potenza&lt;/h3&gt;
 &lt;ul&gt;
@@ -182,7 +183,6 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}_{21+15=36} = \underbrace{3 \cdot (7+5)}_{3 
 &lt;/ul&gt;
 &lt;p&gt;$$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \; \text{volte}}$$&lt;/p&gt;
 &lt;h2 id=&#34;espressioni-con-in-numeri-naturali&#34;&gt;Espressioni con in numeri naturali&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.&lt;/p&gt;
 &lt;h2 id=&#34;divisibilità-e-numeri-primi&#34;&gt;Divisibilità e &amp;ldquo;numeri primi&amp;rdquo;&lt;/h2&gt;
 &lt;h2 id=&#34;massimo--comune--divisore--e--minimo--comune--multiplo&#34;&gt;Massimo  comune  divisore  e  minimo  comune  multiplo&lt;/h2&gt;
 &lt;h2 id=&#34;sistemi--di--numerazione&#34;&gt;Sistemi  di  numerazione&lt;/h2&gt;

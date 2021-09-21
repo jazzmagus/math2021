@@ -101,7 +101,7 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 - La sottrazione gode della proprietà `invariantiva`: se si somma o si sottrae uno stesso numero sia al minuendo sia al sottraendo, la differenza non cambia: $$(a-b)=(a+c)-(b+c)$$
   - Grazie alla proprietà invariantiva possiamo eseguire rapidamente alcune sottrazioni: $$(198-48)=(198+2)-(48+2)=200-50=150$$
 
-- La sottrazione non gode della proprietà **commutativa** (75¼2ma57 non è calcolabile in $\mathbb{N}$) e non ammette elemento neutro (20¼2 ma 02 non si può eseguire in $\mathbb{N}$).
+- La sottrazione non gode della proprietà **commutativa**: $7- 5 =2$, ma $5-7$ non è calcolabile in $\mathbb{N}$ e non ammette elemento neutro: $2- 0 =2$, ma $0-2$ non si può eseguire in $\mathbb{N}$.
 - La sottrazione non gode neppure della proprietà **associativa**.
   - Ad esempio per calcolare $15-4-2$ è necessario eseguire le sottrazioni `nell’ordine` indicato: $$\underbrace{(15-4)}_{11}-2=9$$
 
@@ -116,7 +116,8 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 3. proprietà **distributiva**:
    - della moltiplicazione rispetto alla addizione: $$a \cdot (b+c)= a \cdot b + a \cdot c$$
    - della moltiplicazione rispetto alla sottrazione: $$a \cdot (b-c)= a \cdot b - a \cdot c$$
-4. raccoglimento a `fattor comune`: si ottiene leggendo nell'altro verso la proprietà distributiva: se in una somma **tutti** gli addendi hanno un `fattore` in comune, esso può essere `raccolto` e `moltiplicato` per la somma degli altri termini; allo stesso modo per la differenza: $$\underbrace{3 \cdot 7 + 3 \cdot 5}_{21+15=36} = \underbrace{3 \cdot (7+5)}_{3 \cdot 12=36}$$
+4. raccoglimento a `fattor comune`: si ottiene leggendo nell'altro verso la proprietà distributiva: se in una somma **tutti** gli addendi hanno un `fattore` in comune, esso può essere `raccolto` e `moltiplicato` per la somma degli altri termini; allo stesso modo per la differenza:
+   - $$\underbrace{3 \cdot 7 + 3 \cdot 5}_{21+15=36} = \underbrace{3 \cdot (7+5)}_{3 \cdot 12=36}$$
 5. esistenza dell'elemento `neutro`: moltiplicando qualsiasi numero per `uno` si ottiene il numero dato
 6. esistenza dell'`elemento annullatore`: moltiplicando qualsiasi numero per `zero` si ottiene `zero`
 7. **Legge** di `annullamento del prodotto`: se il prodotto tra due o più fattori è `zero` allora almeno uno dei fattori è `zero`
@@ -124,6 +125,10 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 ### divisione e sue proprietà
 
 ## Potenze in $\mathbb{N}$ e loro proprietà
+
+$$\underbrace{3 \cdot 7 + 3 \cdot 5}_{21+15=36} = \underbrace{3 \cdot \(  7 +5 \)}_{21 + 15 = 36}$$
+
+$$\underbrace{3 \cdot 7+3 \cdot 5}_{21+15=36}=\underbrace{3 \cdot(7+5)}_{3 \cdot 12=36}$$
 
 ### definizione di potenza
 

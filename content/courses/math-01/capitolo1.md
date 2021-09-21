@@ -90,13 +90,28 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 
 ### sottrazione e sue proprietà
 
+- è un’operazione che si esegue tra due numeri, considerati nell’ordine, il primo detto `minuendo` e il secondo `sottraendo`. Il risultato della sottrazione si chiama `differenza`.
+
+>**definizione**: la **differenza** tra due numeri naturali è quel numero naturale, se esiste, che che addizionato al `sottraendo` dà come somma il `minuendo`.
+>
+>- esempio: $5-2=3$ perché $5=3+2$
+
+- casi particolari:
+- La sottrazione $4-6$ non si può eseguire in $\mathbb{N}$ perché non esiste alcun numero naturale che, sommato a $6$, dia $4$.
+- La sottrazione, nell’insieme dei numeri naturali, si può eseguire solo se il minuendo è **maggiore** o **uguale** al sottraendo: $$a-b=c \rightarrow a= b+c$$ con $$a\geq c$$
+
+- La sottrazione gode della proprietà `invariantiva`: se si somma o si sottrae uno stesso numero sia al minuendo sia al sottraendo, la differenza non cambia: $$(a-b)=(a+c)-(b+c)$$
+  - Grazie alla proprietà invariantiva possiamo eseguire rapidamente alcune sottrazioni: $$(198-48)=(198+2)-(48+2)=200-50=150$$
+
+- La sottrazione non gode della proprietà **commutativa** (75¼2ma57 non è calcolabile in $\mathbb{N}$) e non ammette elemento neutro (20¼2 ma 02 non si può eseguire in $\mathbb{N}$).
+- La sottrazione non gode neppure della proprietà **associativa**.
+  - Ad esempio per calcolare $15-4-2$ è necessario eseguire le sottrazioni `nell’ordine` indicato: $$\underbrace{(15-4)}_{11}-2=9$$
+
+---
+
 ### moltiplicazione e sue proprietà
 
 ### divisione e sue proprietà
-
-#### osservazione
-
----
 
 ## Potenze in $\mathbb{N}$ e loro proprietà
 

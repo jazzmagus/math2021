@@ -1,6 +1,6 @@
 ---
 title: Numeri razionali e numeri reali
-linktitle: Capitolo 3 numeri Razionali e numeri Reali
+linktitle: Capitolo 3 Insiemi e Logica
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"

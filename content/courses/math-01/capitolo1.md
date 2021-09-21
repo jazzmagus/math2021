@@ -105,9 +105,21 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 - La sottrazione non gode neppure della proprietà **associativa**.
   - Ad esempio per calcolare $15-4-2$ è necessario eseguire le sottrazioni `nell’ordine` indicato: $$\underbrace{(15-4)}_{11}-2=9$$
 
----
-
 ### moltiplicazione e sue proprietà
+
+>**definizione**: **prodotto** di due numeri naturali
+>
+>- è la somma di tanti addendi uguali al primo fattore quante sono le unità indicate dal secondo: $$a \cdot b= \underbrace{a+a+a+ \ldots + a}_{b \\; \text{addendi}}$$
+
+1. proprietà **commutativa**: il prodotto tra due o più fattori non cambia se cambia il loro `ordine`: $$a \cdot b = b \cdot a$$
+2. proprietà **associativa**: il prodotto di tre numeri non cambia se a due fattori consecutivi si sostituisce il loro prodotto: $$(a \cdot b)\cdot c= a \cdot (b \cdot c)$$
+3. proprietà **distributiva**:
+   - della moltiplicazione rispetto alla addizione: $$a \cdot (b+c)= a \cdot b + a \cdot c$$
+   - della moltiplicazione rispetto alla sottrazione: $$a \cdot (b-c)= a \cdot b - a \cdot c$$
+4. raccoglimento a `fattor comune`: si ottiene leggendo nell'altro verso la proprietà distributiva: se in una somma **tutti** gli addendi hanno un `fattore` in comune, esso può essere `raccolto` e `moltiplicato` per la somma degli altri termini; allo stesso modo per la differenza: $$\underbrace{3 \cdot 7 + 3 \cdot 5}_{21+15=36} = \underbrace{3 \cdot (7+5)}_{3 \cdot 12=36}$$
+5. esistenza dell'elemento `neutro`: moltiplicando qualsiasi numero per `uno` si ottiene il numero dato
+6. esistenza dell'`elemento annullatore`: moltiplicando qualsiasi numero per `zero` si ottiene `zero`
+7. **Legge** di `annullamento del prodotto`: se il prodotto tra due o più fattori è `zero` allora almeno uno dei fattori è `zero`
 
 ### divisione e sue proprietà
 

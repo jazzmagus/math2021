@@ -6,6 +6,7 @@ type: docs
 date: "2021-09-09T00:00:00+01:00"
 draft: false
 diagram: true
+toc: false
 menu:
   math-01:
     parent: 
@@ -30,11 +31,13 @@ weight: 10
 
 ## numeri naturali e il loro ordinamento
 
+- come si rappresentano gli insiemi numerici?
+
 $$ \mathbb{N} = \\{ 0; 1; 2; 3; \dots \\} $$
 
 - nascono dall'attività del `contare`, per questo vengono detti **naturali**.
 
-proprietà dell’insieme $N$.
+### proprietà dell’insieme $N$
 
 - L’insieme dei numeri naturali è `infinito`.
 - Ogni numero naturale ha un `successivo`.
@@ -44,6 +47,8 @@ proprietà dell’insieme $N$.
 
 Per indicare che due numeri $a$ e $b$ sono uguali, useremo il simbolo $=$ e scriveremo: $$a=b$$ leggendo «*$a$ è uguale a $b$*»;
 
+- la precedente **relazione** è `bidirezionale`, cioè deve intendersi nelle due direzioni, *sempre*.
+
 Il termine a **sinistra** dell'uguale viene chiamato **primo membro**, mentre quello a **destra** si indica con **secondo membro**.
 
 >ad esempio: $$17=17$$
@@ -52,15 +57,36 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 
 - **riflessiva**: ogni numero è uguale a se stesso: $a=a$;
 - **simmetrica**: se $a=b$ allora $b=a$;
-- **transitiva**:se $a=b$ e $b=c$ allora $a=c$.
+- **transitiva**: se $a=b$ e $b=c$ allora $a=c$.
 
 - I numeri naturali hanno un `ordine`, cioè, dati due numeri naturali, diversi tra loro, è sempre possibile confrontarli stabilendo tra essi una relazione di **disuguaglianza**:
   - se nella successione dei numeri naturali un numero $a$ precede un numero $b$, si dice che $a$ è **minore** di $b$ e si scrive: $$a<b$$
   - se invece $a$ segue $b$, si dice che $a$ è **maggiore** di $b$ e si scrive: $$a>b$$
+- per indicare le relazioni d'ordine vengono utilizzati anche i simboli di **disuguaglianza**:
+  - **maggiore o uguale**: si indica con il simbolo "$\geq$": $$a \geq b$$
+    - **minire o uguale**: si indica con il simbolo "$\leq$": $$a \leq b$$
+  >es.: proprietà transitiva della **disuguaglianza**:
+  >
+  >- se $a \leq b$ e $b \leq c$, allora $a \leq c$
+  >
+- I numeri naturali possono essere facilmente **rappresentati** graficamente attraverso una **semiretta orientata**
+
+![semiretta numeri naturali](../semiretta_naturali.svg)
 
 ## Le quattro operazioni aritmetiche con i numeri naturali
 
+> I numeri naturali
+
 ### addizione e sue proprietà
+
+>**definizione**: la **somma** di due numeri naturali è quel numero naturale che si ottiene contando di seguito al primo tutte le unità del secondo.
+
+1. proprietà **associativa**:
+   - cambiando l'**ordine** degli addendi il risultato non cambia
+2. proprietà **commutativa**:
+   - la somma di tre numeri non cambia se a due addendiconsecutivi si sostituisce la loro somma
+3. Esiste l'**elemento neutro** dell’addizione:
+   - è il `numero zero`. Ciò significa che sommando *zero* a qualsiasi numero si ottiene il numero dato
 
 ### sottrazione e sue proprietà
 
@@ -69,8 +95,6 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 ### divisione e sue proprietà
 
 #### osservazione
-
->questa è un'interessante osservazione
 
 ---
 

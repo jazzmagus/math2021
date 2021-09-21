@@ -112,23 +112,19 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 >- è la somma di tanti addendi uguali al primo fattore quante sono le unità indicate dal secondo: $$a \cdot b= \underbrace{a+a+a+ \ldots + a}_{b \\; \text{addendi}}$$
 
 1. proprietà **commutativa**: il prodotto tra due o più fattori non cambia se cambia il loro `ordine`: $$a \cdot b = b \cdot a$$
-2. proprietà **associativa**: il prodotto di tre numeri non cambia se a due fattori consecutivi si sostituisce il loro prodotto: $$(a \cdot b)\cdot c= a \cdot (b \cdot c)$$
-3. proprietà **distributiva**:
+1. proprietà **associativa**: il prodotto di tre numeri non cambia se a due fattori consecutivi si sostituisce il loro prodotto: $$(a \cdot b)\cdot c= a \cdot (b \cdot c)$$
+1. proprietà **distributiva**:
    - della moltiplicazione rispetto alla addizione: $$a \cdot (b+c)= a \cdot b + a \cdot c$$
    - della moltiplicazione rispetto alla sottrazione: $$a \cdot (b-c)= a \cdot b - a \cdot c$$
-4. raccoglimento a `fattor comune`: si ottiene leggendo nell'altro verso la proprietà distributiva: se in una somma **tutti** gli addendi hanno un `fattore` in comune, esso può essere `raccolto` e `moltiplicato` per la somma degli altri termini; allo stesso modo per la differenza:
-   - $$\underbrace{3 \cdot 7 + 3 \cdot 5}_{21+15=36} = \underbrace{3 \cdot (7+5)}_{3 \cdot 12=36}$$
-5. esistenza dell'elemento `neutro`: moltiplicando qualsiasi numero per `uno` si ottiene il numero dato
-6. esistenza dell'`elemento annullatore`: moltiplicando qualsiasi numero per `zero` si ottiene `zero`
-7. **Legge** di `annullamento del prodotto`: se il prodotto tra due o più fattori è `zero` allora almeno uno dei fattori è `zero`
+1. raccoglimento a `fattor comune`: si ottiene leggendo nell'altro verso la proprietà distributiva: se in una somma **tutti** gli addendi hanno un `fattore` in comune, esso può essere `raccolto` e `moltiplicato` per la somma degli altri termini; allo stesso modo per la differenza:
+$$\underbrace{3 \cdot 7 + 3 \cdot 5}\_{21+15=36} = \underbrace{3 \cdot (7+5)}\_{3 \cdot 12 = 36} \qquad \underbrace{8 \cdot 12-8 \cdot 9}\_{96-72=24}=\underbrace{8 \cdot(12-9)}\_{8 \cdot 3=24}$$
+1. esistenza dell'elemento `neutro`: moltiplicando qualsiasi numero per `uno` si ottiene il numero dato
+1. esistenza dell'`elemento annullatore`: moltiplicando qualsiasi numero per `zero` si ottiene `zero`
+1. **Legge** di `annullamento del prodotto`: se il prodotto tra due o più fattori è `zero` allora almeno uno dei fattori è `zero`
 
 ### divisione e sue proprietà
 
 ## Potenze in $\mathbb{N}$ e loro proprietà
-
-$$\underbrace{3 \cdot 7 + 3 \cdot 5}_{21+15=36} = \underbrace{3 \cdot \(  7 +5 \)}_{21 + 15 = 36}$$
-
-$$\underbrace{3 \cdot 7+3 \cdot 5}_{21+15=36}=\underbrace{3 \cdot(7+5)}_{3 \cdot 12=36}$$
 
 ### definizione di potenza
 

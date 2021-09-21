@@ -169,18 +169,13 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;raccoglimento a &lt;code&gt;fattor comune&lt;/code&gt;: si ottiene leggendo nell&amp;rsquo;altro verso la proprietà distributiva: se in una somma &lt;strong&gt;tutti&lt;/strong&gt; gli addendi hanno un &lt;code&gt;fattore&lt;/code&gt; in comune, esso può essere &lt;code&gt;raccolto&lt;/code&gt; e &lt;code&gt;moltiplicato&lt;/code&gt; per la somma degli altri termini; allo stesso modo per la differenza:
-&lt;ul&gt;
-&lt;li&gt;$$\underbrace{3 \cdot 7 + 3 \cdot 5}&lt;em&gt;{21+15=36} = \underbrace{3 \cdot (7+5)}&lt;/em&gt;{3 \cdot 12=36}$$&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+$$\underbrace{3 \cdot 7 + 3 \cdot 5}_{21+15=36} = \underbrace{3 \cdot (7+5)}_{3 \cdot 12 = 36} \qquad \underbrace{8 \cdot 12-8 \cdot 9}_{96-72=24}=\underbrace{8 \cdot(12-9)}_{8 \cdot 3=24}$$&lt;/li&gt;
 &lt;li&gt;esistenza dell&amp;rsquo;elemento &lt;code&gt;neutro&lt;/code&gt;: moltiplicando qualsiasi numero per &lt;code&gt;uno&lt;/code&gt; si ottiene il numero dato&lt;/li&gt;
 &lt;li&gt;esistenza dell&#39;&lt;code&gt;elemento annullatore&lt;/code&gt;: moltiplicando qualsiasi numero per &lt;code&gt;zero&lt;/code&gt; si ottiene &lt;code&gt;zero&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Legge&lt;/strong&gt; di &lt;code&gt;annullamento del prodotto&lt;/code&gt;: se il prodotto tra due o più fattori è &lt;code&gt;zero&lt;/code&gt; allora almeno uno dei fattori è &lt;code&gt;zero&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;divisione-e-sue-proprietà&#34;&gt;divisione e sue proprietà&lt;/h3&gt;
 &lt;h2 id=&#34;potenze-in-mathbbn-e-loro-proprietà&#34;&gt;Potenze in $\mathbb{N}$ e loro proprietà&lt;/h2&gt;
-&lt;p&gt;$$\underbrace{3 \cdot 7 + 3 \cdot 5}&lt;em&gt;{21+15=36} = \underbrace{3 \cdot (  7 +5 )}&lt;/em&gt;{21 + 15 = 36}$$&lt;/p&gt;
-&lt;p&gt;$$\underbrace{3 \cdot 7+3 \cdot 5}&lt;em&gt;{21+15=36}=\underbrace{3 \cdot(7+5)}&lt;/em&gt;{3 \cdot 12=36}$$&lt;/p&gt;
 &lt;h3 id=&#34;definizione-di-potenza&#34;&gt;definizione di potenza&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;DEFINIZIONE&lt;/strong&gt;:

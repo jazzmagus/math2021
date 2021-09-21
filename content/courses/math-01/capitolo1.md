@@ -128,10 +128,9 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}\_{21+15=36} = \underbrace{3 \cdot (7+5)}\_{
 
 ### definizione di potenza
 
-> **DEFINIZIONE**:
-> La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ `fattori` uguali ad $a$:
->
-> $$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \\; \text{volte}}$$
+- **DEFINIZIONE**: La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ `fattori` uguali ad $a$:
+
+$$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \\; \text{volte}}$$
 
 ## Espressioni con in numeri naturali
 
@@ -143,8 +142,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac 
 
 ## Sistemi  di  numerazione
 
-## L’insieme  dei  numeri  interi  relativi
+---
+
+## L’insieme  dei  numeri  interi  relativi $\mathbb{Z}$
 
 ## Le quattro operazioni aritmetiche con i numeri interi relativi
+
+- ### addizione
+
+- ### sottrazione
+
+- ### moltiplicazione
+
+- ### divisione
 
 ## Potenza  di  un  numero  intero  relativo

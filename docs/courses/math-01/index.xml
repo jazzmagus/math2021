@@ -177,18 +177,32 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}_{21+15=36} = \underbrace{3 \cdot (7+5)}_{3 
 &lt;h3 id=&#34;divisione-e-sue-proprietà&#34;&gt;divisione e sue proprietà&lt;/h3&gt;
 &lt;h2 id=&#34;potenze-in-mathbbn-e-loro-proprietà&#34;&gt;Potenze in $\mathbb{N}$ e loro proprietà&lt;/h2&gt;
 &lt;h3 id=&#34;definizione-di-potenza&#34;&gt;definizione di potenza&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;DEFINIZIONE&lt;/strong&gt;:
-La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ &lt;code&gt;fattori&lt;/code&gt; uguali ad $a$:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;DEFINIZIONE&lt;/strong&gt;: La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ &lt;code&gt;fattori&lt;/code&gt; uguali ad $a$:&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;$$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \; \text{volte}}$$&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;h2 id=&#34;espressioni-con-in-numeri-naturali&#34;&gt;Espressioni con in numeri naturali&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.&lt;/p&gt;
 &lt;h2 id=&#34;divisibilità-e-numeri-primi&#34;&gt;Divisibilità e &amp;ldquo;numeri primi&amp;rdquo;&lt;/h2&gt;
 &lt;h2 id=&#34;massimo--comune--divisore--e--minimo--comune--multiplo&#34;&gt;Massimo  comune  divisore  e  minimo  comune  multiplo&lt;/h2&gt;
 &lt;h2 id=&#34;sistemi--di--numerazione&#34;&gt;Sistemi  di  numerazione&lt;/h2&gt;
-&lt;h2 id=&#34;linsieme--dei--numeri--interi--relativi&#34;&gt;L’insieme  dei  numeri  interi  relativi&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--interi--relativi-mathbbz&#34;&gt;L’insieme  dei  numeri  interi  relativi $\mathbb{Z}$&lt;/h2&gt;
 &lt;h2 id=&#34;le-quattro-operazioni-aritmetiche-con-i-numeri-interi-relativi&#34;&gt;Le quattro operazioni aritmetiche con i numeri interi relativi&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;addizione&#34;&gt;addizione&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;sottrazione&#34;&gt;sottrazione&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;moltiplicazione&#34;&gt;moltiplicazione&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;divisione&#34;&gt;divisione&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;potenza--di--un--numero--intero--relativo&#34;&gt;Potenza  di  un  numero  intero  relativo&lt;/h2&gt;
 </description>
     </item>

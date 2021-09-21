@@ -75,8 +75,6 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 
 ## Le quattro operazioni aritmetiche con i numeri naturali
 
-> I numeri naturali
-
 ### addizione e sue proprietà
 
 >**definizione**: la **somma** di due numeri naturali è quel numero naturale che si ottiene contando di seguito al primo tutte le unità del secondo.

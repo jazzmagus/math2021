@@ -6,7 +6,7 @@ type: docs
 date: "2021-09-09T00:00:00+01:00"
 draft: false
 diagram: true
-toc: false
+toc: true
 menu:
   math-01:
     parent: 
@@ -36,13 +36,14 @@ weight: 10
 $$ \mathbb{N} = \\{ 0; 1; 2; 3; \dots \\} $$
 
 >**osservazione**: l'inserimento dello `zero` nell'insieme $\mathbb{N}$ è ancor oggi una questione controversa, tanto che, a volte, si rende necessario distinguere i due *diversi* insiemi $\mathbb{N}$ in:
+
 - $\mathbb{N}$: insieme dei numeri naturali, compreso lo `zero` (regalatoci dagli indiani...)
 
 - $\mathbb{N^*}$: insieme dei numeri naturali, escluso lo `zero`
 
 Nascono comunque dall'attività dell'uomo del `contare`, per questo vengono detti **naturali**.
 
-### proprietà dell’insieme $N$
+## proprietà dell’insieme $N$
 
 - L’insieme dei numeri naturali è `infinito`.
 - Ogni numero naturale ha un `successivo`.
@@ -80,7 +81,7 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 
 ## Le quattro operazioni aritmetiche con i numeri naturali
 
-### addizione e sue proprietà
+## addizione e sue proprietà
 
 >**definizione**: la **somma** di due numeri naturali è quel numero naturale che si ottiene contando di seguito al primo tutte le unità del secondo.
 
@@ -91,7 +92,7 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 3. Esiste l'**elemento neutro** dell’addizione:
    - è il `numero zero`. Ciò significa che sommando *zero* a qualsiasi numero si ottiene il numero dato
 
-### sottrazione e sue proprietà
+## sottrazione e sue proprietà
 
 - è un’operazione che si esegue tra due numeri, considerati nell’ordine, il primo detto `minuendo` e il secondo `sottraendo`. Il risultato della sottrazione si chiama `differenza`.
 
@@ -110,7 +111,7 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 - La sottrazione non gode neppure della proprietà **associativa**.
   - Ad esempio per calcolare $15-4-2$ è necessario eseguire le sottrazioni `nell’ordine` indicato: $$\underbrace{(15-4)}_{11}-2=9$$
 
-### moltiplicazione e sue proprietà
+## moltiplicazione e sue proprietà
 
 >**definizione**: **prodotto** di due numeri naturali
 >
@@ -125,15 +126,27 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 $$\underbrace{3 \cdot 7 + 3 \cdot 5}\_{21+15=36} = \underbrace{3 \cdot (7+5)}\_{3 \cdot 12 = 36} \qquad \underbrace{8 \cdot 12-8 \cdot 9}\_{96-72=24}=\underbrace{8 \cdot(12-9)}\_{8 \cdot 3=24}$$
 1. esistenza dell'elemento `neutro`: moltiplicando qualsiasi numero per `uno` si ottiene il numero dato
 1. esistenza dell'`elemento annullatore`: moltiplicando qualsiasi numero per `zero` si ottiene `zero`
-1. **Legge** di `annullamento del prodotto`: se il prodotto tra due o più fattori è `zero` allora almeno uno dei fattori è `zero`
+1. **Legge di annullamento del prodotto**: se il prodotto tra due o più fattori è `zero` allora almeno uno dei fattori è `zero`
 
-### divisione e sue proprietà
+## divisione e sue proprietà
+
+- Il quoziente tra due numeri naturali, dei quali il secundo diverso da `zero`, è quel numero naturale, se esiste, che moltiplicato per il divisore dà il dividendo:
+- $a : b=c$, con $b \neq 0$, $\Longleftrightarrow a=b \cdot c$
+
+>se la divisione si può eseguire in $\mathbb{N}$, allora si dice che $a$ è **divisibile** per $b$ o anche che $b$ è **multiplo** di $a$
+
+- Ad esempio $24$ è divisibile per $6$  e $24$ è multiplo di $6$
+- La divisione $19:5$ non può essere eseguita in $\mathbb{N}$, poiché non esiste alcun numero naturale che, moltiplicato per $5$, dia $19$.
+
+- Non è invece possibile eseguire la divisione di un numero naturale e lo `zero`, poiché il risultato dovrebbe essere un numero che, moltiplicato per `zero` dia il numero iniziale, ma qualsiasi numero moltiplicato per `zero` restituisce `zero`, che rappresenta infatti l'elemento **annullatore** della moltiplicazione.
+- La divisione $0:0$ invece ha infiniti risultati, poiché esistono infiniti numeri che moltiplicati per `zero` danno come risultato `zero`.
+- La divisione per `zero` quindi **non è mai definita**
 
 ---
 
 ## Potenze in $\mathbb{N}$ e loro proprietà
 
-### definizione di potenza
+## definizione di potenza
 
 - **DEFINIZIONE**: La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ `fattori` uguali ad $a$:
 
@@ -153,12 +166,12 @@ $$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \\; \text{volte}}
 
 ## Le quattro operazioni aritmetiche con i numeri interi relativi
 
-- ### addizione
+- ## addizione
 
-- ### sottrazione
+- ## sottrazione
 
-- ### moltiplicazione
+- ## moltiplicazione
 
-- ### divisione
+- ## divisione
 
 ## Potenza  di  un  numero  intero  relativo

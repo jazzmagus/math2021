@@ -29,7 +29,7 @@ weight: 10
 > - Servono veramente tutti questi numeri?
 > - Sono essenziali o se ne potrebbe fare a meno?
 
-## numeri naturali e il loro ordinamento
+## numeri naturali e loro ordinamento
 
 - come si rappresentano gli insiemi numerici?
 
@@ -85,10 +85,10 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 
 >**definizione**: la **somma** di due numeri naturali è quel numero naturale che si ottiene contando di seguito al primo tutte le unità del secondo.
 
-1. proprietà **associativa**:
-   - cambiando l'**ordine** degli addendi il risultato non cambia
-2. proprietà **commutativa**:
-   - la somma di tre numeri non cambia se a due addendiconsecutivi si sostituisce la loro somma
+1. proprietà **commutativa**:
+   - cambiando l'**ordine** degli addendi il risultato non cambia: $$a+b=b+a$$
+2. proprietà **associativa**:
+   - la somma di tre numeri non cambia se a due addendi consecutivi si sostituisce la loro somma: $$(a+b)+c=a+(b+c)$$
 3. Esiste l'**elemento neutro** dell’addizione:
    - è il `numero zero`. Ciò significa che sommando *zero* a qualsiasi numero si ottiene il numero dato
 
@@ -107,8 +107,8 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 - La sottrazione gode della proprietà `invariantiva`: se si somma o si sottrae uno stesso numero sia al minuendo sia al sottraendo, la differenza non cambia: $$(a-b)=(a+c)-(b+c)$$
   - Grazie alla proprietà invariantiva possiamo eseguire rapidamente alcune sottrazioni: $$(198-48)=(198+2)-(48+2)=200-50=150$$
 
-- La sottrazione non gode della proprietà **commutativa**: $7- 5 =2$, ma $5-7$ non è calcolabile in $\mathbb{N}$ e non ammette elemento neutro: $2- 0 =2$, ma $0-2$ non si può eseguire in $\mathbb{N}$.
-- La sottrazione non gode neppure della proprietà **associativa**.
+- La sottrazione **non** gode della proprietà **commutativa**: $7- 5 =2$, ma $5-7$ non è calcolabile in $\mathbb{N}$ e non ammette elemento neutro: $2- 0 =2$, ma $0-2$ non si può eseguire in $\mathbb{N}$.
+- La sottrazione **non** gode neppure della proprietà **associativa**.
   - Ad esempio per calcolare $15-4-2$ è necessario eseguire le sottrazioni `nell’ordine` indicato: $$\underbrace{(15-4)}_{11}-2=9$$
 
 ## moltiplicazione e sue proprietà

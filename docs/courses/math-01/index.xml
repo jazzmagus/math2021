@@ -31,7 +31,7 @@
 &lt;li&gt;Sono essenziali o se ne potrebbe fare a meno?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;numeri-naturali-e-il-loro-ordinamento&#34;&gt;numeri naturali e il loro ordinamento&lt;/h2&gt;
+&lt;h2 id=&#34;numeri-naturali-e-loro-ordinamento&#34;&gt;numeri naturali e loro ordinamento&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;come si rappresentano gli insiemi numerici?&lt;/li&gt;
 &lt;/ul&gt;
@@ -109,14 +109,14 @@
 &lt;p&gt;&lt;strong&gt;definizione&lt;/strong&gt;: la &lt;strong&gt;somma&lt;/strong&gt; di due numeri naturali è quel numero naturale che si ottiene contando di seguito al primo tutte le unità del secondo.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ol&gt;
-&lt;li&gt;proprietà &lt;strong&gt;associativa&lt;/strong&gt;:
-&lt;ul&gt;
-&lt;li&gt;cambiando l&#39;&lt;strong&gt;ordine&lt;/strong&gt; degli addendi il risultato non cambia&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;li&gt;proprietà &lt;strong&gt;commutativa&lt;/strong&gt;:
 &lt;ul&gt;
-&lt;li&gt;la somma di tre numeri non cambia se a due addendiconsecutivi si sostituisce la loro somma&lt;/li&gt;
+&lt;li&gt;cambiando l&#39;&lt;strong&gt;ordine&lt;/strong&gt; degli addendi il risultato non cambia: $$a+b=b+a$$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;proprietà &lt;strong&gt;associativa&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;la somma di tre numeri non cambia se a due addendi consecutivi si sostituisce la loro somma: $$(a+b)+c=a+(b+c)$$&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Esiste l&#39;&lt;strong&gt;elemento neutro&lt;/strong&gt; dell’addizione:
@@ -152,7 +152,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;La sottrazione non gode della proprietà &lt;strong&gt;commutativa&lt;/strong&gt;: $7- 5 =2$, ma $5-7$ non è calcolabile in $\mathbb{N}$ e non ammette elemento neutro: $2- 0 =2$, ma $0-2$ non si può eseguire in $\mathbb{N}$.&lt;/p&gt;
+&lt;p&gt;La sottrazione &lt;strong&gt;non&lt;/strong&gt; gode della proprietà &lt;strong&gt;commutativa&lt;/strong&gt;: $7- 5 =2$, ma $5-7$ non è calcolabile in $\mathbb{N}$ e non ammette elemento neutro: $2- 0 =2$, ma $0-2$ non si può eseguire in $\mathbb{N}$.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;La sottrazione non gode neppure della proprietà &lt;strong&gt;associativa&lt;/strong&gt;.&lt;/p&gt;

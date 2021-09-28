@@ -173,7 +173,7 @@ $$72:12=(72 : 2):(12 : 2)=36:6=6$$
 
 ---
 
-#### proprietà distributiva della divisione
+### proprietà distributiva della divisione
 
 - rispetto alla **addizione**:
   - per dividere una `somma` per un `numero` si può dividere ciascun addendo per quel numero e quindi sommare i quozienti:
@@ -195,7 +195,7 @@ $$a:(b+c) \neq a:b+a:c$$
 
 ### divisione approssimata - con resto
 
-Se il dividendo **non** è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e aldivisore due numeri naturali, detti rispettivamente `quoziente` e `resto`.
+- Se il dividendo **non** è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e aldivisore due numeri naturali, detti rispettivamente `quoziente` e `resto`.
 
 - Il **quoziente** della divisione approssimata è il più grande numero naturale che, moltiplicato per il divisore, dà un prodotto minore o uguale al dividendo.
 - Il **resto** è la differenza tra il dividendo e tale prodotto.

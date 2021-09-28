@@ -20,7 +20,7 @@ weight: 10
 
 ![ex1_img](../majong_01.png)
 
-## L’insieme dei numeri naturali
+## 1. L’insieme dei numeri naturali
 
 <!-- {{< figure src="../majong_01.png" caption="A caption" numbered="true" >}} -->
 
@@ -81,7 +81,7 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 
 ## Le quattro operazioni aritmetiche con i numeri naturali
 
-## addizione e sue proprietà
+## 2. addizione e sue proprietà
 
 >**definizione**: la **somma** di due numeri naturali è quel numero naturale che si ottiene contando di seguito al primo tutte le unità del secondo.
 
@@ -92,7 +92,9 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 3. Esiste l'**elemento neutro** dell’addizione:
    - è il `numero zero`. Ciò significa che sommando *zero* a qualsiasi numero si ottiene il numero dato
 
-## sottrazione e sue proprietà
+---
+
+## 3. sottrazione e sue proprietà
 
 - è un’operazione che si esegue tra due numeri, considerati nell’ordine, il primo detto `minuendo` e il secondo `sottraendo`. Il risultato della sottrazione si chiama `differenza`.
 
@@ -111,7 +113,9 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 - La sottrazione **non** gode neppure della proprietà **associativa**.
   - Ad esempio per calcolare $15-4-2$ è necessario eseguire le sottrazioni `nell’ordine` indicato: $$\underbrace{(15-4)}_{11}-2=9$$
 
-## moltiplicazione e sue proprietà
+---
+
+## 4. moltiplicazione e sue proprietà
 
 >**definizione**: **prodotto** di due numeri naturali
 >
@@ -130,7 +134,7 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}\_{21+15=36} = \underbrace{3 \cdot (7+5)}\_{
 
 ---
 
-## divisione e sue proprietà
+## 5. divisione e sue proprietà
 
 >Il `quoziente` tra due numeri naturali, dei quali il secondo diverso da `zero`, è quel numero naturale, se esiste, che moltiplicato per il `divisore` dà il `dividendo`:
 >
@@ -155,44 +159,92 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}\_{21+15=36} = \underbrace{3 \cdot (7+5)}\_{
 | $a:a=1$                | $6:6=1$ |
 | $0:a=0$, se $a \neq 0$ | $0:6=0$ |
 
+## proprietà `invariantiva` della divisione
+
+- se si moltiplicano o si dividono sia il dividendo sia il divisore per uno stesso numero - diverso da zero -, il quoziente non cambia:
+
+  - $a:b=(a \cdot c):(b \cdot c)$
+  - **esempio**:
+$$65:5=(65 \cdot 2):(5 \cdot 2)=130:10=13$$
+
+  - $a:b=(a : c):(b : c)$
+
+  - **esempio**:
+$$72:12=(72 : 2):(12 : 2)=36:6=6$$
+
+---
+
 ## proprietà distributiva della divisione
 
 - rispetto alla **addizione**:
   - per dividere una `somma` per un `numero` si può dividere ciascun addendo per quel numero e quindi sommare i quozienti:
-  - $(a+b):c=a:b+a:c$
+  - $$(a+b):c=a:b+a:c$$
   - $$\underbrace{(32+24)}_{56}:8=32:8+24:8=4+3=7$$
 
 - rispetto alla **sottrazione**:
   - per `dividere` una `differenza` per un `numero` si possono dividere sia il `minuendo` sia il `sottraendo` per quel numero e quindi eseguire la `sottrazione` tra i `quozienti`:
+  - $$(a-b):c=a:b-a:c$$
   - $$\underbrace{(32-24)}_{8}:8=32:8-24:8=4-3=1$$
 
 >La proprietà distributiva della divisione può essere applicata per eseguire più rapidamente alcune divisioni:
 >$$612:6=(600+12):6=600:6+12:6=100+2=102$$
 
 - **Non** esistono proprietà distributive per dividere un numero per una somma o per una differenza.
+$$a:(b+c) \neq a:b+a:c$$
 
-## divisione approssimativa - con resto
+---
 
-Se il dividendo non è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e aldivisore due numeri naturali, detti rispettivamente quoziente e resto.
+## divisione approssimata - con resto
+
+Se il dividendo **non** è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e aldivisore due numeri naturali, detti rispettivamente `quoziente` e `resto`.
 
 - Il **quoziente** della divisione approssimata è il più grande numero naturale che, moltiplicato per il divisore, dà un prodotto minore o uguale al dividendo.
 - Il **resto** è la differenza tra il dividendo e tale prodotto.
   - Il resto risulta `sempre minore` del divisore
 
+> se $r=0$, allora l'uguaglianza $a=b \cdot q +r$ diviene:
+> $$a=b \cdot q$$
+> che è la definizione di divisione che risulterà pertanto `esatta`
+
+$$a:b=q \\; \text{con resto }r \\; \longleftrightarrow \quad a=b \cdot q +r \quad(r <b)$$
+
+## Proprietà invariantiva della divisione approssimata
+
+>se si moltiplicano o si dividono `sia` il dividendo `sia` il divisore per uno stesso numero diverso da zero il quoziente non cambia, mentre il resto risulta moltiplicato o diviso per il numero dato:
+
+$$a:b=q \\; \text{con resto }r \\; \longrightarrow \\; (a \cdot c) : (b \cdot c)= q \\; \text{con resto }(r \cdot c)$$
+
+$$a:b=q \\; \text{con resto }r \\; \longrightarrow \\; (a : c) : (b : c)= q \\; \text{con resto }(r : c)$$
+
 ---
 
-## Potenze in $\mathbb{N}$ e loro proprietà
+## POTENZE in $\mathbb{N}$ e LORO PROPRIETA'
 
-## definizione di potenza
+---
+
+## 6. definizione di potenza
 
 > **DEFINIZIONE**:
-> La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ `fattori` uguali ad $a$:
+> La potenza di `base` $a$ ed `esponente` $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ `fattori` uguali ad $a$:
 >
 > $$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \\; \text{volte}}$$
 
+Come accade spesso in matematica per le potenze si adottano delle convenzioni:
+
+- $a^1=a$
+- $a^0=1$, per $a \neq 0$
+- $0^0$ **non ha significato**
+
+**casi particolari**:
+
+- $1^n=1$, per ogni $n$ ($\forall n$)
+- $0^n=0 \quad \forall n \neq 0$
+
+## 7. proprietà delle potenze
+
 ---
 
-## Espressioni con in numeri naturali
+## 8. ESPRESSIONI CON I NUMERI NATURALI
 
 ---
 
@@ -214,7 +266,7 @@ Se il dividendo non è multiplo del divisore, la divisione esatta non si può es
 
 ## Sistemi  di  numerazione
 
-## il sitema decimale
+## il sistema decimale
 
 ## cambiamenti di base
 
@@ -239,11 +291,11 @@ $$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \\; \text{volte}}
 
 ## Espressioni con in numeri naturali
 
-## Divisibilità e "numeri primi"
+## Divisibilità e numeri primi
 
-## Massimo  comune  divisore  e  minimo  comune  multiplo
+## Massimo comune divisore e minimo comune multiplo
 
-## Sistemi  di  numerazione
+## Sistemi di numerazione
 
 ---
 

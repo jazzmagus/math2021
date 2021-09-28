@@ -245,7 +245,7 @@ Come accade spesso in matematica per le potenze si adottano delle convenzioni:
 
 - Il **prodotto** di potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la somma degli esponenti:
   - $a^m \cdot a^n = a^{m+n}$
-- Il **quoziente** di due potenze con la stessa base è una potenza che ha per basela stessa base e per esponente la differenza degli esponenti:
+- Il **quoziente** di due potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la differenza degli esponenti:
   - $a^m : a^n = a^{m-n}$, con $(a \neq 0, \\; m \geq n)$
 - La **potenza di una potenza** è una potenza che ha per base la stessa base e per esponente il prodotto degli esponenti:
   - $a^m \cdot a^n = a^{m+n}$
@@ -260,27 +260,33 @@ Come accade spesso in matematica per le potenze si adottano delle convenzioni:
 
 ---
 
+### 10. altre proprietà delle operazioni
+
+---
+
 ## Divisibilità e "numeri primi"
 
-## multipli e divisori
+### 11. multipli e divisori
 
-## criteri di divisibilità
+### 12. criteri di divisibilità
 
-## scomposizione in fattori primi
+## 13. scomposizione in fattori primi
+
+---
 
 ## Massimo  comune  divisore  e  minimo  comune  multiplo
 
-## massimo comun divisore
+### 14. massimo comun divisore
 
-## minimo comune multiplo
+### 15. minimo comune multiplo
 
 ---
 
 ## Sistemi  di  numerazione
 
-## il sistema decimale
+### 16. il sistema decimale
 
-## cambiamenti di base
+### 17. cambiamenti di base
 
 - **dalla base $b$ alla base $10$**
 - **dalla base $10$ alla base $b$**

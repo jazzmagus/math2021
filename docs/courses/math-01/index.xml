@@ -330,7 +330,7 @@ La potenza di &lt;code&gt;base&lt;/code&gt; $a$ ed &lt;code&gt;esponente&lt;/cod
 &lt;li&gt;$a^m \cdot a^n = a^{m+n}$&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Il &lt;strong&gt;quoziente&lt;/strong&gt; di due potenze con la stessa base è una potenza che ha per basela stessa base e per esponente la differenza degli esponenti:
+&lt;li&gt;Il &lt;strong&gt;quoziente&lt;/strong&gt; di due potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la differenza degli esponenti:
 &lt;ul&gt;
 &lt;li&gt;$a^m : a^n = a^{m-n}$, con $(a \neq 0, \; m \geq n)$&lt;/li&gt;
 &lt;/ul&gt;
@@ -346,17 +346,20 @@ La potenza di &lt;code&gt;base&lt;/code&gt; $a$ ed &lt;code&gt;esponente&lt;/cod
 &lt;h3 id=&#34;8-priorità-delle-operazioni&#34;&gt;8. Priorità delle operazioni&lt;/h3&gt;
 &lt;h3 id=&#34;9-le-parentesi&#34;&gt;9. Le parentesi&lt;/h3&gt;
 &lt;hr&gt;
+&lt;h3 id=&#34;10-altre-proprietà-delle-operazioni&#34;&gt;10. altre proprietà delle operazioni&lt;/h3&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;divisibilità-e-numeri-primi&#34;&gt;Divisibilità e &amp;ldquo;numeri primi&amp;rdquo;&lt;/h2&gt;
-&lt;h2 id=&#34;multipli-e-divisori&#34;&gt;multipli e divisori&lt;/h2&gt;
-&lt;h2 id=&#34;criteri-di-divisibilità&#34;&gt;criteri di divisibilità&lt;/h2&gt;
-&lt;h2 id=&#34;scomposizione-in-fattori-primi&#34;&gt;scomposizione in fattori primi&lt;/h2&gt;
+&lt;h3 id=&#34;11-multipli-e-divisori&#34;&gt;11. multipli e divisori&lt;/h3&gt;
+&lt;h3 id=&#34;12-criteri-di-divisibilità&#34;&gt;12. criteri di divisibilità&lt;/h3&gt;
+&lt;h2 id=&#34;13-scomposizione-in-fattori-primi&#34;&gt;13. scomposizione in fattori primi&lt;/h2&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;massimo--comune--divisore--e--minimo--comune--multiplo&#34;&gt;Massimo  comune  divisore  e  minimo  comune  multiplo&lt;/h2&gt;
-&lt;h2 id=&#34;massimo-comun-divisore&#34;&gt;massimo comun divisore&lt;/h2&gt;
-&lt;h2 id=&#34;minimo-comune-multiplo&#34;&gt;minimo comune multiplo&lt;/h2&gt;
+&lt;h3 id=&#34;14-massimo-comun-divisore&#34;&gt;14. massimo comun divisore&lt;/h3&gt;
+&lt;h3 id=&#34;15-minimo-comune-multiplo&#34;&gt;15. minimo comune multiplo&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;sistemi--di--numerazione&#34;&gt;Sistemi  di  numerazione&lt;/h2&gt;
-&lt;h2 id=&#34;il-sistema-decimale&#34;&gt;il sistema decimale&lt;/h2&gt;
-&lt;h2 id=&#34;cambiamenti-di-base&#34;&gt;cambiamenti di base&lt;/h2&gt;
+&lt;h3 id=&#34;16-il-sistema-decimale&#34;&gt;16. il sistema decimale&lt;/h3&gt;
+&lt;h3 id=&#34;17-cambiamenti-di-base&#34;&gt;17. cambiamenti di base&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;dalla base $b$ alla base $10$&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;dalla base $10$ alla base $b$&lt;/strong&gt;&lt;/li&gt;

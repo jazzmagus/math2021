@@ -234,14 +234,14 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}_{21+15=36} = \underbrace{3 \cdot (7+5)}_{3 
 &lt;ul&gt;
 &lt;li&gt;per dividere una &lt;code&gt;somma&lt;/code&gt; per un &lt;code&gt;numero&lt;/code&gt; si può dividere ciascun addendo per quel numero e quindi sommare i quozienti:&lt;/li&gt;
 &lt;li&gt;$(a+b):c=a:b+a:c$&lt;/li&gt;
-&lt;li&gt;$$\underbrace{\underbrace{(32+24)}&lt;em&gt;{56}:8}&lt;/em&gt;{7}=32:8+24:8=4+3=7$$&lt;/li&gt;
+&lt;li&gt;$$\underbrace{(32+24)}_{56}:8=32:8+24:8=4+3=7$$&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;rispetto alla &lt;strong&gt;sottrazione&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;per &lt;code&gt;dividere&lt;/code&gt; una &lt;code&gt;differenza&lt;/code&gt; per un &lt;code&gt;numero&lt;/code&gt; si possono dividere sia il &lt;code&gt;minuendo&lt;/code&gt; sia il &lt;code&gt;sottraendo&lt;/code&gt; per quel numero e quindi eseguire la &lt;code&gt;sottrazione&lt;/code&gt; tra i &lt;code&gt;quozienti&lt;/code&gt;:&lt;/li&gt;
-&lt;li&gt;$$\underbrace{\underbrace{(32-24)}&lt;em&gt;{8}:8}&lt;/em&gt;{1}=32:8-24:8=4-3=1$$&lt;/li&gt;
+&lt;li&gt;$$\underbrace{(32-24)}_{8}:8=32:8-24:8=4-3=1$$&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;

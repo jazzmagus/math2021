@@ -193,7 +193,7 @@ $$a:(b+c) \neq a:b+a:c$$
 
 ---
 
-#### divisione approssimata - con resto
+### divisione approssimata - con resto
 
 Se il dividendo **non** è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e aldivisore due numeri naturali, detti rispettivamente `quoziente` e `resto`.
 
@@ -270,7 +270,7 @@ Come accade spesso in matematica per le potenze si adottano delle convenzioni:
 
 ### 12. criteri di divisibilità
 
-## 13. scomposizione in fattori primi
+### 13. scomposizione in fattori primi
 
 ---
 

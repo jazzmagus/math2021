@@ -280,7 +280,7 @@ $$612:6=(600+12):6=600:6+12:6=100+2=102$$&lt;/p&gt;
 $$a:(b+c) \neq a:b+a:c$$&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;divisione-approssimata---con-resto&#34;&gt;divisione approssimata - con resto&lt;/h4&gt;
+&lt;h3 id=&#34;divisione-approssimata---con-resto&#34;&gt;divisione approssimata - con resto&lt;/h3&gt;
 &lt;p&gt;Se il dividendo &lt;strong&gt;non&lt;/strong&gt; è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e aldivisore due numeri naturali, detti rispettivamente &lt;code&gt;quoziente&lt;/code&gt; e &lt;code&gt;resto&lt;/code&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Il &lt;strong&gt;quoziente&lt;/strong&gt; della divisione approssimata è il più grande numero naturale che, moltiplicato per il divisore, dà un prodotto minore o uguale al dividendo.&lt;/li&gt;
@@ -351,7 +351,7 @@ La potenza di &lt;code&gt;base&lt;/code&gt; $a$ ed &lt;code&gt;esponente&lt;/cod
 &lt;h2 id=&#34;divisibilità-e-numeri-primi&#34;&gt;Divisibilità e &amp;ldquo;numeri primi&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;11-multipli-e-divisori&#34;&gt;11. multipli e divisori&lt;/h3&gt;
 &lt;h3 id=&#34;12-criteri-di-divisibilità&#34;&gt;12. criteri di divisibilità&lt;/h3&gt;
-&lt;h2 id=&#34;13-scomposizione-in-fattori-primi&#34;&gt;13. scomposizione in fattori primi&lt;/h2&gt;
+&lt;h3 id=&#34;13-scomposizione-in-fattori-primi&#34;&gt;13. scomposizione in fattori primi&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;massimo--comune--divisore--e--minimo--comune--multiplo&#34;&gt;Massimo  comune  divisore  e  minimo  comune  multiplo&lt;/h2&gt;
 &lt;h3 id=&#34;14-massimo-comun-divisore&#34;&gt;14. massimo comun divisore&lt;/h3&gt;

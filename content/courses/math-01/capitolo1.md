@@ -152,13 +152,15 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}\_{21+15=36} = \underbrace{3 \cdot (7+5)}\_{
 
 - **casi particolari**:
 
-| in generale            | esempio |
-| ---------------------- | ------- |
-| $a:1=a$                | $6:1=6$ |
-| $a:a=1$                | $6:6=1$ |
-| $0:a=0$, se $a \neq 0$ | $0:6=0$ |
+| in generale            | esempio | osservazioni|
+| ---------------------- | ------- |---|
+| $a:1=a$                | $6:1=6$ |$1$ può essere considerato l'*elemento neutro* della divisione|
+| $a:a=1$, con $a \neq 0$               | $6:6=1$ | se *dividendo* e *divisore*, entrambi $\in \mathbb{N}$ sono uguali, il risultato della divisione è l'**unità**
+| $0:a=0$, se $a \neq 0$ | $0:6=0$ |lo $0$ al **dividendo** può essere considerato l'*elemento annullatore* della divisione|
 
-### proprietà `invariantiva` della divisione
+`Q: Qual è la differenza tra divisione e quoziente?`
+
+### proprietà invariantiva della divisione
 
 - se si moltiplicano o si dividono sia il dividendo sia il divisore per uno stesso numero - diverso da zero -, il quoziente non cambia:
 
@@ -217,9 +219,7 @@ $$a:b=q \\; \text{con resto }r \\; \longrightarrow \\; (a : c) : (b : c)= q \\; 
 
 ---
 
-## POTENZE in $\mathbb{N}$ e LORO PROPRIETA'
-
----
+## POTENZE in $\mathbb{N}$ e PROPRIETÀ delle POTENZE
 
 ### 6. definizione di potenza
 
@@ -249,6 +249,14 @@ Come accade spesso in matematica per le potenze si adottano delle convenzioni:
   - $a^m : a^n = a^{m-n}$, con $(a \neq 0, \\; m \geq n)$
 - La **potenza di una potenza** è una potenza che ha per base la stessa base e per esponente il prodotto degli esponenti:
   - $a^m \cdot a^n = a^{m+n}$
+
+>**ATTENZIONE**:
+>
+>- $(a+b)^n \neq a^n + b^n$
+>
+>- $(3+4)^2=49$, mentre $3^2 + 4^2 = 25$
+
+#### ESERCIZI
 
 ---
 

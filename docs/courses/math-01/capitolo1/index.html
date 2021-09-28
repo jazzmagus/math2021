@@ -454,12 +454,27 @@
     <li><a href="#sottrazione-e-sue-proprietà">sottrazione e sue proprietà</a></li>
     <li><a href="#moltiplicazione-e-sue-proprietà">moltiplicazione e sue proprietà</a></li>
     <li><a href="#divisione-e-sue-proprietà">divisione e sue proprietà</a></li>
+    <li><a href="#proprietà-distributiva-della-divisione">proprietà distributiva della divisione</a></li>
+    <li><a href="#divisione-approssimativa---con-resto">divisione approssimativa - con resto</a></li>
     <li><a href="#potenze-in-mathbbn-e-loro-proprietà">Potenze in $\mathbb{N}$ e loro proprietà</a></li>
     <li><a href="#definizione-di-potenza">definizione di potenza</a></li>
     <li><a href="#espressioni-con-in-numeri-naturali">Espressioni con in numeri naturali</a></li>
     <li><a href="#divisibilità-e-numeri-primi">Divisibilità e &ldquo;numeri primi&rdquo;</a></li>
+    <li><a href="#multipli-e-divisori">multipli e divisori</a></li>
+    <li><a href="#criteri-di-divisibilità">criteri di divisibilità</a></li>
+    <li><a href="#scomposizione-in-fattori-primi">scomposizione in fattori primi</a></li>
     <li><a href="#massimo--comune--divisore--e--minimo--comune--multiplo">Massimo  comune  divisore  e  minimo  comune  multiplo</a></li>
+    <li><a href="#massimo-comun-divisore">massimo comun divisore</a></li>
+    <li><a href="#minimo-comune-multiplo">minimo comune multiplo</a></li>
     <li><a href="#sistemi--di--numerazione">Sistemi  di  numerazione</a></li>
+    <li><a href="#il-sitema-decimale">il sitema decimale</a></li>
+    <li><a href="#cambiamenti-di-base">cambiamenti di base</a></li>
+    <li><a href="#potenze-in-mathbbn-e-loro-proprietà-1">Potenze in $\mathbb{N}$ e loro proprietà</a></li>
+    <li><a href="#definizione-di-potenza-1">definizione di potenza</a></li>
+    <li><a href="#espressioni-con-in-numeri-naturali-1">Espressioni con in numeri naturali</a></li>
+    <li><a href="#divisibilità-e-numeri-primi-1">Divisibilità e &ldquo;numeri primi&rdquo;</a></li>
+    <li><a href="#massimo--comune--divisore--e--minimo--comune--multiplo-1">Massimo  comune  divisore  e  minimo  comune  multiplo</a></li>
+    <li><a href="#sistemi--di--numerazione-1">Sistemi  di  numerazione</a></li>
     <li><a href="#linsieme--dei--numeri--interi--relativi-mathbbz">L’insieme  dei  numeri  interi  relativi $\mathbb{Z}$</a></li>
     <li><a href="#le-quattro-operazioni-aritmetiche-con-i-numeri-interi-relativi">Le quattro operazioni aritmetiche con i numeri interi relativi</a></li>
     <li><a href="#addizione">addizione</a></li>
@@ -594,7 +609,7 @@
 <li>è un’operazione che si esegue tra due numeri, considerati nell’ordine, il primo detto <code>minuendo</code> e il secondo <code>sottraendo</code>. Il risultato della sottrazione si chiama <code>differenza</code>.</li>
 </ul>
 <blockquote>
-<p><strong>definizione</strong>: la <strong>differenza</strong> tra due numeri naturali è quel numero naturale, se esiste, che che addizionato al <code>sottraendo</code> dà come somma il <code>minuendo</code>.</p>
+<p><strong>definizione</strong>: la <strong>differenza</strong> tra due numeri naturali è quel numero naturale, se esiste, che addizionato al <code>sottraendo</code> dà come somma il <code>minuendo</code>.</p>
 <ul>
 <li>esempio: $5-2=3$ perché $5=3+2$</li>
 </ul>
@@ -619,7 +634,7 @@
 <p>La sottrazione <strong>non</strong> gode della proprietà <strong>commutativa</strong>: $7- 5 =2$, ma $5-7$ non è calcolabile in $\mathbb{N}$ e non ammette elemento neutro: $2- 0 =2$, ma $0-2$ non si può eseguire in $\mathbb{N}$.</p>
 </li>
 <li>
-<p>La sottrazione non gode neppure della proprietà <strong>associativa</strong>.</p>
+<p>La sottrazione <strong>non</strong> gode neppure della proprietà <strong>associativa</strong>.</p>
 <ul>
 <li>Ad esempio per calcolare $15-4-2$ è necessario eseguire le sottrazioni <code>nell’ordine</code> indicato: $$\underbrace{(15-4)}_{11}-2=9$$</li>
 </ul>
@@ -647,42 +662,130 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}_{21+15=36} = \underbrace{3 \cdot (7+5)}_{3 
 <li>esistenza dell'<code>elemento annullatore</code>: moltiplicando qualsiasi numero per <code>zero</code> si ottiene <code>zero</code></li>
 <li><strong>Legge di annullamento del prodotto</strong>: se il prodotto tra due o più fattori è <code>zero</code> allora almeno uno dei fattori è <code>zero</code></li>
 </ol>
+<hr>
 <h2 id="divisione-e-sue-proprietà">divisione e sue proprietà</h2>
-<ul>
-<li>Il quoziente tra due numeri naturali, dei quali il secundo diverso da <code>zero</code>, è quel numero naturale, se esiste, che moltiplicato per il divisore dà il dividendo:</li>
-<li>$a : b=c$, con $b \neq 0$, $\Longleftrightarrow a=b \cdot c$</li>
-</ul>
 <blockquote>
-<p>se la divisione si può eseguire in $\mathbb{N}$, allora si dice che $a$ è <strong>divisibile</strong> per $b$ o anche che $b$ è <strong>multiplo</strong> di $a$</p>
+<p>Il <code>quoziente</code> tra due numeri naturali, dei quali il secondo diverso da <code>zero</code>, è quel numero naturale, se esiste, che moltiplicato per il <code>divisore</code> dà il <code>dividendo</code>:</p>
+<ul>
+<li>$a : b=c$, con $b \neq 0$, $\underbrace{\Longrightarrow}_{\text{implica}} a=b \cdot c$</li>
+</ul>
+<p>se la divisione si può eseguire in $\mathbb{N}$, allora si dice che $a$ è <strong>divisibile</strong> per $b$ o anche che $b$ è <strong>multiplo</strong> di $a$.</p>
+<ul>
+<li>Ad esempio $24$ è divisibile per $6$  e $24$ è multiplo di $6$</li>
+<li>La divisione $19:5$ non può essere eseguita in $\mathbb{N}$, poiché non esiste alcun numero naturale che, moltiplicato per $5$, dia $19$.</li>
+</ul>
+<p><strong>ATTENZIONE</strong>:</p>
+<ul>
+<li>Non è invece possibile eseguire la divisione di un numero naturale e lo <code>zero</code>, poiché il risultato dovrebbe essere un numero che, moltiplicato per <code>zero</code> dia il numero iniziale, ma qualsiasi numero moltiplicato per <code>zero</code> restituisce <code>zero</code>, che rappresenta infatti l&rsquo;elemento <strong>annullatore</strong> della moltiplicazione.</li>
+<li>La divisione $0:0$ invece ha infiniti risultati, poiché esistono infiniti numeri che moltiplicati per<code>zero</code> danno come risultato <code>zero</code>.</li>
+<li>La divisione per <code>zero</code> quindi <strong>non è mai definita</strong></li>
+</ul>
 </blockquote>
 <ul>
+<li><strong>casi particolari</strong>:</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>in generale</th>
+<th>esempio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>$a:1=a$</td>
+<td>$6:1=6$</td>
+</tr>
+<tr>
+<td>$a:a=1$</td>
+<td>$6:6=1$</td>
+</tr>
+<tr>
+<td>$0:a=0$, se $a \neq 0$</td>
+<td>$0:6=0$</td>
+</tr>
+</tbody>
+</table>
+<h2 id="proprietà-distributiva-della-divisione">proprietà distributiva della divisione</h2>
+<ul>
 <li>
-<p>Ad esempio $24$ è divisibile per $6$  e $24$ è multiplo di $6$</p>
+<p>rispetto alla <strong>addizione</strong>:</p>
+<ul>
+<li>per dividere una <code>somma</code> per un <code>numero</code> si può dividere ciascun addendo per quel numero e quindi sommare i quozienti:</li>
+<li>$(a+b):c=a:b+a:c$</li>
+<li>$$\underbrace{\underbrace{(32+24)}<em>{56}:8}</em>{7}=32:8+24:8=4+3=7$$</li>
+</ul>
 </li>
 <li>
-<p>La divisione $19:5$ non può essere eseguita in $\mathbb{N}$, poiché non esiste alcun numero naturale che, moltiplicato per $5$, dia $19$.</p>
+<p>rispetto alla <strong>sottrazione</strong>:</p>
+<ul>
+<li>per <code>dividere</code> una <code>differenza</code> per un <code>numero</code> si possono dividere sia il <code>minuendo</code> sia il <code>sottraendo</code> per quel numero e quindi eseguire la <code>sottrazione</code> tra i <code>quozienti</code>:</li>
+<li>$$\underbrace{\underbrace{(32-24)}<em>{8}:8}</em>{1}=32:8-24:8=4-3=1$$</li>
+</ul>
 </li>
-<li>
-<p>Non è invece possibile eseguire la divisione di un numero naturale e lo <code>zero</code>, poiché il risultato dovrebbe essere un numero che, moltiplicato per <code>zero</code> dia il numero iniziale, ma qualsiasi numero moltiplicato per <code>zero</code> restituisce <code>zero</code>, che rappresenta infatti l&rsquo;elemento <strong>annullatore</strong> della moltiplicazione.</p>
-</li>
-<li>
-<p>La divisione $0:0$ invece ha infiniti risultati, poiché esistono infiniti numeri che moltiplicati per <code>zero</code> danno come risultato <code>zero</code>.</p>
-</li>
-<li>
-<p>La divisione per <code>zero</code> quindi <strong>non è mai definita</strong></p>
+</ul>
+<blockquote>
+<p>La proprietà distributiva della divisione può essere applicata per eseguire più rapidamente alcune divisioni:
+$$612:6=(600+12):6=600:6+12:6=100+2=102$$</p>
+</blockquote>
+<ul>
+<li><strong>Non</strong> esistono proprietà distributive per dividere un numero per una somma o per una differenza.</li>
+</ul>
+<h2 id="divisione-approssimativa---con-resto">divisione approssimativa - con resto</h2>
+<p>Se il dividendo non è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e aldivisore due numeri naturali, detti rispettivamente quoziente e resto.</p>
+<ul>
+<li>Il <strong>quoziente</strong> della divisione approssimata è il più grande numero naturale che, moltiplicato per il divisore, dà un prodotto minore o uguale al dividendo.</li>
+<li>Il <strong>resto</strong> è la differenza tra il dividendo e tale prodotto.
+<ul>
+<li>Il resto risulta <code>sempre minore</code> del divisore</li>
+</ul>
 </li>
 </ul>
 <hr>
 <h2 id="potenze-in-mathbbn-e-loro-proprietà">Potenze in $\mathbb{N}$ e loro proprietà</h2>
 <h2 id="definizione-di-potenza">definizione di potenza</h2>
+<blockquote>
+<p><strong>DEFINIZIONE</strong>:
+La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ <code>fattori</code> uguali ad $a$:</p>
+<p>$$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \; \text{volte}}$$</p>
+</blockquote>
+<hr>
+<h2 id="espressioni-con-in-numeri-naturali">Espressioni con in numeri naturali</h2>
+<hr>
+<h2 id="divisibilità-e-numeri-primi">Divisibilità e &ldquo;numeri primi&rdquo;</h2>
+<h2 id="multipli-e-divisori">multipli e divisori</h2>
+<h2 id="criteri-di-divisibilità">criteri di divisibilità</h2>
+<h2 id="scomposizione-in-fattori-primi">scomposizione in fattori primi</h2>
+<h2 id="massimo--comune--divisore--e--minimo--comune--multiplo">Massimo  comune  divisore  e  minimo  comune  multiplo</h2>
+<h2 id="massimo-comun-divisore">massimo comun divisore</h2>
+<h2 id="minimo-comune-multiplo">minimo comune multiplo</h2>
+<hr>
+<h2 id="sistemi--di--numerazione">Sistemi  di  numerazione</h2>
+<h2 id="il-sitema-decimale">il sitema decimale</h2>
+<h2 id="cambiamenti-di-base">cambiamenti di base</h2>
+<ul>
+<li><strong>dalla base $b$ alla base $10$</strong></li>
+<li><strong>dalla base $10$ alla base $b$</strong></li>
+</ul>
+<blockquote>
+<p>Il termine <code>algoritmo</code> deriva dal nome del matematico di cultura araba Mohammed ibn-Musa al-Khuwarizmi, che visse a Baghdad nel IX secolod.C.; egli ci tramandò non solo un importante libro di calcolo numerico, ma anche un libro di algebra sulle equazioni di primo e secondo grado che fu basilare per lo sviluppo dell’algebra stessa. La parola algoritmo indica un procedimento di calcolo. Esso consiste in una successione finita di operazioni elementari da eseguire una dopo l’altra in un ordine ben preciso e deve avere le seguenti caratteristiche:</p>
+<ul>
+<li>deve essere <code>finito</code> (cioè terminare dopo un numero finito di operazioni),</li>
+<li><code>definito</code> (ossia essere conciso e non ambiguo),</li>
+<li><code>completo</code> e deve raggiungere il risultato per il quale è stato progettato.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="potenze-in-mathbbn-e-loro-proprietà-1">Potenze in $\mathbb{N}$ e loro proprietà</h2>
+<h2 id="definizione-di-potenza-1">definizione di potenza</h2>
 <ul>
 <li><strong>DEFINIZIONE</strong>: La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ <code>fattori</code> uguali ad $a$:</li>
 </ul>
 <p>$$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \; \text{volte}}$$</p>
-<h2 id="espressioni-con-in-numeri-naturali">Espressioni con in numeri naturali</h2>
-<h2 id="divisibilità-e-numeri-primi">Divisibilità e &ldquo;numeri primi&rdquo;</h2>
-<h2 id="massimo--comune--divisore--e--minimo--comune--multiplo">Massimo  comune  divisore  e  minimo  comune  multiplo</h2>
-<h2 id="sistemi--di--numerazione">Sistemi  di  numerazione</h2>
+<h2 id="espressioni-con-in-numeri-naturali-1">Espressioni con in numeri naturali</h2>
+<h2 id="divisibilità-e-numeri-primi-1">Divisibilità e &ldquo;numeri primi&rdquo;</h2>
+<h2 id="massimo--comune--divisore--e--minimo--comune--multiplo-1">Massimo  comune  divisore  e  minimo  comune  multiplo</h2>
+<h2 id="sistemi--di--numerazione-1">Sistemi  di  numerazione</h2>
 <hr>
 <h2 id="linsieme--dei--numeri--interi--relativi-mathbbz">L’insieme  dei  numeri  interi  relativi $\mathbb{Z}$</h2>
 <h2 id="le-quattro-operazioni-aritmetiche-con-i-numeri-interi-relativi">Le quattro operazioni aritmetiche con i numeri interi relativi</h2>

@@ -96,7 +96,7 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 
 - è un’operazione che si esegue tra due numeri, considerati nell’ordine, il primo detto `minuendo` e il secondo `sottraendo`. Il risultato della sottrazione si chiama `differenza`.
 
->**definizione**: la **differenza** tra due numeri naturali è quel numero naturale, se esiste, che che addizionato al `sottraendo` dà come somma il `minuendo`.
+>**definizione**: la **differenza** tra due numeri naturali è quel numero naturale, se esiste, che addizionato al `sottraendo` dà come somma il `minuendo`.
 >
 >- esempio: $5-2=3$ perché $5=3+2$
 
@@ -128,19 +128,104 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}\_{21+15=36} = \underbrace{3 \cdot (7+5)}\_{
 1. esistenza dell'`elemento annullatore`: moltiplicando qualsiasi numero per `zero` si ottiene `zero`
 1. **Legge di annullamento del prodotto**: se il prodotto tra due o più fattori è `zero` allora almeno uno dei fattori è `zero`
 
+---
+
 ## divisione e sue proprietà
 
-- Il quoziente tra due numeri naturali, dei quali il secundo diverso da `zero`, è quel numero naturale, se esiste, che moltiplicato per il divisore dà il dividendo:
-- $a : b=c$, con $b \neq 0$, $\Longleftrightarrow a=b \cdot c$
+>Il `quoziente` tra due numeri naturali, dei quali il secondo diverso da `zero`, è quel numero naturale, se esiste, che moltiplicato per il `divisore` dà il `dividendo`:
+>
+>- $a : b=c$, con $b \neq 0$, $\underbrace{\Longrightarrow}_{\text{implica}} a=b \cdot c$
+>
+>se la divisione si può eseguire in $\mathbb{N}$, allora si dice che $a$ è **divisibile** per $b$ o anche che $b$ è **multiplo** di $a$.
+>
+>- Ad esempio $24$ è divisibile per $6$  e $24$ è multiplo di $6$
+>- La divisione $19:5$ non può essere eseguita in $\mathbb{N}$, poiché non esiste alcun numero naturale che, moltiplicato per $5$, dia $19$.
+>
+>**ATTENZIONE**:
+>
+>- Non è invece possibile eseguire la divisione di un numero naturale e lo `zero`, poiché il risultato dovrebbe essere un numero che, moltiplicato per `zero` dia il numero iniziale, ma qualsiasi numero moltiplicato per `zero` restituisce `zero`, che rappresenta infatti l'elemento **annullatore** della moltiplicazione.
+>- La divisione $0:0$ invece ha infiniti risultati, poiché esistono infiniti numeri che moltiplicati per`zero` danno come risultato `zero`.
+>- La divisione per `zero` quindi **non è mai definita**
 
->se la divisione si può eseguire in $\mathbb{N}$, allora si dice che $a$ è **divisibile** per $b$ o anche che $b$ è **multiplo** di $a$
+- **casi particolari**:
 
-- Ad esempio $24$ è divisibile per $6$  e $24$ è multiplo di $6$
-- La divisione $19:5$ non può essere eseguita in $\mathbb{N}$, poiché non esiste alcun numero naturale che, moltiplicato per $5$, dia $19$.
+| in generale            | esempio |
+| ---------------------- | ------- |
+| $a:1=a$                | $6:1=6$ |
+| $a:a=1$                | $6:6=1$ |
+| $0:a=0$, se $a \neq 0$ | $0:6=0$ |
 
-- Non è invece possibile eseguire la divisione di un numero naturale e lo `zero`, poiché il risultato dovrebbe essere un numero che, moltiplicato per `zero` dia il numero iniziale, ma qualsiasi numero moltiplicato per `zero` restituisce `zero`, che rappresenta infatti l'elemento **annullatore** della moltiplicazione.
-- La divisione $0:0$ invece ha infiniti risultati, poiché esistono infiniti numeri che moltiplicati per `zero` danno come risultato `zero`.
-- La divisione per `zero` quindi **non è mai definita**
+## proprietà distributiva della divisione
+
+- rispetto alla **addizione**:
+  - per dividere una `somma` per un `numero` si può dividere ciascun addendo per quel numero e quindi sommare i quozienti:
+  - $(a+b):c=a:b+a:c$
+  - $$\underbrace{(32+24)}_{56}:8=32:8+24:8=4+3=7$$
+
+- rispetto alla **sottrazione**:
+  - per `dividere` una `differenza` per un `numero` si possono dividere sia il `minuendo` sia il `sottraendo` per quel numero e quindi eseguire la `sottrazione` tra i `quozienti`:
+  - $$\underbrace{(32-24)}_{8}:8=32:8-24:8=4-3=1$$
+
+>La proprietà distributiva della divisione può essere applicata per eseguire più rapidamente alcune divisioni:
+>$$612:6=(600+12):6=600:6+12:6=100+2=102$$
+
+- **Non** esistono proprietà distributive per dividere un numero per una somma o per una differenza.
+
+## divisione approssimativa - con resto
+
+Se il dividendo non è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e aldivisore due numeri naturali, detti rispettivamente quoziente e resto.
+
+- Il **quoziente** della divisione approssimata è il più grande numero naturale che, moltiplicato per il divisore, dà un prodotto minore o uguale al dividendo.
+- Il **resto** è la differenza tra il dividendo e tale prodotto.
+  - Il resto risulta `sempre minore` del divisore
+
+---
+
+## Potenze in $\mathbb{N}$ e loro proprietà
+
+## definizione di potenza
+
+> **DEFINIZIONE**:
+> La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ `fattori` uguali ad $a$:
+>
+> $$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \\; \text{volte}}$$
+
+---
+
+## Espressioni con in numeri naturali
+
+---
+
+## Divisibilità e "numeri primi"
+
+## multipli e divisori
+
+## criteri di divisibilità
+
+## scomposizione in fattori primi
+
+## Massimo  comune  divisore  e  minimo  comune  multiplo
+
+## massimo comun divisore
+
+## minimo comune multiplo
+
+---
+
+## Sistemi  di  numerazione
+
+## il sitema decimale
+
+## cambiamenti di base
+
+- **dalla base $b$ alla base $10$**
+- **dalla base $10$ alla base $b$**
+
+>Il termine `algoritmo` deriva dal nome del matematico di cultura araba Mohammed ibn-Musa al-Khuwarizmi, che visse a Baghdad nel IX secolod.C.; egli ci tramandò non solo un importante libro di calcolo numerico, ma anche un libro di algebra sulle equazioni di primo e secondo grado che fu basilare per lo sviluppo dell’algebra stessa. La parola algoritmo indica un procedimento di calcolo. Esso consiste in una successione finita di operazioni elementari da eseguire una dopo l’altra in un ordine ben preciso e deve avere le seguenti caratteristiche:
+>
+>- deve essere `finito` (cioè terminare dopo un numero finito di operazioni),
+>- `definito` (ossia essere conciso e non ambiguo),
+>- `completo` e deve raggiungere il risultato per il quale è stato progettato.
 
 ---
 

@@ -6,7 +6,6 @@ type: docs
 date: "2021-09-09T00:00:00+01:00"
 draft: false
 diagram: true
-toc: true
 menu:
   math-01:
     parent: 
@@ -20,7 +19,7 @@ weight: 10
 
 ![ex1_img](../majong_01.png)
 
-## 1. L’insieme dei numeri naturali
+## L’insieme dei numeri naturali
 
 <!-- {{< figure src="../majong_01.png" caption="A caption" numbered="true" >}} -->
 
@@ -29,7 +28,7 @@ weight: 10
 > - Servono veramente tutti questi numeri?
 > - Sono essenziali o se ne potrebbe fare a meno?
 
-## numeri naturali e loro ordinamento
+### 1. numeri naturali e loro ordinamento
 
 - come si rappresentano gli insiemi numerici?
 
@@ -81,7 +80,7 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 
 ## Le quattro operazioni aritmetiche con i numeri naturali
 
-## 2. addizione e sue proprietà
+### 2. addizione e sue proprietà
 
 >**definizione**: la **somma** di due numeri naturali è quel numero naturale che si ottiene contando di seguito al primo tutte le unità del secondo.
 
@@ -94,7 +93,7 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 
 ---
 
-## 3. sottrazione e sue proprietà
+### 3. sottrazione e sue proprietà
 
 - è un’operazione che si esegue tra due numeri, considerati nell’ordine, il primo detto `minuendo` e il secondo `sottraendo`. Il risultato della sottrazione si chiama `differenza`.
 
@@ -115,7 +114,7 @@ La relazione di **uguaglianza** tra due numeri naturali gode delle seguenti prop
 
 ---
 
-## 4. moltiplicazione e sue proprietà
+### 4. moltiplicazione e sue proprietà
 
 >**definizione**: **prodotto** di due numeri naturali
 >
@@ -134,7 +133,7 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}\_{21+15=36} = \underbrace{3 \cdot (7+5)}\_{
 
 ---
 
-## 5. divisione e sue proprietà
+### 5. divisione e sue proprietà
 
 >Il `quoziente` tra due numeri naturali, dei quali il secondo diverso da `zero`, è quel numero naturale, se esiste, che moltiplicato per il `divisore` dà il `dividendo`:
 >
@@ -159,7 +158,7 @@ $$\underbrace{3 \cdot 7 + 3 \cdot 5}\_{21+15=36} = \underbrace{3 \cdot (7+5)}\_{
 | $a:a=1$                | $6:6=1$ |
 | $0:a=0$, se $a \neq 0$ | $0:6=0$ |
 
-## proprietà `invariantiva` della divisione
+### proprietà `invariantiva` della divisione
 
 - se si moltiplicano o si dividono sia il dividendo sia il divisore per uno stesso numero - diverso da zero -, il quoziente non cambia:
 
@@ -174,7 +173,7 @@ $$72:12=(72 : 2):(12 : 2)=36:6=6$$
 
 ---
 
-## proprietà distributiva della divisione
+#### proprietà distributiva della divisione
 
 - rispetto alla **addizione**:
   - per dividere una `somma` per un `numero` si può dividere ciascun addendo per quel numero e quindi sommare i quozienti:
@@ -194,7 +193,7 @@ $$a:(b+c) \neq a:b+a:c$$
 
 ---
 
-## divisione approssimata - con resto
+#### divisione approssimata - con resto
 
 Se il dividendo **non** è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e aldivisore due numeri naturali, detti rispettivamente `quoziente` e `resto`.
 
@@ -208,7 +207,7 @@ Se il dividendo **non** è multiplo del divisore, la divisione esatta non si pu�
 
 $$a:b=q \\; \text{con resto }r \\; \longleftrightarrow \quad a=b \cdot q +r \quad(r <b)$$
 
-## Proprietà invariantiva della divisione approssimata
+### Proprietà invariantiva della divisione approssimata
 
 >se si moltiplicano o si dividono `sia` il dividendo `sia` il divisore per uno stesso numero diverso da zero il quoziente non cambia, mentre il resto risulta moltiplicato o diviso per il numero dato:
 
@@ -222,7 +221,7 @@ $$a:b=q \\; \text{con resto }r \\; \longrightarrow \\; (a : c) : (b : c)= q \\; 
 
 ---
 
-## 6. definizione di potenza
+### 6. definizione di potenza
 
 > **DEFINIZIONE**:
 > La potenza di `base` $a$ ed `esponente` $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ `fattori` uguali ad $a$:
@@ -240,11 +239,24 @@ Come accade spesso in matematica per le potenze si adottano delle convenzioni:
 - $1^n=1$, per ogni $n$ ($\forall n$)
 - $0^n=0 \quad \forall n \neq 0$
 
-## 7. proprietà delle potenze
+---
+
+### 7. proprietà delle potenze
+
+- Il **prodotto** di potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la somma degli esponenti:
+  - $a^m \cdot a^n = a^{m+n}$
+- Il **quoziente** di due potenze con la stessa base è una potenza che ha per basela stessa base e per esponente la differenza degli esponenti:
+  - $a^m : a^n = a^{m-n}$, con $(a \neq 0, \\; m \geq n)$
+- La **potenza di una potenza** è una potenza che ha per base la stessa base e per esponente il prodotto degli esponenti:
+  - $a^m \cdot a^n = a^{m+n}$
 
 ---
 
-## 8. ESPRESSIONI CON I NUMERI NATURALI
+## ESPRESSIONI CON I NUMERI NATURALI
+
+### 8. Priorità delle operazioni
+
+### 9. Le parentesi
 
 ---
 
@@ -281,25 +293,9 @@ Come accade spesso in matematica per le potenze si adottano delle convenzioni:
 
 ---
 
-## Potenze in $\mathbb{N}$ e loro proprietà
-
-## definizione di potenza
-
-- **DEFINIZIONE**: La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ `fattori` uguali ad $a$:
-
-$$a^n = \underbrace{a \cdot a \cdot a \cdot \ldots \cdot a}_{n \\; \text{volte}}$$
-
-## Espressioni con in numeri naturali
-
-## Divisibilità e numeri primi
-
-## Massimo comune divisore e minimo comune multiplo
-
-## Sistemi di numerazione
-
----
-
 ## L’insieme  dei  numeri  interi  relativi $\mathbb{Z}$
+
+## 18. I numeri interi relativi
 
 ## Le quattro operazioni aritmetiche con i numeri interi relativi
 

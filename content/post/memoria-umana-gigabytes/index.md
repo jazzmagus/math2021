@@ -53,7 +53,7 @@ gallery_item:
   image: theme-strawberry.png
 ---
 
-{{< toc hide_on="xl" >}}
+<!-- {{< toc hide_on="xl" >}} -->
 
 Pari a un **milione di gigabyte**, l'equivalente di circa `31,250 iPhone 7s da 32 GB`: è questa la capacità di memoria del cervello umano, calcolata da un gruppo di neuroscienziati per una nuova ricerca, pubblicata sulla rivista ["eLife"](https://elifesciences.org/content/4/e10778).
 Secondo lo studio, la nostra mente sarebbe in grado di memorizzare una quantità di informazioni di almeno [10 volte superiore](http://www.sciencealert.com/our-memory-capacity-is-10-times-larger-than-we-thought) rispetto a quella che, fino ad oggi, abbiamo creduto potesse immagazzinare. "È una scoperta bomba nel campo delle neuroscienze", ha commentato uno dei ricercatori, Terry Sejnowski del [Salk Institute for Biological Studies](http://www.salk.edu/), in California.

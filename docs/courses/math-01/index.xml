@@ -334,18 +334,23 @@ La potenza di &lt;code&gt;base&lt;/code&gt; $a$ ed &lt;code&gt;esponente&lt;/cod
 &lt;hr&gt;
 &lt;h3 id=&#34;7-proprietà-delle-potenze&#34;&gt;7. proprietà delle potenze&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../capitolo1.pdf&#34;&gt;La memoria umana in gigabytes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Il &lt;strong&gt;prodotto&lt;/strong&gt; di potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la somma degli esponenti:
+&lt;li&gt;
+&lt;p&gt;per un ulteriore approfondimento &amp;raquo; &lt;a href=&#34;https://jazzmagus.github.io/math2021/math2021/post/memoria-umana-gigabytes/&#34;&gt;La memoria umana in gigabytes&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Il &lt;strong&gt;prodotto&lt;/strong&gt; di potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la somma degli esponenti:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;$a^m \cdot a^n = a^{m+n}$&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Il &lt;strong&gt;quoziente&lt;/strong&gt; di due potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la differenza degli esponenti:
+&lt;li&gt;
+&lt;p&gt;Il &lt;strong&gt;quoziente&lt;/strong&gt; di due potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la differenza degli esponenti:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;$a^m : a^n = a^{m-n}$, con $(a \neq 0, \; m \geq n)$&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;La &lt;strong&gt;potenza di una potenza&lt;/strong&gt; è una potenza che ha per base la stessa base e per esponente il prodotto degli esponenti:
+&lt;li&gt;
+&lt;p&gt;La &lt;strong&gt;potenza di una potenza&lt;/strong&gt; è una potenza che ha per base la stessa base e per esponente il prodotto degli esponenti:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;$a^m \cdot a^n = a^{m+n}$&lt;/li&gt;
 &lt;/ul&gt;

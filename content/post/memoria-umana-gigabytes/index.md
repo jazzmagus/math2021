@@ -73,8 +73,8 @@ Secondo lo studio, la nostra mente sarebbe in grado di memorizzare una quantità
 - La ricerca è ricca di implicazioni e richiede ulteriori approfondimenti: è importante tenere a mente che è stata condotta solo usando come modello il cervello dei ratti, ma, in futuro, potrà e dovrà essere condotta anche agli esseri umani.
 - Gli studiosi, comunque, si dicono soddisfatti: "Nascosto dietro l'apparente caos e disordine del cervello c'è la precisione delle forme e delle dimensioni delle sinapsi", ha spiegato ancora l'autore. Proprio come delle macchine, ma più complessi e flessibili, i nostri cervelli, dunque, possono immagazzinare una quantità di informazioni che, fino ad oggi, era inimmaginabile.
 
->[capacità di memoria del cervello umano](https://www.huffingtonpost.it/2016/11/04/memoria-cervello-10-volte-piu-potente-previsto_n_12797546.html?utm_hp_ref=it-memoria-cervello)
+<!-->[capacità di memoria del cervello umano](https://www.huffingtonpost.it/2016/11/04/memoria-cervello-10-volte-piu-potente-previsto_n_12797546.html?utm_hp_ref=it-memoria-cervello)
 
-<!-- - La prossima lezione: [Metodo Cornell]({{< relref "../metodo-cornell" >}}) -->
+ - La prossima lezione: [Metodo Cornell]({{< relref "../metodo-cornell" >}}) -->
 
 [^1]: **Bit** - *dall'inglese "**bi**nary digi**t**"* - in informatica è una cifra binaria, ovvero uno dei due simboli del sistema numerico **binario**, classicamente chiamati **zero** $0$ e **uno** $1$; si può parlare di numero di $8, 16, 32 \dots$ bit, come nella comune base dieci si parla di un numero di $8, 16, 32, \dots$ cifre.

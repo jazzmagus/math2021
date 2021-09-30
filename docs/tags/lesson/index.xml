@@ -7,10 +7,60 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>it</language>
     <copyright>Copyright &amp;copy; JaZzMaGuS {year}</copyright>
-    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://jazzmagus.github.io/math2021/tags/lesson/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>La Memoria umana in gigabytes</title>
+      <link>https://jazzmagus.github.io/math2021/post/memoria-umana-gigabytes/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jazzmagus.github.io/math2021/post/memoria-umana-gigabytes/</guid>
+      <description>&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+
+&lt;p&gt;Pari a un &lt;strong&gt;milione di gigabyte&lt;/strong&gt;, l&amp;rsquo;equivalente di circa &lt;code&gt;31,250 iPhone 7s da 32 GB&lt;/code&gt;: è questa la capacità di memoria del cervello umano, calcolata da un gruppo di neuroscienziati per una nuova ricerca, pubblicata sulla rivista &lt;a href=&#34;https://elifesciences.org/content/4/e10778&#34;&gt;&amp;ldquo;eLife&amp;rdquo;&lt;/a&gt;.
+Secondo lo studio, la nostra mente sarebbe in grado di memorizzare una quantità di informazioni di almeno &lt;a href=&#34;http://www.sciencealert.com/our-memory-capacity-is-10-times-larger-than-we-thought&#34;&gt;10 volte superiore&lt;/a&gt; rispetto a quella che, fino ad oggi, abbiamo creduto potesse immagazzinare. &amp;ldquo;È una scoperta bomba nel campo delle neuroscienze&amp;rdquo;, ha commentato uno dei ricercatori, Terry Sejnowski del &lt;a href=&#34;http://www.salk.edu/&#34;&gt;Salk Institute for Biological Studies&lt;/a&gt;, in California.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Le nuove misurazioni della capacità di memoria del cervello che abbiamo effettuato aumentano le stime conservative di un &lt;strong&gt;fattore 10&lt;/strong&gt; - ha aggiunto -. Siamo intorno almeno a &lt;strong&gt;un petabyte&lt;/strong&gt; (un milione di GB), una dimensione approssimativamente simile all’intero World Wide Web&amp;rdquo;, ha spiegato il neuroscienziato.&lt;/p&gt;
+&lt;p&gt;$$1.000.000.000.000.000 \; \text{byte} = 10005 = 1015 \; \text{byte} = 1 \; \text{biliardo di byte} = 10^{15} \; \text{byte}$$&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ricordando che: $1 \; \text{byte} = 8 \; \text{bit}$&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sejnowski&lt;/strong&gt; e il suo team hanno ricostruito in 3D l&amp;rsquo;ippocampo di un ratto, ossia quell&amp;rsquo;area del cervello comunemente associata alla memoria a lungo termine.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Usando algoritmi e tecniche microscopiche, i ricercatori sono poi passati a ricostruire le sinapsi a livello nanomolecolare, studiandole nel dettaglio, come mai prima d&amp;rsquo;ora.&lt;/li&gt;
+&lt;li&gt;Dall&amp;rsquo;osservazione è emerso che le &lt;strong&gt;sinapsi&lt;/strong&gt;, anche nell&amp;rsquo;arco di pochi minuti, possono variare la loro dimensione, dando vita a ben 26 categorie diverse.&lt;/li&gt;
+&lt;li&gt;Se fino ad oggi erano classificate solo come piccole, medie o grandi, i neuroscienziati hanno scoperto che, al contrario, esistono differenze tra loro che, pur essendo solo dell&#39;8%, significano molto.&lt;/li&gt;
+&lt;li&gt;Proprio questa complessità nelle dimensioni sinaptiche, secondo i neuroscienziati, si tradurrebbe in una spinta enorme nella capacità di memorizzazione del cervello.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La ricerca è ricca di implicazioni e richiede ulteriori approfondimenti: è importante tenere a mente che è stata condotta solo usando come modello il cervello dei ratti, ma, in futuro, potrà e dovrà essere condotta anche agli esseri umani.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gli studiosi, comunque, si dicono soddisfatti: &amp;ldquo;Nascosto dietro l&amp;rsquo;apparente caos e disordine del cervello c&amp;rsquo;è la precisione delle forme e delle dimensioni delle sinapsi&amp;rdquo;, ha spiegato ancora l&amp;rsquo;autore. Proprio come delle macchine, ma più complessi e flessibili, i nostri cervelli, dunque, possono immagazzinare una quantità di informazioni che, fino ad oggi, era inimmaginabile.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.huffingtonpost.it/2016/11/04/memoria-cervello-10-volte-piu-potente-previsto_n_12797546.html?utm_hp_ref=it-memoria-cervello&#34;&gt;capacità di memoria del cervello umano&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Bit&lt;/strong&gt; - &lt;em&gt;dall&amp;rsquo;inglese &amp;ldquo;&lt;strong&gt;bi&lt;/strong&gt;nary digi&lt;strong&gt;t&lt;/strong&gt;&amp;quot;&lt;/em&gt; - in informatica è una cifra binaria, ovvero uno dei due simboli del sistema numerico &lt;strong&gt;binario&lt;/strong&gt;, classicamente chiamati &lt;strong&gt;zero&lt;/strong&gt; $0$ e &lt;strong&gt;uno&lt;/strong&gt; $1$; si può parlare di numero di $8, 16, 32 \dots$ bit, come nella comune base dieci si parla di un numero di $8, 16, 32, \dots$ cifre.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
     
     <item>
       <title>Il metodo di studio Cornell</title>

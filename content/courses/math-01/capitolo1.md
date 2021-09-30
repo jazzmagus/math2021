@@ -243,6 +243,7 @@ Come accade spesso in matematica per le potenze si adottano delle convenzioni:
 
 ### 7. proprietà delle potenze
 
+- [La memoria umana in gigabytes](../capitolo1.pdf)
 - Il **prodotto** di potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la somma degli esponenti:
   - $a^m \cdot a^n = a^{m+n}$
 - Il **quoziente** di due potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la differenza degli esponenti:

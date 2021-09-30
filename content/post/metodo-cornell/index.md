@@ -1,7 +1,7 @@
 ---
 title: Il metodo di studio Cornell
 subtitle: Un metodo per lo studio e la revisione degli appunti
-summary: Inizio a.s. 2021-22
+summary: Imparare a studiare... la Matematica
 authors:
 - diego fantinelli
 tags: [itis, lesson, 2021]

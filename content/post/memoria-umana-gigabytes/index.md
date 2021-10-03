@@ -67,7 +67,7 @@ Secondo lo studio, la nostra mente sarebbe in grado di memorizzare una quantità
 - **Sejnowski** e il suo team hanno ricostruito in 3D l'ippocampo di un ratto, ossia quell'area del cervello comunemente associata alla memoria a lungo termine.
   - Usando algoritmi e tecniche microscopiche, i ricercatori sono poi passati a ricostruire le sinapsi a livello nanomolecolare, studiandole nel dettaglio, come mai prima d'ora.
   - Dall'osservazione è emerso che le **sinapsi**, anche nell'arco di pochi minuti, possono variare la loro dimensione, dando vita a ben 26 categorie diverse.
-  - Se fino ad oggi erano classificate solo come piccole, medie o grandi, i neuroscienziati hanno scoperto che, al contrario, esistono differenze tra loro che, pur essendo solo dell'8%, significano molto.
+  - Se fino ad oggi erano classificate solo come piccole, medie o grandi, i neuroscienziati hanno scoperto che, al contrario, esistono differenze tra loro che, pur essendo solo dell'$8$%, significano molto.
   - Proprio questa complessità nelle dimensioni sinaptiche, secondo i neuroscienziati, si tradurrebbe in una spinta enorme nella capacità di memorizzazione del cervello.
 
 - La ricerca è ricca di implicazioni e richiede ulteriori approfondimenti: è importante tenere a mente che è stata condotta solo usando come modello il cervello dei ratti, ma, in futuro, potrà e dovrà essere condotta anche agli esseri umani.
@@ -75,6 +75,6 @@ Secondo lo studio, la nostra mente sarebbe in grado di memorizzare una quantità
 
 <!-->[capacità di memoria del cervello umano](https://www.huffingtonpost.it/2016/11/04/memoria-cervello-10-volte-piu-potente-previsto_n_12797546.html?utm_hp_ref=it-memoria-cervello) -->
 
-- La prossima lezione: [Metodo Cornell]({{< relref "../metodo-cornell" >}})
+<!-- - La prossima lezione: [Metodo Cornell]({{< relref "../metodo-cornell" >}}) -->
 
 [^1]: **Bit** - *dall'inglese "**bi**nary digi**t**"* - in informatica è una cifra binaria, ovvero uno dei due simboli del sistema numerico **binario**, classicamente chiamati **zero** $0$ e **uno** $1$; si può parlare di numero di $8, 16, 32 \dots$ bit, come nella comune base dieci si parla di un numero di $8, 16, 32, \dots$ cifre.

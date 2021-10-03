@@ -718,16 +718,16 @@ $$a:(b+c) \neq a:b+a:c$$</li>
 <h3 id="divisione-approssimata---con-resto">divisione approssimata - con resto</h3>
 <ul>
 <li>
-<p>Se il dividendo <strong>non</strong> è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e aldivisore due numeri naturali, detti rispettivamente <code>quoziente</code> e <code>resto</code>.</p>
+<p>Se il dividendo <strong>non</strong> è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e al divisore due numeri naturali, detti rispettivamente <code>quoziente</code> e <code>resto</code>.</p>
 </li>
 <li>
 <p>Il <strong>quoziente</strong> della divisione approssimata è il più grande numero naturale che, moltiplicato per il divisore, dà un prodotto minore o uguale al dividendo.</p>
 </li>
 <li>
-<p>Il <strong>resto</strong> è la differenza tra il dividendo e tale prodotto.</p>
-<ul>
-<li>Il resto risulta <code>sempre minore</code> del divisore</li>
-</ul>
+<p>Il <strong>resto</strong> è la <strong>differenza</strong> tra il dividendo e tale prodotto.</p>
+</li>
+<li>
+<p>Il resto risulta <strong>sempre minore</strong> del divisore</p>
 </li>
 </ul>
 <blockquote>
@@ -763,24 +763,21 @@ La potenza di <code>base</code> $a$ ed <code>esponente</code> $n$ si indica con 
 </ul>
 <hr>
 <h3 id="7-proprietà-delle-potenze">7. proprietà delle potenze</h3>
+<blockquote>
+<p><em>approfondimento</em>: <a href="/math2021/post/memoria-umana-gigabytes/">La memoria umana in gigabytes</a></p>
+</blockquote>
 <ul>
-<li>
-<p>per un ulteriore approfondimento &raquo; <a href="/math2021/post/memoria-umana-gigabytes/">La memoria umana in gigabytes</a></p>
-</li>
-<li>
-<p>Il <strong>prodotto</strong> di potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la somma degli esponenti:</p>
+<li>Il <strong>prodotto</strong> di potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la somma degli esponenti:
 <ul>
 <li>$a^m \cdot a^n = a^{m+n}$</li>
 </ul>
 </li>
-<li>
-<p>Il <strong>quoziente</strong> di due potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la differenza degli esponenti:</p>
+<li>Il <strong>quoziente</strong> di due potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la differenza degli esponenti:
 <ul>
 <li>$a^m : a^n = a^{m-n}$, con $(a \neq 0, \; m \geq n)$</li>
 </ul>
 </li>
-<li>
-<p>La <strong>potenza di una potenza</strong> è una potenza che ha per base la stessa base e per esponente il prodotto degli esponenti:</p>
+<li>La <strong>potenza di una potenza</strong> è una potenza che ha per base la stessa base e per esponente il prodotto degli esponenti:
 <ul>
 <li>$a^m \cdot a^n = a^{m+n}$</li>
 </ul>
@@ -795,13 +792,47 @@ La potenza di <code>base</code> $a$ ed <code>esponente</code> $n$ si indica con 
 <li>
 <p>$(3+4)^2=49$, mentre $3^2 + 4^2 = 25$</p>
 </li>
+<li>
+<p>Rif.: MULTIMATH VERDE Vol.1 pag. 43</p>
+</li>
 </ul>
 </blockquote>
-<h4 id="esercizi">ESERCIZI</h4>
 <hr>
 <h2 id="espressioni-con-i-numeri-naturali">ESPRESSIONI CON I NUMERI NATURALI</h2>
+<blockquote>
+<p>Le espressioni numeriche sono una <strong>sequenza</strong> di operazioni, da eseguirsi rispettando il loro <strong>grado di priorità</strong>.</p>
+<ol>
+<li>elevamenti a potenza</li>
+<li>moltiplicazioni e divisioni</li>
+<li>addizioni e sottrazioni</li>
+</ol>
+</blockquote>
 <h3 id="8-priorità-delle-operazioni">8. Priorità delle operazioni</h3>
+<p><strong>ESEMPIO</strong>:</p>
+<p>$$
+12 - 4 \cdot 2 + 9 : 3 = 12 - 8 + 3 = 4 + 3 = 7
+$$</p>
 <h3 id="9-le-parentesi">9. Le parentesi</h3>
+<blockquote>
+<p>Per indicare che le operazioni si devono eseguire in un ordine diverso da quello dato dal loro <strong>grado di priorità</strong>, si utilizzano le parentesi.</p>
+</blockquote>
+<ol>
+<li>Le parentesi, in un’espressione, devono sempre comparire in <strong>coppie</strong>: a ogni parentesi <strong>aperta</strong> deve corrispondere una parentesi <strong>chiusa</strong>.</li>
+<li>Si devono eseguire per prime le operazioni indicate nelle coppie di parentesi più <strong>interne</strong>, ossia in quelle coppie, formate da una parentesi aperta e una chiusa, all’interno delle quali non vi siano altre parentesi.</li>
+<li>Tali coppiedi parentesi devono quindi essere <strong>sostituite</strong> con i risultati rispettivamente ottenuti.</li>
+<li>Si prosegue in questo modo fino a quando non vi sono più parentesi.</li>
+</ol>
+<ul>
+<li>consideriamo la stessa espressione numerica dell&rsquo;esempio precedente e riscriviamola utilizzando le parentesi</li>
+<li><code>osservazione</code>: in questo caso risulta evidente che le parentesi sono <em>ridondanti</em>, ossia &ldquo;<em>di troppo</em>&rdquo;.</li>
+</ul>
+<p>$$
+\left[12 - (4 \cdot 2) + (9 : 3) \right] = 12 - 8 + 3 = 4 + 3 = 7
+$$</p>
+<hr>
+<blockquote>
+<p><strong>ESERCIZI</strong>: <em>Rif.: MULTIMATH VERDE Vol.1 pag. 43</em></p>
+</blockquote>
 <hr>
 <h3 id="10-altre-proprietà-delle-operazioni">10. altre proprietà delle operazioni</h3>
 <hr>
@@ -817,10 +848,8 @@ La potenza di <code>base</code> $a$ ed <code>esponente</code> $n$ si indica con 
 <h2 id="sistemi--di--numerazione">Sistemi  di  numerazione</h2>
 <h3 id="16-il-sistema-decimale">16. il sistema decimale</h3>
 <h3 id="17-cambiamenti-di-base">17. cambiamenti di base</h3>
-<ul>
-<li><strong>dalla base $b$ alla base $10$</strong></li>
-<li><strong>dalla base $10$ alla base $b$</strong></li>
-</ul>
+<h4 id="dalla-base-b-alla-base-10">dalla base $b$ alla base $10$</h4>
+<h4 id="dalla-base-10-alla-base-b">dalla base $10$ alla base $b$</h4>
 <blockquote>
 <p>Il termine <code>algoritmo</code> deriva dal nome del matematico di cultura araba Mohammed ibn-Musa al-Khuwarizmi, che visse a Baghdad nel IX secolod.C.; egli ci tramandò non solo un importante libro di calcolo numerico, ma anche un libro di algebra sulle equazioni di primo e secondo grado che fu basilare per lo sviluppo dell’algebra stessa. La parola algoritmo indica un procedimento di calcolo. Esso consiste in una successione finita di operazioni elementari da eseguire una dopo l’altra in un ordine ben preciso e deve avere le seguenti caratteristiche:</p>
 <ul>

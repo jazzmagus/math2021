@@ -197,11 +197,11 @@ $$a:(b+c) \neq a:b+a:c$$
 
 ### divisione approssimata - con resto
 
-- Se il dividendo **non** è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e aldivisore due numeri naturali, detti rispettivamente `quoziente` e `resto`.
+- Se il dividendo **non** è multiplo del divisore, la divisione esatta non si può eseguire. Si può ricorrere allora alla divisione approssimata che associa al dividendo e al divisore due numeri naturali, detti rispettivamente `quoziente` e `resto`.
 
 - Il **quoziente** della divisione approssimata è il più grande numero naturale che, moltiplicato per il divisore, dà un prodotto minore o uguale al dividendo.
-- Il **resto** è la differenza tra il dividendo e tale prodotto.
-  - Il resto risulta `sempre minore` del divisore
+- Il **resto** è la **differenza** tra il dividendo e tale prodotto.
+- Il resto risulta **sempre minore** del divisore
 
 > se $r=0$, allora l'uguaglianza $a=b \cdot q +r$ diviene:
 > $$a=b \cdot q$$
@@ -243,7 +243,7 @@ Come accade spesso in matematica per le potenze si adottano delle convenzioni:
 
 ### 7. proprietà delle potenze
 
-- per un ulteriore approfondimento >> [La memoria umana in gigabytes]({{< relref "/memoria-umana-gigabytes" >}})
+>*approfondimento*: [La memoria umana in gigabytes]({{< relref "/memoria-umana-gigabytes" >}})
 
 - Il **prodotto** di potenze con la stessa base è una potenza che ha per base la stessa base e per esponente la somma degli esponenti:
   - $a^m \cdot a^n = a^{m+n}$
@@ -257,16 +257,46 @@ Come accade spesso in matematica per le potenze si adottano delle convenzioni:
 >- $(a+b)^n \neq a^n + b^n$
 >
 >- $(3+4)^2=49$, mentre $3^2 + 4^2 = 25$
-
-#### ESERCIZI
+>
+> - Rif.: MULTIMATH VERDE Vol.1 pag. 43
 
 ---
 
 ## ESPRESSIONI CON I NUMERI NATURALI
 
+> Le espressioni numeriche sono una **sequenza** di operazioni, da eseguirsi rispettando il loro **grado di priorità**.
+>
+> 1. elevamenti a potenza
+> 1. moltiplicazioni e divisioni
+> 1. addizioni e sottrazioni
+
 ### 8. Priorità delle operazioni
 
+**ESEMPIO**:
+
+$$
+12 - 4 \cdot 2 + 9 : 3 = 12 - 8 + 3 = 4 + 3 = 7
+$$
+
 ### 9. Le parentesi
+
+> Per indicare che le operazioni si devono eseguire in un ordine diverso da quello dato dal loro **grado di priorità**, si utilizzano le parentesi.
+
+1. Le parentesi, in un’espressione, devono sempre comparire in **coppie**: a ogni parentesi **aperta** deve corrispondere una parentesi **chiusa**.
+1. Si devono eseguire per prime le operazioni indicate nelle coppie di parentesi più **interne**, ossia in quelle coppie, formate da una parentesi aperta e una chiusa, all’interno delle quali non vi siano altre parentesi.
+1. Tali coppiedi parentesi devono quindi essere **sostituite** con i risultati rispettivamente ottenuti.
+1. Si prosegue in questo modo fino a quando non vi sono più parentesi.
+
+- consideriamo la stessa espressione numerica dell'esempio precedente e riscriviamola utilizzando le parentesi
+- `osservazione`: in questo caso risulta evidente che le parentesi sono *ridondanti*, ossia "*di troppo*".
+
+$$
+\left[12 - (4 \cdot 2) + (9 : 3) \right] = 12 - 8 + 3 = 4 + 3 = 7
+$$
+
+---
+
+> **ESERCIZI**: *Rif.: MULTIMATH VERDE Vol.1 pag. 43*
 
 ---
 
@@ -298,8 +328,9 @@ Come accade spesso in matematica per le potenze si adottano delle convenzioni:
 
 ### 17. cambiamenti di base
 
-- **dalla base $b$ alla base $10$**
-- **dalla base $10$ alla base $b$**
+#### dalla base $b$ alla base $10$
+
+#### dalla base $10$ alla base $b$
 
 >Il termine `algoritmo` deriva dal nome del matematico di cultura araba Mohammed ibn-Musa al-Khuwarizmi, che visse a Baghdad nel IX secolod.C.; egli ci tramandò non solo un importante libro di calcolo numerico, ma anche un libro di algebra sulle equazioni di primo e secondo grado che fu basilare per lo sviluppo dell’algebra stessa. La parola algoritmo indica un procedimento di calcolo. Esso consiste in una successione finita di operazioni elementari da eseguire una dopo l’altra in un ordine ben preciso e deve avere le seguenti caratteristiche:
 >

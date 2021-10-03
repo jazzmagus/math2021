@@ -311,7 +311,23 @@ $$
 - Per dividere un **numero** per un **prodotto**, si può dividere successivamente quel numero per ciascun fattore:
   - $$a:(b \cdot c) = (a : b):c$$
   - $$48 : (2 \cdot 3) = (48 : 2) : 3 = 24 : 3 = 8$$
-- Per moltiplicare un numero per un quoziente, si può moltiplicare il numero per il dividendo e poi dividere il prodotto ottenuto per il divisore, oppure dividere il numero per il divisore e successivamente moltiplicare il risultato per il dividendo:
+- Per moltiplicare un **numero** per un **quoziente**, si può moltiplicare il numero per il dividendo e poi dividere il prodotto ottenuto per il divisore, oppure dividere il numero per il divisore e successivamente moltiplicare il risultato per il dividendo:
+  
+$$
+a \cdot (b:c)=
+\begin{cases}
+(a \cdot b):c \\\\
+(a : c) \cdot b
+\end{cases}
+$$
+
+$$
+6 \cdot (12:3)=
+\begin{cases}
+(6 \cdot 12):3 \\\\
+(6 : 3) \cdot 12
+\end{cases}
+$$
 
 ---
 

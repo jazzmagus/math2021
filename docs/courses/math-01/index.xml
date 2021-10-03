@@ -422,9 +422,23 @@ $$&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Per moltiplicare un numero per un quoziente, si può moltiplicare il numero per il dividendo e poi dividere il prodotto ottenuto per il divisore, oppure dividere il numero per il divisore e successivamente moltiplicare il risultato per il dividendo:&lt;/p&gt;
+&lt;p&gt;Per moltiplicare un &lt;strong&gt;numero&lt;/strong&gt; per un &lt;strong&gt;quoziente&lt;/strong&gt;, si può moltiplicare il numero per il dividendo e poi dividere il prodotto ottenuto per il divisore, oppure dividere il numero per il divisore e successivamente moltiplicare il risultato per il dividendo:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;$$
+a \cdot (b:c)=
+\begin{cases}
+(a \cdot b):c \\&lt;br&gt;
+(a : c) \cdot b
+\end{cases}
+$$&lt;/p&gt;
+&lt;p&gt;$$
+6 \cdot (12:3)=
+\begin{cases}
+(6 \cdot 12):3 \\&lt;br&gt;
+(6 : 3) \cdot 12
+\end{cases}
+$$&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;ESERCIZI&lt;/strong&gt;: &lt;em&gt;Rif.: MULTIMATH VERDE Vol.1 pag. 43, n. 67&lt;/em&gt;&lt;/p&gt;

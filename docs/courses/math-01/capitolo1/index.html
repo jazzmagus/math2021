@@ -821,7 +821,9 @@ $$</p>
 <li>Si devono eseguire per prime le operazioni indicate nelle coppie di parentesi più <strong>interne</strong>, ossia in quelle coppie, formate da una parentesi aperta e una chiusa, all’interno delle quali non vi siano altre parentesi.</li>
 <li>Tali coppiedi parentesi devono quindi essere <strong>sostituite</strong> con i risultati rispettivamente ottenuti.</li>
 <li>Si prosegue in questo modo fino a quando non vi sono più parentesi.</li>
+<li>Nel caso siano indicate di seguito diverse operazioni con lo stesso grado di priorità, esse vanno eseguite nell’ordine dato.</li>
 </ol>
+<p>$$168 : 12 \cdot 3 : 2$$</p>
 <ul>
 <li>consideriamo la stessa espressione numerica dell&rsquo;esempio precedente e riscriviamola utilizzando le parentesi</li>
 <li><code>osservazione</code>: in questo caso risulta evidente che le parentesi sono <em>ridondanti</em>, ossia &ldquo;<em>di troppo</em>&rdquo;.</li>
@@ -830,11 +832,33 @@ $$</p>
 \left[12 - (4 \cdot 2) + (9 : 3) \right] = 12 - 8 + 3 = 4 + 3 = 7
 $$</p>
 <hr>
-<blockquote>
-<p><strong>ESERCIZI</strong>: <em>Rif.: MULTIMATH VERDE Vol.1 pag. 43</em></p>
-</blockquote>
-<hr>
 <h3 id="10-altre-proprietà-delle-operazioni">10. altre proprietà delle operazioni</h3>
+<ul>
+<li>
+<p>Per dividere un <strong>prodotto</strong> per un <strong>numero</strong>, si può dividere uno solo dei fattori per quel numero:</p>
+<ul>
+<li>$$(a \cdot b \cdot c): d = a \cdot (b:d) \cdot c$$</li>
+<li>$$(7 \cdot 15 \cdot 6):5 = 7 \cdot (15:5) \cdot 6 = 7 \cdot 3 \cdot 6 = 126$$</li>
+<li>In particolare, per dividere un prodotto per uno dei suoi fattori, è sufficiente sopprimere quel fattore:</li>
+<li>$$(a \cdot b \cdot c): b = a \cdot c$$</li>
+<li>$$ (7 \cdot 15 \cdot 6): 15 = 7 \cdot 6 = 42$$</li>
+</ul>
+</li>
+<li>
+<p>Per dividere un <strong>numero</strong> per un <strong>prodotto</strong>, si può dividere successivamente quel numero per ciascun fattore:</p>
+<ul>
+<li>$$a:(b \cdot c) = (a : b):c$$</li>
+<li>$$48 : (2 \cdot 3) = (48 : 2) : 3 = 24 : 3 = 8$$</li>
+</ul>
+</li>
+<li>
+<p>Per moltiplicare un numero per un quoziente, si può moltiplicare il numero per il dividendo e poi dividere il prodotto ottenuto per il divisore, oppure dividere il numero per il divisore e successivamente moltiplicare il risultato per il dividendo:</p>
+</li>
+</ul>
+<hr>
+<blockquote>
+<p><strong>ESERCIZI</strong>: <em>Rif.: MULTIMATH VERDE Vol.1 pag. 43, n. 67</em></p>
+</blockquote>
 <hr>
 <h2 id="divisibilità-e-numeri-primi">Divisibilità e &ldquo;numeri primi&rdquo;</h2>
 <h3 id="11-multipli-e-divisori">11. multipli e divisori</h3>

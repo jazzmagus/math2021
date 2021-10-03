@@ -286,6 +286,9 @@ $$
 1. Si devono eseguire per prime le operazioni indicate nelle coppie di parentesi più **interne**, ossia in quelle coppie, formate da una parentesi aperta e una chiusa, all’interno delle quali non vi siano altre parentesi.
 1. Tali coppiedi parentesi devono quindi essere **sostituite** con i risultati rispettivamente ottenuti.
 1. Si prosegue in questo modo fino a quando non vi sono più parentesi.
+1. Nel caso siano indicate di seguito diverse operazioni con lo stesso grado di priorità, esse vanno eseguite nell’ordine dato.
+
+$$168 : 12 \cdot 3 : 2$$
 
 - consideriamo la stessa espressione numerica dell'esempio precedente e riscriviamola utilizzando le parentesi
 - `osservazione`: in questo caso risulta evidente che le parentesi sono *ridondanti*, ossia "*di troppo*".
@@ -296,11 +299,23 @@ $$
 
 ---
 
-> **ESERCIZI**: *Rif.: MULTIMATH VERDE Vol.1 pag. 43*
+### 10. altre proprietà delle operazioni
+
+- Per dividere un **prodotto** per un **numero**, si può dividere uno solo dei fattori per quel numero:
+  - $$(a \cdot b \cdot c): d = a \cdot (b:d) \cdot c$$
+  - $$(7 \cdot 15 \cdot 6):5 = 7 \cdot (15:5) \cdot 6 = 7 \cdot 3 \cdot 6 = 126$$
+  - In particolare, per dividere un prodotto per uno dei suoi fattori, è sufficiente sopprimere quel fattore:
+  - $$(a \cdot b \cdot c): b = a \cdot c$$
+  - $$ (7 \cdot 15 \cdot 6): 15 = 7 \cdot 6 = 42$$
+
+- Per dividere un **numero** per un **prodotto**, si può dividere successivamente quel numero per ciascun fattore:
+  - $$a:(b \cdot c) = (a : b):c$$
+  - $$48 : (2 \cdot 3) = (48 : 2) : 3 = 24 : 3 = 8$$
+- Per moltiplicare un numero per un quoziente, si può moltiplicare il numero per il dividendo e poi dividere il prodotto ottenuto per il divisore, oppure dividere il numero per il divisore e successivamente moltiplicare il risultato per il dividendo:
 
 ---
 
-### 10. altre proprietà delle operazioni
+> **ESERCIZI**: *Rif.: MULTIMATH VERDE Vol.1 pag. 43, n. 67*
 
 ---
 

@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Matematica per le classi quarte
 summary: Lezioni di matematica per le classi quarte della Scuola Secondaria di Secondo Grado.
-weight: 1
+weight: 40
 
 # Page metadata.
 title: Matematica per le classi quarte
@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   math-04:
     name: Matematica per le Classi Quarte
-    weight: 1
+    weight: 40
 ---
 
 ## Introduzione al Corso

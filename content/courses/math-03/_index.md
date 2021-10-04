@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Matematica per le classi terze
 summary: Lezioni di matematica per le classi Terze della Scuola Secondaria di Secondo Grado.
-weight: 1
+weight: 30
 
 # Page metadata.
 title: Matematica per le classi terze
@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   math-03:
     name: Matematica per le Classi Terze
-    weight: 1
+    weight: 30
 ---
 
 ## Introduzione al Corso

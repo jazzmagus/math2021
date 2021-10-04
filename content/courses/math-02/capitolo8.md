@@ -1,6 +1,6 @@
 ---
-title: Numeri naturali e numeri interi relativi
-linktitle: Capitolo 1 numeri Naturali e Interi Relativi
+title: Equazioni lineari
+linktitle: Capitolo 8 | Equazioni lineari
 toc: false
 type: docs
 date: "2021-09-09T00:00:00+01:00"
@@ -9,13 +9,13 @@ diagram: true
 menu:
   math-02:
     parent: 
-    weight: 
+    weight: 10
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 10
 ---
 
-> ☆ **scadenza**: 30 settembre 2021
+> ☆ **scadenza**: 15 ottobre 2021
 
 ![ex1_img](../majong_01.png)
 

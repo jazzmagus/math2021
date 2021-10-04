@@ -2,14 +2,14 @@
 # Course title, summary, and position.
 linktitle: Matematica per le classi seconde
 summary: Lezioni di matematica per le classi seconde dei bienni della Scuola Secondaria di Secondo Grado.
-weight: 1
+weight: 20
 
 # Page metadata.
 title: Matematica per le classi seconde
 date: "2021-09-09T00:00:00Z"
 lastmod: "2021-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -31,35 +31,59 @@ menu:
 
 ![overview_img](startline.png)
 
-## Conoscenze
+---
 
-- Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.
-Rappresentazione degli insiemi numericisu una retta orientata.
-- Definizioni e proprietà delle quattro operazioni e delle potenze nei quattro insiemi numerici.
+>#### periodo: settembre-ottobre
 
-- `Divisibilità` in $\mathbb{N}$ e `numeri primi`;
- `mcm` e `MCD` di due o più numeri naturali.
+#### ripasso
 
-- Concetto di `numero relativo` e di `valore assoluto`; *regola dei segni*.
+- Rif.: **MultiMath.verde Vol 1**: Capitolo 8
 
-- **Numeri razionali**: frazioni e rappresentazione decimale.
- Notazione `esponenziale` e notazione `scientifica` di un numero: ordine di grandezza.
- **Proporzioni** e **percentuali**.
+>- Prerequisiti
+>   - Padronanza del calcolo letterale
+>   - Padronanza dei metodi di scomposizione
 
-- **Numeri irrazionali** e loro rappresentazione decimale.
- Concetto di `approssimazione` ed `errore` di un’approssimazione.
+---
 
-## Abilità
+>#### periodo: ottobre
 
-- Eseguire i calcoli con i numeri degli insiemi numerici  $\mathbb{N}$, $\mathbb{Z}$ e $\mathbb{Q}$
-- Scomporre un numero naturale in fattoriprimi e calcolare il `mcm` e il `MCD` tra due o più numeri naturali.
-Trasformare la scrittura di un numero naturale dalla base $10$ alla base $b$ e viceversa.
-- Trasformare una frazione in numero decimale e viceversa;
-scrivere un numero decimale finito in notazione scientifica e determinarne l’`ordine di grandezza`.
-- Risolvere problemi su **proporzioni** e **percentuali**.
-Calcolare l’errore relativo di un’approssimazione conoscendo l’errore assoluto e viceversa e determinare il valore abbreviato e quello arrotondato di un numero decimale.
+### Conoscenze
 
-## competenze
+- Equazioni numeriche fratte. (cap 8 - § 10)
+- Formule inverse (cap 8 - § 14)
+- Problemi di 1° grado. (cap 8 - § 15)
 
-- Utilizzare le tecniche e le procedure del calcolo aritmetico ed algebrico, rappresentandole anche sottoforma grafica.
-- Analizzare dati e interpretarli sviluppando deduzioni e ragionamenti sugli stessi anche con l’ausilio dirappresentazioni grafiche, usando consapevolmente gli strumenti di calcolo e le potenzialità offerte da applicazioni specifiche di tipo informatico.
+### Abilità
+
+- Utilizzare le procedure del calcolo aritmetico a mente e per iscritto per trovare l’insieme di esistenza di una frazione e risolvere le equazioni lineari numeriche fratte Padroneggiare l’uso della lettera come mero simbolo e come variabile nel risolvere le formule inverse.
+
+- Utilizzare le procedure del calcolo aritmetico a mente, per iscritto e con la calcolatrice per risolvere problemi di I° grado
+
+### competenze
+
+- M1, M3
+
+---
+
+### CRITERI DI VALUTAZIONE
+
+- Nel testo delle **prove scritte**, saranno rese esplicite sia le informazioni utili all’individuazione degli obiettivi minimi (che portano alla sufficienza) sia quelli che portano al voto massimo. Il singolo docente, nel rispetto della libertà d’insegnamento, potrà esplicitare i criteri di valutazione con la modalità più consona alla tipologia della propria verifica scritta proposta.
+
+- Nelle **prove orali** si valuterà la capacità dell’alunno di esprimersi in maniera chiara e sintetica, facendo uso di un linguaggio appropriato. Verranno valutate inoltre la conoscenza e la comprensione dei concetti fondamentali.
+
+- Nella **valutazione finale**, al fine di ottenere un quadro il più completo possibile della situazione di ogni alunno, l’insegnante avrà cura di tener conto di ogni dettaglio, che emerga durante le lezioni e le correzioni di esercizi in classe e che definisca i progressi ottenuti dagli allievi nei vari percorsi didattici proposti.
+
+>- N.B.: Le abilità riportate in grassetto nella presente programmazione, corrispondono alle **abilità minime**, utili al raggiungimento della **sufficienza**.
+
+---
+
+#### legenda competenze
+
+|competenze|descrizione|
+|:---:|---|
+|M1| Utilizzare le tecniche e le procedure del calcolo aritmetico ed algebrico, rappresentandole anche sotto forma grafica|
+|M2| Confrontare ed analizzare figure geometriche, individuando relazioni ed invarianti|
+|M3| Individuare le strategie appropriate per la soluzione di problemi|
+|M4| Analizzare dati ed interpretarli sviluppando deduzioni e ragionamenti sugli stessi anche con l’ausilio di rappresentazioni grafiche|
+
+---

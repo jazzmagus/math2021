@@ -13,13 +13,13 @@
     
     
     <item>
-      <title>Numeri naturali e numeri interi relativi</title>
-      <link>https://jazzmagus.github.io/math2021/courses/math-02/capitolo1/</link>
+      <title>Equazioni lineari</title>
+      <link>https://jazzmagus.github.io/math2021/courses/math-02/capitolo8/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://jazzmagus.github.io/math2021/courses/math-02/capitolo1/</guid>
+      <guid>https://jazzmagus.github.io/math2021/courses/math-02/capitolo8/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 settembre 2021&lt;/p&gt;
+&lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 15 ottobre 2021&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img src=&#34;../majong_01.png&#34; alt=&#34;ex1_img&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;linsieme-dei-numeri-naturali&#34;&gt;L’insieme dei numeri naturali&lt;/h2&gt;
@@ -60,11 +60,173 @@ La potenza di base $a$ ed esponente $n$ si indica con $a^n$ ed è uguale al prod
     </item>
     
     <item>
-      <title>Numeri razionali e numeri reali</title>
-      <link>https://jazzmagus.github.io/math2021/courses/math-02/capitolo2/</link>
+      <title>Statistica descrittiva</title>
+      <link>https://jazzmagus.github.io/math2021/courses/math-02/capitolo10/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://jazzmagus.github.io/math2021/courses/math-02/capitolo2/</guid>
+      <guid>https://jazzmagus.github.io/math2021/courses/math-02/capitolo10/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 ottobre 2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../ex2_img.png&#34; alt=&#34;ex2_img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;capitolo-2-numeri-razionali-e-numeri-reali&#34;&gt;Capitolo 2: Numeri razionali e numeri reali&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&lt;/p&gt;
+&lt;h2 id=&#34;frazioni&#34;&gt;Frazioni&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--razionali&#34;&gt;L’insieme  dei  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;operazioni--con--i--numeri--razionali&#34;&gt;operazioni  con  i  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;potenze-in-mathbbq&#34;&gt;potenze in $\mathbb{Q}$&lt;/h2&gt;
+&lt;h2 id=&#34;frazioni--e--numeri--decimali&#34;&gt;Frazioni  e  numeri  decimali&lt;/h2&gt;
+&lt;h2 id=&#34;proporzioni&#34;&gt;Proporzioni&lt;/h2&gt;
+&lt;h2 id=&#34;percentuali&#34;&gt;percentuali&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--reali&#34;&gt;L’insieme  dei  numeri  reali&lt;/h2&gt;
+&lt;h2 id=&#34;calcolo--approssimato&#34;&gt;Calcolo  approssimato&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Concetti primitivi, postulati, teoremi edefinizioni fondamentali</title>
+      <link>https://jazzmagus.github.io/math2021/courses/math-02/capitolo11/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://jazzmagus.github.io/math2021/courses/math-02/capitolo11/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 ottobre 2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../ex2_img.png&#34; alt=&#34;ex2_img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;capitolo-2-numeri-razionali-e-numeri-reali&#34;&gt;Capitolo 2: Numeri razionali e numeri reali&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&lt;/p&gt;
+&lt;h2 id=&#34;frazioni&#34;&gt;Frazioni&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--razionali&#34;&gt;L’insieme  dei  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;operazioni--con--i--numeri--razionali&#34;&gt;operazioni  con  i  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;potenze-in-mathbbq&#34;&gt;potenze in $\mathbb{Q}$&lt;/h2&gt;
+&lt;h2 id=&#34;frazioni--e--numeri--decimali&#34;&gt;Frazioni  e  numeri  decimali&lt;/h2&gt;
+&lt;h2 id=&#34;proporzioni&#34;&gt;Proporzioni&lt;/h2&gt;
+&lt;h2 id=&#34;percentuali&#34;&gt;percentuali&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--reali&#34;&gt;L’insieme  dei  numeri  reali&lt;/h2&gt;
+&lt;h2 id=&#34;calcolo--approssimato&#34;&gt;Calcolo  approssimato&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Congruenza</title>
+      <link>https://jazzmagus.github.io/math2021/courses/math-02/capitolo12/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://jazzmagus.github.io/math2021/courses/math-02/capitolo12/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 ottobre 2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../ex2_img.png&#34; alt=&#34;ex2_img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;capitolo-2-numeri-razionali-e-numeri-reali&#34;&gt;Capitolo 2: Numeri razionali e numeri reali&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&lt;/p&gt;
+&lt;h2 id=&#34;frazioni&#34;&gt;Frazioni&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--razionali&#34;&gt;L’insieme  dei  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;operazioni--con--i--numeri--razionali&#34;&gt;operazioni  con  i  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;potenze-in-mathbbq&#34;&gt;potenze in $\mathbb{Q}$&lt;/h2&gt;
+&lt;h2 id=&#34;frazioni--e--numeri--decimali&#34;&gt;Frazioni  e  numeri  decimali&lt;/h2&gt;
+&lt;h2 id=&#34;proporzioni&#34;&gt;Proporzioni&lt;/h2&gt;
+&lt;h2 id=&#34;percentuali&#34;&gt;percentuali&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--reali&#34;&gt;L’insieme  dei  numeri  reali&lt;/h2&gt;
+&lt;h2 id=&#34;calcolo--approssimato&#34;&gt;Calcolo  approssimato&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Numeri razionali e numeri reali</title>
+      <link>https://jazzmagus.github.io/math2021/courses/math-02/capitolo13/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://jazzmagus.github.io/math2021/courses/math-02/capitolo13/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 ottobre 2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../ex2_img.png&#34; alt=&#34;ex2_img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;capitolo-2-numeri-razionali-e-numeri-reali&#34;&gt;Capitolo 2: Numeri razionali e numeri reali&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&lt;/p&gt;
+&lt;h2 id=&#34;frazioni&#34;&gt;Frazioni&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--razionali&#34;&gt;L’insieme  dei  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;operazioni--con--i--numeri--razionali&#34;&gt;operazioni  con  i  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;potenze-in-mathbbq&#34;&gt;potenze in $\mathbb{Q}$&lt;/h2&gt;
+&lt;h2 id=&#34;frazioni--e--numeri--decimali&#34;&gt;Frazioni  e  numeri  decimali&lt;/h2&gt;
+&lt;h2 id=&#34;proporzioni&#34;&gt;Proporzioni&lt;/h2&gt;
+&lt;h2 id=&#34;percentuali&#34;&gt;percentuali&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--reali&#34;&gt;L’insieme  dei  numeri  reali&lt;/h2&gt;
+&lt;h2 id=&#34;calcolo--approssimato&#34;&gt;Calcolo  approssimato&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Perpendicolarità e parallelismo</title>
+      <link>https://jazzmagus.github.io/math2021/courses/math-02/capitolo14/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://jazzmagus.github.io/math2021/courses/math-02/capitolo14/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 ottobre 2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../ex2_img.png&#34; alt=&#34;ex2_img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;capitolo-2-numeri-razionali-e-numeri-reali&#34;&gt;Capitolo 2: Numeri razionali e numeri reali&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&lt;/p&gt;
+&lt;h2 id=&#34;frazioni&#34;&gt;Frazioni&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--razionali&#34;&gt;L’insieme  dei  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;operazioni--con--i--numeri--razionali&#34;&gt;operazioni  con  i  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;potenze-in-mathbbq&#34;&gt;potenze in $\mathbb{Q}$&lt;/h2&gt;
+&lt;h2 id=&#34;frazioni--e--numeri--decimali&#34;&gt;Frazioni  e  numeri  decimali&lt;/h2&gt;
+&lt;h2 id=&#34;proporzioni&#34;&gt;Proporzioni&lt;/h2&gt;
+&lt;h2 id=&#34;percentuali&#34;&gt;percentuali&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--reali&#34;&gt;L’insieme  dei  numeri  reali&lt;/h2&gt;
+&lt;h2 id=&#34;calcolo--approssimato&#34;&gt;Calcolo  approssimato&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quadrilateri notevoli</title>
+      <link>https://jazzmagus.github.io/math2021/courses/math-02/capitolo15/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://jazzmagus.github.io/math2021/courses/math-02/capitolo15/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 ottobre 2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../ex2_img.png&#34; alt=&#34;ex2_img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;capitolo-2-numeri-razionali-e-numeri-reali&#34;&gt;Capitolo 2: Numeri razionali e numeri reali&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&lt;/p&gt;
+&lt;h2 id=&#34;frazioni&#34;&gt;Frazioni&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--razionali&#34;&gt;L’insieme  dei  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;operazioni--con--i--numeri--razionali&#34;&gt;operazioni  con  i  numeri  razionali&lt;/h2&gt;
+&lt;h2 id=&#34;potenze-in-mathbbq&#34;&gt;potenze in $\mathbb{Q}$&lt;/h2&gt;
+&lt;h2 id=&#34;frazioni--e--numeri--decimali&#34;&gt;Frazioni  e  numeri  decimali&lt;/h2&gt;
+&lt;h2 id=&#34;proporzioni&#34;&gt;Proporzioni&lt;/h2&gt;
+&lt;h2 id=&#34;percentuali&#34;&gt;percentuali&lt;/h2&gt;
+&lt;h2 id=&#34;linsieme--dei--numeri--reali&#34;&gt;L’insieme  dei  numeri  reali&lt;/h2&gt;
+&lt;h2 id=&#34;calcolo--approssimato&#34;&gt;Calcolo  approssimato&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disequazioni lineari</title>
+      <link>https://jazzmagus.github.io/math2021/courses/math-02/capitolo9/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://jazzmagus.github.io/math2021/courses/math-02/capitolo9/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 ottobre 2021&lt;/p&gt;
 &lt;/blockquote&gt;

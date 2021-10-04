@@ -1,6 +1,6 @@
 ---
-title: Numeri razionali e numeri reali
-linktitle: Capitolo 2 numeri Razionali e numeri Reali
+title: Disequazioni lineari
+linktitle: Capitolo 9 | Disequazioni lineari
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -8,7 +8,7 @@ draft: false
 menu:
   math-02:
     parent: 
-    weight: 
+    weight: 20
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 20

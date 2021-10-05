@@ -1,5 +1,5 @@
 ---
-title: Monomi e Polinomi
+title: Frazioni algebriche
 linktitle: Capitolo 7 | Frazioni algebriche
 toc: true
 type: docs
@@ -18,7 +18,7 @@ weight: 70
 
 ![ex2_img](../ex2_img.png)
 
-## Capitolo 5: monomi e polinomi
+## Capitolo 7 | Frazioni algebriche
 
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.
 

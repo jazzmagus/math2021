@@ -447,11 +447,60 @@ $$&lt;/p&gt;
 &lt;h2 id=&#34;divisibilità-e-numeri-primi&#34;&gt;Divisibilità e &amp;ldquo;numeri primi&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;11-multipli-e-divisori&#34;&gt;11. multipli e divisori&lt;/h3&gt;
 &lt;h3 id=&#34;12-criteri-di-divisibilità&#34;&gt;12. criteri di divisibilità&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Divisibilità per 2&lt;/strong&gt;. Un numero è divisibile per 2 se la sua ultima cifra è &lt;strong&gt;pari&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Divisibilità per 3&lt;/strong&gt;. Un numero è divisibile per 3 se la &lt;strong&gt;somma delle sue cifre è divisibile per 3&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Divisibilità per 4&lt;/strong&gt;. Un numero è divisibile per 4 se il numero formato dalle sue ultime due cifre è divisibile per 4 oppure se le sue ultime due cifre sono due zeri.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Divisibilità per 5&lt;/strong&gt;. Un numero è divisibile per 5 se la sua ultima cifra è 0 o 5.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Divisibilità per 9&lt;/strong&gt;. Un numero è divisibile per 9 se la somma delle sue cifre è divisibile per 9.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Divisibilità per 10&lt;/strong&gt;. Un numero è divisibile per 10 se la sua ultima cifra è 0.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Divisibilità per 11&lt;/strong&gt;. Un numero è divisibile per 11 se lo è la differenza tra la somma delle sue cifre di posto dispari (contandole per esempio da destra asinistra), eventualmente aumentata di un multiplo di 11, e la somma delle cifre di posto pari.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Divisibilità per 25&lt;/strong&gt;. Un numero è divisibile per 25 se le sue ultime due cifre sono 00 o 25 o 50 o 75.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;13-scomposizione-in-fattori-primi&#34;&gt;13. scomposizione in fattori primi&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;definizione&lt;/strong&gt;: un numero naturale si dice primo se è &lt;strong&gt;divisibile&lt;/strong&gt; solo per se stesso e per $1$&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Il numero $1$, per convenzione, &lt;em&gt;non&lt;/em&gt; si considera un numero primo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ogni numero naturale, diverso da 0, che non sia primo si può esprimere, in un solo modo, come prodotto di fattori primi.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Scomporre in fattori primi un numero naturale significa determinare tali fattori.&lt;/li&gt;
+&lt;li&gt;Per scomporre un numero in fattori primi si cercano i suoi divisori utilizzando i criteri di divisibilità, partendo dal primo numero della successione dei numeri primi, cioè 2, e procedendo in ordine crescente.&lt;/li&gt;
+&lt;li&gt;Si esegue la divisione del numero dato per il più piccolo numero primo che risulta suo divisore.&lt;/li&gt;
+&lt;li&gt;Si divide il quoziente ottenuto per il suo divisore primo più piccolo e si continua, ripetendo il procedimento, finché il quoziente risulta uguale a 1.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;massimo--comune--divisore--e--minimo--comune--multiplo&#34;&gt;Massimo  comune  divisore  e  minimo  comune  multiplo&lt;/h2&gt;
 &lt;h3 id=&#34;14-massimo-comun-divisore&#34;&gt;14. massimo comun divisore&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;DEFINIZIONE: &lt;strong&gt;MASSIMO COMUNE DIVISORE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Il massimo comune divisore (&lt;strong&gt;MCD&lt;/strong&gt;) di due o più numeri naturali, diversi da zero, è il più grande dei loro divisori comuni.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Per determinare il MCD di due o più numeri naturali&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;si scompongono in fattori primi i numeri dati;&lt;/li&gt;
+&lt;li&gt;si moltiplicano fra loro tutti i fattori primi comuni ai numeri dati, presi una sola volta, ciascuno con l’esponente minore con cui figura.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;NUMERI PRIMI TRA LORO&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Due o più numeri naturali sono primi tra loro (o coprimi) se il loro massimo comune divisore è 1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;h3 id=&#34;15-minimo-comune-multiplo&#34;&gt;15. minimo comune multiplo&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;DEFINIZIONE: &lt;strong&gt;MINIMO COMUNE MULTIPLO&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Il minimo comune multiplo (mcm) di due o più numeri naturali, diversi dazero, è il più piccolo dei loro multipli comuni diversi da zero&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Per determinare ilmcmdi due o piu`numeri naturali&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;si scompongono in fattori primi i numeri dati;&lt;/li&gt;
+&lt;li&gt;si moltiplicano fra loro tutti i fattori primi, &lt;strong&gt;comuni e non comuni&lt;/strong&gt;, dei numeri dati, presi una sola volta, ciascuno con l’esponente maggiore con cui figura.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;sistemi--di--numerazione&#34;&gt;Sistemi  di  numerazione&lt;/h2&gt;
 &lt;h3 id=&#34;16-il-sistema-decimale&#34;&gt;16. il sistema decimale&lt;/h3&gt;
@@ -624,7 +673,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Monomi e Polinomi</title>
+      <title>Frazioni algebriche</title>
       <link>https://jazzmagus.github.io/math2021/courses/math-01/capitolo7/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
@@ -633,7 +682,7 @@ $$&lt;/p&gt;
 &lt;p&gt;☆ &lt;strong&gt;scadenza&lt;/strong&gt;: 30 ottobre 2021&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img src=&#34;../ex2_img.png&#34; alt=&#34;ex2_img&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;capitolo-5-monomi-e-polinomi&#34;&gt;Capitolo 5: monomi e polinomi&lt;/h2&gt;
+&lt;h2 id=&#34;capitolo-7--frazioni-algebriche&#34;&gt;Capitolo 7 | Frazioni algebriche&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.&lt;/p&gt;
 &lt;/blockquote&gt;

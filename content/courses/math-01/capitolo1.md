@@ -341,7 +341,27 @@ $$
 
 ### 12. criteri di divisibilità
 
+- **Divisibilità per 2**. Un numero è divisibile per 2 se la sua ultima cifra è **pari**.
+- **Divisibilità per 3**. Un numero è divisibile per 3 se la **somma delle sue cifre è divisibile per 3**
+- **Divisibilità per 4**. Un numero è divisibile per 4 se il numero formato dalle sue ultime due cifre è divisibile per 4 oppure se le sue ultime due cifre sono due zeri.
+- **Divisibilità per 5**. Un numero è divisibile per 5 se la sua ultima cifra è 0 o 5.
+- **Divisibilità per 9**. Un numero è divisibile per 9 se la somma delle sue cifre è divisibile per 9.
+- **Divisibilità per 10**. Un numero è divisibile per 10 se la sua ultima cifra è 0.
+- **Divisibilità per 11**. Un numero è divisibile per 11 se lo è la differenza tra la somma delle sue cifre di posto dispari (contandole per esempio da destra asinistra), eventualmente aumentata di un multiplo di 11, e la somma delle cifre di posto pari.
+- **Divisibilità per 25**. Un numero è divisibile per 25 se le sue ultime due cifre sono 00 o 25 o 50 o 75.
+
 ### 13. scomposizione in fattori primi
+
+> **definizione**: un numero naturale si dice primo se è **divisibile** solo per se stesso e per $1$
+>
+> - Il numero $1$, per convenzione, *non* si considera un numero primo.
+>
+> Ogni numero naturale, diverso da 0, che non sia primo si può esprimere, in un solo modo, come prodotto di fattori primi.
+>
+> - Scomporre in fattori primi un numero naturale significa determinare tali fattori.
+> - Per scomporre un numero in fattori primi si cercano i suoi divisori utilizzando i criteri di divisibilità, partendo dal primo numero della successione dei numeri primi, cioè 2, e procedendo in ordine crescente.
+> - Si esegue la divisione del numero dato per il più piccolo numero primo che risulta suo divisore.
+> - Si divide il quoziente ottenuto per il suo divisore primo più piccolo e si continua, ripetendo il procedimento, finché il quoziente risulta uguale a 1.
 
 ---
 
@@ -349,7 +369,29 @@ $$
 
 ### 14. massimo comun divisore
 
+> DEFINIZIONE: **MASSIMO COMUNE DIVISORE**
+>
+> - Il massimo comune divisore (**MCD**) di due o più numeri naturali, diversi da zero, è il più grande dei loro divisori comuni.
+
+Per determinare il MCD di due o più numeri naturali
+
+1. si scompongono in fattori primi i numeri dati;
+2. si moltiplicano fra loro tutti i fattori primi comuni ai numeri dati, presi una sola volta, ciascuno con l’esponente minore con cui figura.
+
+> **NUMERI PRIMI TRA LORO**
+>
+>- Due o più numeri naturali sono primi tra loro (o coprimi) se il loro massimo comune divisore è 1
+
 ### 15. minimo comune multiplo
+
+> DEFINIZIONE: **MINIMO COMUNE MULTIPLO**
+>
+> Il minimo comune multiplo (mcm) di due o più numeri naturali, diversi dazero, è il più piccolo dei loro multipli comuni diversi da zero
+
+Per determinare ilmcmdi due o piu`numeri naturali
+
+1. si scompongono in fattori primi i numeri dati;
+2. si moltiplicano fra loro tutti i fattori primi, **comuni e non comuni**, dei numeri dati, presi una sola volta, ciascuno con l’esponente maggiore con cui figura.
 
 ---
 

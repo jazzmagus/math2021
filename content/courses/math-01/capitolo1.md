@@ -367,7 +367,7 @@ $$
 
 ## Massimo  comune  divisore  e  minimo  comune  multiplo
 
-### 14. massimo comun divisore
+### 14. massimo comun divisore MCD
 
 > DEFINIZIONE: **MASSIMO COMUNE DIVISORE**
 >
@@ -382,13 +382,13 @@ Per determinare il MCD di due o più numeri naturali
 >
 >- Due o più numeri naturali sono primi tra loro (o coprimi) se il loro massimo comune divisore è 1
 
-### 15. minimo comune multiplo
+### 15. minimo comune multiplo *mcm*
 
 > DEFINIZIONE: **MINIMO COMUNE MULTIPLO**
 >
 > Il minimo comune multiplo (mcm) di due o più numeri naturali, diversi dazero, è il più piccolo dei loro multipli comuni diversi da zero
 
-Per determinare ilmcmdi due o piu`numeri naturali
+Per determinare il mcm di due o più numeri naturali
 
 1. si scompongono in fattori primi i numeri dati;
 2. si moltiplicano fra loro tutti i fattori primi, **comuni e non comuni**, dei numeri dati, presi una sola volta, ciascuno con l’esponente maggiore con cui figura.
@@ -417,14 +417,28 @@ Per determinare ilmcmdi due o piu`numeri naturali
 
 ## 18. I numeri interi relativi
 
+#### valore assoluto e numeri opposti
+
+##### DEFINIZIONI:
+
+- **VALORE ASSOLUTO DI UN NUMERO INTERO RELATIVO**: Il valore assoluto o modulo di un numero intero relativo, positivo o negativo, è il numero stesso privato del suo segno
+
+- **NUMERI OPPOSTI**: Due numeri interi relativi con lo stesso valore assoluto e con segni diversi sono opposti
+
+---
+
+### 19. Rappresentazione dei numeri interi relativi su una retta orientata
+
 ## Le quattro operazioni aritmetiche con i numeri interi relativi
 
-- ## addizione
+- ### 23. addizione
 
-- ## sottrazione
+- ### 24. sottrazione
 
-- ## moltiplicazione
+- ### 25. moltiplicazione
 
-- ## divisione
+- ### 26. divisione
 
-## Potenza  di  un  numero  intero  relativo
+## Potenza di un numero intero relativo
+
+### Le Potenze nell'insieme dei numeri interi relativi

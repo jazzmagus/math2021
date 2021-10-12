@@ -7,10 +7,31 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>it</language>
     <copyright>Copyright &amp;copy; JaZzMaGuS {year}</copyright>
-    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://jazzmagus.github.io/math2021/tags/2021/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Piano Estate - fase 3</title>
+      <link>https://jazzmagus.github.io/math2021/post/piano_estate_fase3/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jazzmagus.github.io/math2021/post/piano_estate_fase3/</guid>
+      <description>&lt;h1 id=&#34;la-fattorizzazione-polinomiale&#34;&gt;La Fattorizzazione polinomiale&lt;/h1&gt;
+&lt;h3 id=&#34;importanza-del-calcolo-letterale&#34;&gt;importanza del calcolo letterale&lt;/h3&gt;
+&lt;h2 id=&#34;introduzione&#34;&gt;introduzione&lt;/h2&gt;
+&lt;h2 id=&#34;metodi-di-fattorizzazione&#34;&gt;metodi di fattorizzazione&lt;/h2&gt;
+&lt;h3 id=&#34;raccoglimento-a-fattor-comune-totale&#34;&gt;raccoglimento a fattor comune totale&lt;/h3&gt;
+&lt;h3 id=&#34;raccoglimento-a-fattor-comune-totale-1&#34;&gt;raccoglimento a fattor comune totale&lt;/h3&gt;
+&lt;h3 id=&#34;prodotti-notevoli&#34;&gt;prodotti notevoli&lt;/h3&gt;
+&lt;h3 id=&#34;trinomio-notevole-di-secondo-grado&#34;&gt;trinomio notevole di secondo grado&lt;/h3&gt;
+&lt;h3 id=&#34;teorema-del-resto&#34;&gt;teorema del Resto&lt;/h3&gt;
+&lt;h3 id=&#34;regola-e-teorema-di-ruffini&#34;&gt;regola e teorema di Ruffini&lt;/h3&gt;
+&lt;h3 id=&#34;divisione-polinomiale&#34;&gt;divisione polinomiale&lt;/h3&gt;
+&lt;h2 id=&#34;esercitazioni&#34;&gt;esercitazioni&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>La Memoria umana in gigabytes</title>

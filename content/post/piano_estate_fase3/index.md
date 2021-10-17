@@ -67,6 +67,20 @@ gallery_item:
 
 ### prodotti notevoli
 
+> ref.: [ripasso prodotti notevoli](prodotti_notevoli.pdf)
+
+### Trinomio Notevole - di secondo grado
+
+> Si tratta semplicemente di un **trinomio di secondo grado, completo**, con una caratteristica che lo rende *particolare* - infatti viene chiamato anche **trinomio particolare** 
+>
+> - Si presenta nella forma seguente:
+> $$x^2 + sx+p$$
+> - in cui le lettere $s$ e $p$, stanno ad indicare  
+
+### Regola di Ruffini
+
+### Divisione polinomiale
+
 ### trinomio notevole di secondo grado
 
 ### teorema del Resto
@@ -76,3 +90,8 @@ gallery_item:
 ### divisione polinomiale
 
 ## esercitazioni
+
+> **esercizio**:
+> Fattorizza i seguenti polinomi utilizzando il metodo che ritieni più appropriato:
+>
+> - $$81x^2 -36x + 4$$

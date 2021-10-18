@@ -55,7 +55,18 @@ gallery_item:
 
 # La Fattorizzazione polinomiale
 
+---
+
+### *"Non esiste vento favorevole per il marinaio che non sa dove andare"*
+
+##### - Lucio Anneo Seneca
+
+---
+
 ### importanza del calcolo letterale
+
+- perché si usano le lettere in matematica?
+- a cosa servono?
 
 ## introduzione
 

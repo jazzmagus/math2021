@@ -77,21 +77,24 @@ gallery_item:
 > $$x^2 + sx+p$$
 > - in cui le lettere $s$ e $p$, stanno ad indicare  
 
-### Regola di Ruffini
-
 ### Divisione polinomiale
+
+### Regola di Ruffini
 
 ### trinomio notevole di secondo grado
 
 ### teorema del Resto
 
-### regola e teorema di Ruffini
-
-### divisione polinomiale
+### teorema di Ruffini
 
 ## esercitazioni
 
-> **esercizio**:
-> Fattorizza i seguenti polinomi utilizzando il metodo che ritieni più appropriato:
+>**esercizio n.1**
 >
-> - $$81x^2 -36x + 4$$
+>- Fattorizza i seguenti polinomi utilizzando il metodo che ritieni più appropriato:
+>
+>| polinomio | metodo di fattorizzazione | risultato|
+|:---|:---:|---:|
+|$81x^2 -36x + 4$| prodotti notevoli| $(9x-2)^2$|
+|$81x^2 -36x + 4$| prodotti notevoli| $(9x-2)^2$|
+|$81x^2 -36x + 4$| prodotti notevoli| $(9x-2)^2$|

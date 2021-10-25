@@ -56,8 +56,6 @@ weight: 50
 
 > La somma algebrica comprende anche la "sottrazione", che nel Calcolo Letterale viene interpretata come una **somma algebrica** con l'**opposto** del polinomio da sottrarre.
 
-## prodotto di polinomi
-
 ## prodotto di un monomio per un polinomio
 
 - Si esegue moltiplicando il monomio per ognuno dei termini del polinomio, sommando algebricamente i monomi risultanti
@@ -70,9 +68,7 @@ weight: 50
 
 ## Prodotti Notevoli
 
-## Divisione Tra polinomi
-
-## Fattorizzazione polinomiale
+## Divisione ra polinomi
 
 ## esempi
 

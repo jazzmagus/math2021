@@ -1,5 +1,5 @@
 ---
-title: Fattorizzazione
+title: Fattorizzazione Polinomiale
 linktitle: Capitolo 6 | Fattorizzazione polinomiale
 toc: true
 type: docs
@@ -18,26 +18,52 @@ weight: 60
 
 ![ex2_img](../ex2_img.png)
 
-## Capitolo 5: monomi e polinomi
+---
 
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.
+>### *"Non esiste vento favorevole per il marinaio che non sa dove andare"*
+>
+>#### - Lucio Anneo Seneca
 
-Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+---
 
-## Frazioni
+## introduzione
 
-## L’insieme  dei  numeri  razionali
+## metodi di fattorizzazione
 
-## operazioni  con  i  numeri  razionali
+### raccoglimento a fattor comune totale
 
-## potenze in $\mathbb{Q}$
+### raccoglimento a fattor comune parziale
 
-## Frazioni  e  numeri  decimali
+### prodotti notevoli
 
-## Proporzioni
+> ref.: [ripasso prodotti notevoli](prodotti_notevoli.pdf)
 
-## percentuali
+### Trinomio Notevole - di secondo grado
 
-## L’insieme  dei  numeri  reali
+> Si tratta semplicemente di un **trinomio di secondo grado, completo**, con una caratteristica che lo rende *particolare* - infatti viene chiamato anche **trinomio particolare**
+>
+> - Si presenta nella forma seguente:
+> $$x^2 + sx+p$$
+> - in cui le lettere $s$ e $p$, stanno ad indicare  
 
-## Calcolo  approssimato
+### Divisione polinomiale
+
+### Regola di Ruffini
+
+### trinomio notevole di secondo grado
+
+### teorema del Resto
+
+### teorema di Ruffini
+
+## esercitazioni
+
+>**esercizio n.1**
+>
+>- Fattorizza i seguenti polinomi utilizzando il metodo che ritieni più appropriato:
+>
+>| polinomio | metodo di fattorizzazione | risultato|
+|:---|:---:|---:|
+|$81x^2 -36x + 4$| prodotti notevoli| $(9x-2)^2$|
+|$81x^2 -36x + 4$| prodotti notevoli| $(9x-2)^2$|
+|$81x^2 -36x + 4$| prodotti notevoli| $(9x-2)^2$|

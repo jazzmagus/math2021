@@ -53,13 +53,13 @@ gallery_item:
   image: theme-strawberry.png
 ---
 
-# La Fattorizzazione polinomiale
+## La Fattorizzazione polinomiale
 
 ---
 
-### *"Non esiste vento favorevole per il marinaio che non sa dove andare"*
-
-##### - Lucio Anneo Seneca
+>### *"Non esiste vento favorevole per il marinaio che non sa dove andare"*
+>
+>#### - Lucio Anneo Seneca
 
 ---
 
@@ -74,7 +74,7 @@ gallery_item:
 
 ### raccoglimento a fattor comune totale
 
-### raccoglimento a fattor comune totale
+### raccoglimento a fattor comune parziale
 
 ### prodotti notevoli
 
@@ -82,7 +82,7 @@ gallery_item:
 
 ### Trinomio Notevole - di secondo grado
 
-> Si tratta semplicemente di un **trinomio di secondo grado, completo**, con una caratteristica che lo rende *particolare* - infatti viene chiamato anche **trinomio particolare** 
+> Si tratta semplicemente di un **trinomio di secondo grado, completo**, con una caratteristica che lo rende *particolare* - infatti viene chiamato anche **trinomio particolare**
 >
 > - Si presenta nella forma seguente:
 > $$x^2 + sx+p$$
